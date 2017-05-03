@@ -62,6 +62,8 @@ section.intro,section.panel{
   padding-bottom: 250px;
 }
 section.intro{
+  background-image: url(../img/bkg-pg.jpg);
+  background-size: cover;
   z-index: 100;
   .title{
     color: #FFE000;

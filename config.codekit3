@@ -213,15 +213,14 @@
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
-	"\/img\/bkg-pg.png": {
-		"ft": 32768,
-		"iS": 110562,
+	"\/img\/bkg-pg.jpg": {
+		"ft": 16384,
+		"iS": 6241150,
 		"oA": 0,
-		"oAP": "\/img\/bkg-pg.png",
+		"oAP": "\/img\/bkg-pg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/logo.png": {
