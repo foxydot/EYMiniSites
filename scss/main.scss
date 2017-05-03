@@ -148,12 +148,39 @@ section.panel{
         animation-delay: 0.5s;
       }
     }
-    .b{
+    .b {
       animation-delay: 1s;
+    }
+    .c{
+      ul{
+        background: transparent;
+        li{
+          opacity: 0;
+          animation-duration: 2s;
+          animation-name: slideInRight;
+          animation-fill-mode: forwards;
+        }
+        li:nth-child(1){animation-delay: 1s;}
+        li:nth-child(2){animation-delay: 1.5s;}
+        li:nth-child(3){animation-delay: 2s;}
+        li:nth-child(4){animation-delay: 2.5s;}
+        li:nth-child(5){animation-delay: 3s;}
+      }
     }
     .interstitial{
       animation-delay: 1.5s;
-
+      .button{
+        display: inline-block;
+        opacity: 1;
+        border: 2px solid $yellow;
+        border-radius: 0.5em;
+        padding: 1em;
+        animation-name: zoomIn;
+      }
+      .button-replacement{
+        display: none;
+        opacity: 0;
+      }
     }
   }
 }

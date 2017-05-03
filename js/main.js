@@ -36,6 +36,10 @@ $(function () { // wait for document ready
                 $('.oldone').remove();
             });
         }
+        if($(this).next('div').hasClass('button-replacement')){
+            $(this).next('div').removeClass('button-replacement').addClass('button');
+            $(this).remove();
+        }
     });
     $('.panel .carousel').carousel({
         interval: false
