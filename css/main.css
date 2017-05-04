@@ -183,6 +183,10 @@ section.panel.risk-based-customer .item.demo .animate .block {
   padding: 2em 0; }
   section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
     padding: 2em; }
+section.panel.risk-based-customer .item.tools .animate .block {
+  background: rgba(255, 255, 255, 0.2);
+  margin: 2em auto;
+  padding: 2em; }
 
 footer {
   background: #2E2F2F;

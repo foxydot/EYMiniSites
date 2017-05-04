@@ -215,6 +215,15 @@ section.panel{
         }
       }
     }
+    .item.tools {
+      .animate {
+        .block {
+          background: rgba($white, 0.2);
+          margin: 2em auto;
+          padding: 2em;
+        }
+      }
+    }
   }
 }
 footer{
