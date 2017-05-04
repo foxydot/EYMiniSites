@@ -213,11 +213,51 @@
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
+	"\/img\/bkg-pg-1.jpg": {
+		"ft": 16384,
+		"iS": 147085,
+		"oA": 0,
+		"oAP": "\/img\/bkg-pg-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bkg-pg.jpg": {
 		"ft": 16384,
 		"iS": 6241150,
 		"oA": 0,
 		"oAP": "\/img\/bkg-pg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-anne.jpg": {
+		"ft": 16384,
+		"iS": 30478,
+		"oA": 0,
+		"oAP": "\/img\/headshot-anne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-mary.jpg": {
+		"ft": 16384,
+		"iS": 30326,
+		"oA": 0,
+		"oAP": "\/img\/headshot-mary.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-rick.jpg": {
+		"ft": 16384,
+		"iS": 30390,
+		"oA": 0,
+		"oAP": "\/img\/headshot-rick.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

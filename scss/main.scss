@@ -4,8 +4,9 @@
 
 @import "compass/css3";
 
-$yellow: #FFE000;
+$yellow: #ffe600;
 $white: #FFFFFF;
+$gray50: #6D6E71;
 $black: #111111;
 
 .bkg-yellow{
@@ -25,6 +26,18 @@ $black: #111111;
 }
 .bkg-white50{
   background: rgba($white,0.5);
+}
+.bkg-white60{
+  background: rgba($white,0.6);
+}
+.bkg-white70{
+  background: rgba($white,0.7);
+}
+.bkg-white80{
+  background: rgba($white,0.8);
+}
+.bkg-white90{
+  background: rgba($white,0.9);
 }
 
 body, section.intro, section.panel{
@@ -67,7 +80,7 @@ section.intro,section.panel{
   padding-bottom: 250px;
 }
 section.intro{
-  background-image: url(../img/bkg-pg.jpg);
+  background-image: url(../img/bkg-pg-1.jpg);
   background-size: cover;
   z-index: 100;
   .title{
@@ -78,7 +91,7 @@ section.intro{
     font-size: 1.2em;
   }
   .subscreen-option{
-    background: #6D6E71;
+    background: rgba($gray50,0.9);
     padding: 1em;
     margin-top: 2em;
     display: block;
@@ -86,7 +99,7 @@ section.intro{
     min-height: 215px;
     &:hover{
       text-decoration: none;
-      background-color: rgba(#6D6E71,0.9);
+      background-color: rgba(#6D6E71,0.7);
     }
   }
 }
@@ -182,17 +195,40 @@ section.panel{
         border-radius: 0.5em;
         padding: 1em;
         animation-duration: 1s;
+        font-weight: 700;
         color: $yellow;
         &:hover,&:active,&:visited{
           color: $yellow;
         }
       }
       .button-replacement{
+        font-size: 1.6em;
         display: none;
         opacity: 0;
         animation-duration: 1s;
       }
+      .not-button{
+        display: inline-block;
+        opacity: 1;
+        padding: 1em;
+        animation-duration: 1s;
+        font-weight: 700;
+        color: $yellow;
+      }
     }
+  }
+  .human-headshot,.human-name,.human-job-title{
+    text-align: center;
+    color: $black;
+  }
+  .human-name{
+    font-weight: 700;
+  }
+  .human-job-title{
+    margin-bottom: 0;
+  }
+  .human-headshot{
+    width: 100%;
   }
   &.risk-based-customer{
     .item.qa {
@@ -201,6 +237,21 @@ section.panel{
           background: rgba($white, 0.2);
           margin: 2em auto;
           padding: 2em;
+          .a{
+            dl{
+              margin-bottom: 0;
+            }
+            dt{
+              font-size: 1.4em;
+              font-weight: 700;
+            }
+            dd{
+              font-size: 1.4em;
+            }
+          }
+          .b{
+            text-align: center;
+          }
         }
       }
     }
@@ -209,14 +260,17 @@ section.panel{
         .block {
           margin: 2em auto;
           padding: 2em 0;
+          display: flex;
           .a,.c{
             padding: 2em;
+            display: block;
           }
         }
       }
     }
     .item.tools {
       .animate {
+        display: flex;
         .block {
           background: rgba($white, 0.2);
           margin: 2em auto;
@@ -225,6 +279,10 @@ section.panel{
       }
     }
   }
+}
+section.panel.risk-based-customer.bkgimg{
+  background-image: url('../img/bkg-pg.jpg');
+  background-size: cover;
 }
 footer{
   background: #2E2F2F;

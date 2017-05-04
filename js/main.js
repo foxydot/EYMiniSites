@@ -1,21 +1,21 @@
-$(function () { // wait for document ready
-    function whichAnimationEvent(){
-        var t,
-            el = document.createElement("fakeelement");
+function whichAnimationEvent(){
+    var t,
+        el = document.createElement("fakeelement");
 
-        var animations = {
-            "animation"      : "animationend",
-            "OAnimation"     : "oAnimationEnd",
-            "MozAnimation"   : "animationend",
-            "WebkitAnimation": "webkitAnimationEnd"
-        };
+    var animations = {
+        "animation"      : "animationend",
+        "OAnimation"     : "oAnimationEnd",
+        "MozAnimation"   : "animationend",
+        "WebkitAnimation": "webkitAnimationEnd"
+    };
 
-        for (t in animations){
-            if (el.style[t] !== undefined){
-                return animations[t];
-            }
+    for (t in animations){
+        if (el.style[t] !== undefined){
+            return animations[t];
         }
     }
+}
+$(function () { // wait for document ready
     if(window.location.hash){
         $('.panel').css('z-index',0);
         $(window.location.hash).css('z-index',300);
@@ -53,11 +53,16 @@ $(function () { // wait for document ready
                 animate.addClass('oldone');
                 animate.before(newone);
                 $('.oldone').remove();
+                /*if($(this).find('.active').is(':nth-child(2)')){
+                    slideshow.parents('.panel').addClass('bkgimg');
+                } else {
+                    slideshow.parents('.panel').removeClass('bkgimg');
+                }*/
             });
         }
         if($(this).next('div').hasClass('button-replacement')){
             $(this).addClass('flipOutX');
-            $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('button');
+            $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('not-button');
             $(this).remove();
         }
     });

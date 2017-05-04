@@ -2,7 +2,7 @@
    Author's custom styles
    ========================================================================== */
 .bkg-yellow {
-  background: #FFE000; }
+  background: #ffe600; }
 
 .bkg-white10 {
   background: rgba(255, 255, 255, 0.1); }
@@ -19,6 +19,18 @@
 .bkg-white50 {
   background: rgba(255, 255, 255, 0.5); }
 
+.bkg-white60 {
+  background: rgba(255, 255, 255, 0.6); }
+
+.bkg-white70 {
+  background: rgba(255, 255, 255, 0.7); }
+
+.bkg-white80 {
+  background: rgba(255, 255, 255, 0.8); }
+
+.bkg-white90 {
+  background: rgba(255, 255, 255, 0.9); }
+
 body, section.intro, section.panel {
   background: #464646;
   color: #ffffff;
@@ -33,10 +45,10 @@ body, section.intro, section.panel {
     clear: both; }
 
 a {
-  color: #FFE000; }
+  color: #ffe600; }
   a:hover {
     text-decoration: none;
-    color: #FFE000; }
+    color: #ffe600; }
 
 main {
   width: 100%; }
@@ -57,7 +69,7 @@ section.intro, section.panel {
   padding-bottom: 250px; }
 
 section.intro {
-  background-image: url(../img/bkg-pg.jpg);
+  background-image: url(../img/bkg-pg-1.jpg);
   background-size: cover;
   z-index: 100; }
   section.intro .title {
@@ -66,7 +78,7 @@ section.intro {
   section.intro p {
     font-size: 1.2em; }
   section.intro .subscreen-option {
-    background: #6D6E71;
+    background: rgba(109, 110, 113, 0.9);
     padding: 1em;
     margin-top: 2em;
     display: block;
@@ -74,10 +86,10 @@ section.intro {
     min-height: 215px; }
     section.intro .subscreen-option:hover {
       text-decoration: none;
-      background-color: rgba(109, 110, 113, 0.9); }
+      background-color: rgba(109, 110, 113, 0.7); }
 
 section.panel .tagline {
-  background: #FFE000;
+  background: #ffe600;
   color: #111111;
   padding: 1em;
   margin-top: 2em; }
@@ -163,34 +175,66 @@ section.panel .animate {
     section.panel .animate .interstitial .button {
       display: inline-block;
       opacity: 1;
-      border: 2px solid #FFE000;
+      border: 2px solid #ffe600;
       border-radius: 0.5em;
       padding: 1em;
       animation-duration: 1s;
-      color: #FFE000; }
+      font-weight: 700;
+      color: #ffe600; }
       section.panel .animate .interstitial .button:hover, section.panel .animate .interstitial .button:active, section.panel .animate .interstitial .button:visited {
-        color: #FFE000; }
+        color: #ffe600; }
     section.panel .animate .interstitial .button-replacement {
       display: none;
       opacity: 0;
       animation-duration: 1s; }
+    section.panel .animate .interstitial .not-button {
+      display: inline-block;
+      opacity: 1;
+      padding: 1em;
+      animation-duration: 1s;
+      font-weight: 700;
+      color: #ffe600; }
+section.panel .human-headshot, section.panel .human-name, section.panel .human-job-title {
+  text-align: center;
+  color: #111111; }
+section.panel .human-name {
+  font-weight: 700; }
+section.panel .human-job-title {
+  margin-bottom: 0; }
+section.panel .human-headshot {
+  width: 100%; }
 section.panel.risk-based-customer .item.qa .animate .block {
   background: rgba(255, 255, 255, 0.2);
   margin: 2em auto;
   padding: 2em; }
+  section.panel.risk-based-customer .item.qa .animate .block .a dl {
+    margin-bottom: 0; }
+  section.panel.risk-based-customer .item.qa .animate .block .a dt {
+    font-size: 1.4em;
+    font-weight: 700; }
+  section.panel.risk-based-customer .item.qa .animate .block .a dd {
+    font-size: 1.4em; }
+  section.panel.risk-based-customer .item.qa .animate .block .b {
+    text-align: center; }
 section.panel.risk-based-customer .item.demo .animate .block {
   margin: 2em auto;
-  padding: 2em 0; }
+  padding: 2em 0;
+  display: flex; }
   section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
-    padding: 2em; }
+    padding: 2em;
+    display: block; }
 section.panel.risk-based-customer .item.tools .animate .block {
   background: rgba(255, 255, 255, 0.2);
   margin: 2em auto;
   padding: 2em; }
 
+section.panel.risk-based-customer.bkgimg {
+  background-image: url("../img/bkg-pg.jpg");
+  background-size: cover; }
+
 footer {
   background: #2E2F2F;
-  color: #FFE000;
+  color: #ffe600;
   position: fixed;
   display: block;
   width: 100%;
@@ -199,11 +243,11 @@ footer {
   right: 0;
   z-index: 1000; }
   footer .cta {
-    border: 1px solid #FFE000;
+    border: 1px solid #ffe600;
     padding: 1em;
     margin: 1em;
     display: block;
-    color: #FFE000;
+    color: #ffe600;
     cursor: pointer; }
     footer .cta:hover {
       text-decoration: none;
