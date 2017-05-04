@@ -3,7 +3,8 @@ $(function () { // wait for document ready
         $('.panel').css('z-index',0);
         $(window.location.hash).css('z-index',300);
     }
-    $('.subscreen-option').click(function(){
+    $('.subscreen-option').click(function(e){
+        e.preventDefault();
         var target = $(this).attr('href');
         $('.panel').css('z-index',0);
         $(target).css('z-index',300);
@@ -15,7 +16,8 @@ $(function () { // wait for document ready
             $('.oldone').remove();
         });
     });
-    $('.interstitial a').click(function(){
+    $('.interstitial a').click(function(e){
+        e.preventDefault();
         var target = $(this).attr('href');
         if($(target).hasClass('animate')){
             var animate = $(target);
@@ -37,7 +39,8 @@ $(function () { // wait for document ready
             });
         }
         if($(this).next('div').hasClass('button-replacement')){
-            $(this).next('div').removeClass('button-replacement').addClass('button');
+            $(this).addClass('flipOutX');
+            $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('button');
             $(this).remove();
         }
     });

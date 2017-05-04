@@ -27,6 +27,10 @@ body, section.intro, section.panel {
 .wrap {
   max-width: 1000px;
   margin: 0 auto; }
+  .wrap:after {
+    content: "";
+    display: table;
+    clear: both; }
 
 a {
   color: #FFE000; }
@@ -35,7 +39,6 @@ a {
     color: #FFE000; }
 
 main {
-  height: 100%;
   width: 100%; }
 
 .logo {
@@ -45,6 +48,7 @@ section.intro, section.panel {
   position: absolute;
   height: 100%;
   width: 100%;
+  overflow: scroll;
   top: 0;
   left: 0;
   right: 0;
@@ -116,17 +120,13 @@ section.panel .animate {
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
   opacity: 0; }
-  section.panel .animate .block {
-    background: rgba(255, 255, 255, 0.2);
-    margin: 2em auto;
-    padding: 2em; }
   section.panel .animate.business-problem {
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
     -webkit-transition-duration: 1s;
     transition-duration: 1s;
     opacity: 1; }
-  section.panel .animate .a dt, section.panel .animate .a dd, section.panel .animate .b, section.panel .animate .interstitial {
+  section.panel .animate .a dt, section.panel .animate .a dd, section.panel .animate .b {
     opacity: 0;
     animation-duration: 2s;
     animation-name: slideInRight;
@@ -155,26 +155,45 @@ section.panel .animate {
     section.panel .animate .c ul li:nth-child(5) {
       animation-delay: 3s; }
   section.panel .animate .interstitial {
-    animation-delay: 1.5s; }
+    opacity: 0;
+    animation-duration: 1s;
+    animation-name: zoomIn;
+    animation-delay: 3s;
+    animation-fill-mode: forwards; }
     section.panel .animate .interstitial .button {
       display: inline-block;
       opacity: 1;
       border: 2px solid #FFE000;
       border-radius: 0.5em;
       padding: 1em;
-      animation-name: zoomIn; }
+      animation-duration: 1s;
+      color: #FFE000; }
+      section.panel .animate .interstitial .button:hover, section.panel .animate .interstitial .button:active, section.panel .animate .interstitial .button:visited {
+        color: #FFE000; }
     section.panel .animate .interstitial .button-replacement {
       display: none;
-      opacity: 0; }
+      opacity: 0;
+      animation-duration: 1s; }
+section.panel.risk-based-customer .item.qa .animate .block {
+  background: rgba(255, 255, 255, 0.2);
+  margin: 2em auto;
+  padding: 2em; }
+section.panel.risk-based-customer .item.demo .animate .block {
+  margin: 2em auto;
+  padding: 2em 0; }
+  section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
+    padding: 2em; }
 
 footer {
   background: #2E2F2F;
   color: #FFE000;
   position: fixed;
+  display: block;
   width: 100%;
   bottom: 0;
   left: 0;
-  right: 0; }
+  right: 0;
+  z-index: 1000; }
   footer .cta {
     border: 1px solid #FFE000;
     padding: 1em;
@@ -966,6 +985,8 @@ footer {
     opacity: 0;
     transform: scale3d(0.3, 0.3, 0.3); }
   50% {
+    opacity: 1; }
+  100% {
     opacity: 1; } }
 .zoomIn {
   animation-name: zoomIn; }

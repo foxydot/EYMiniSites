@@ -35,6 +35,11 @@ body, section.intro, section.panel{
 .wrap{
   max-width: 1000px;
   margin: 0 auto;
+  &:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 a{
   color: $yellow;
@@ -44,7 +49,6 @@ a{
   }
 }
 main{
-  height: 100%;
   width: 100%;
 }
 .logo{
@@ -54,6 +58,7 @@ section.intro,section.panel{
   position: absolute;
   height: 100%;
   width: 100%;
+  overflow: scroll;
   top: 0;
   left: 0;
   right: 0;
@@ -127,16 +132,11 @@ section.panel{
     @include transition-duration(1s);
     @include transition-timing-function(ease-in);
     opacity: 0;
-    .block{
-      background: rgba($white,0.2);
-      margin: 2em auto;
-      padding: 2em;
-    }
     &.business-problem{
       @include transition-duration(1s);
       opacity: 1;
     }
-    .a dt,.a dd,.b,.interstitial{
+    .a dt,.a dd,.b{
       opacity: 0;
       animation-duration: 2s;
       animation-name: slideInRight;
@@ -170,18 +170,49 @@ section.panel{
       }
     }
     .interstitial{
-      animation-delay: 1.5s;
+      opacity: 0;
+      animation-duration: 1s;
+      animation-name: zoomIn;
+      animation-delay: 3s;
+      animation-fill-mode: forwards;
       .button{
         display: inline-block;
         opacity: 1;
         border: 2px solid $yellow;
         border-radius: 0.5em;
         padding: 1em;
-        animation-name: zoomIn;
+        animation-duration: 1s;
+        color: $yellow;
+        &:hover,&:active,&:visited{
+          color: $yellow;
+        }
       }
       .button-replacement{
         display: none;
         opacity: 0;
+        animation-duration: 1s;
+      }
+    }
+  }
+  &.risk-based-customer{
+    .item.qa {
+      .animate {
+        .block {
+          background: rgba($white, 0.2);
+          margin: 2em auto;
+          padding: 2em;
+        }
+      }
+    }
+    .item.demo {
+      .animate {
+        .block {
+          margin: 2em auto;
+          padding: 2em 0;
+          .a,.c{
+            padding: 2em;
+          }
+        }
       }
     }
   }
@@ -190,11 +221,12 @@ footer{
   background: #2E2F2F;
   color: $yellow;
   position: fixed;
+  display: block;
   width: 100%;
   bottom: 0;
   left: 0;
   right: 0;
-  //z-index: 1000;
+  z-index: 1000;
   .cta{
     border: 1px solid $yellow;
     padding: 1em;
@@ -1496,6 +1528,10 @@ footer{
   }
 
   50% {
+    opacity: 1;
+  }
+
+  100% {
     opacity: 1;
   }
 }
