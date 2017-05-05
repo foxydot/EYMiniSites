@@ -40,7 +40,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 131072,
+		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -280,11 +280,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/icon-people.png": {
+		"ft": 32768,
+		"iS": 1933,
+		"oA": 0,
+		"oAP": "\/img\/icon-people.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/icon-security.png": {
+		"ft": 32768,
+		"iS": 2927,
+		"oA": 0,
+		"oAP": "\/img\/icon-security.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/icon-strategy.png": {
 		"ft": 32768,
 		"iS": 2301,
 		"oA": 0,
 		"oAP": "\/img\/icon-strategy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/icon-tools.png": {
+		"ft": 32768,
+		"iS": 1731,
+		"oA": 0,
+		"oAP": "\/img\/icon-tools.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -310,6 +343,39 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/mary-1-a.png": {
+		"ft": 32768,
+		"iS": 54596,
+		"oA": 0,
+		"oAP": "\/img\/mary-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/mary-1-b.png": {
+		"ft": 32768,
+		"iS": 22413,
+		"oA": 0,
+		"oAP": "\/img\/mary-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/mary-1-c.png": {
+		"ft": 32768,
+		"iS": 13944,
+		"oA": 0,
+		"oAP": "\/img\/mary-1-c.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},

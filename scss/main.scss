@@ -295,6 +295,56 @@ section.panel{
             padding: 2em;
             display: block;
           }
+          .c{
+            display: flex;
+            .animate-icons{
+              overflow: hidden;
+              position: relative;
+              img{
+                animation-duration: 2s;
+                animation-fill-mode: forwards;
+              }
+            }
+          }
+        }
+      }
+      #mary-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              img{
+                position: absolute;
+              }
+              img.mary-1-a{
+                opacity: 0;
+                top: 1.5em;
+                left: 2em;
+                animation-delay: 1s;
+                animation-name: zoomIn;
+              }
+              img.mary-1-b{
+                opacity: 0;
+                bottom: 0;
+                right: 1em;
+                animation-delay: 1.5s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.mary-1-c{
+                opacity: 0;
+                bottom: 0;
+                right: 0;
+                animation-delay: 2s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
         }
       }
     }
@@ -1807,10 +1857,12 @@ footer{
   from {
     transform: translate3d(0, -100%, 0);
     visibility: visible;
+    opacity: 0;
   }
 
   to {
     transform: translate3d(0, 0, 0);
+    opacity: 1;
   }
 }
 
@@ -1854,10 +1906,15 @@ footer{
   from {
     transform: translate3d(0, 100%, 0);
     visibility: visible;
+    opacity: 0;
+  }
+  1% {
+    opacity: 1;
   }
 
   to {
     transform: translate3d(0, 0, 0);
+    opacity: 1;
   }
 }
 
@@ -1868,11 +1925,13 @@ footer{
 @keyframes slideOutDown {
   from {
     transform: translate3d(0, 0, 0);
+    opacity: 0;
   }
 
   to {
     visibility: hidden;
     transform: translate3d(0, 100%, 0);
+    opacity: 1;
   }
 }
 
