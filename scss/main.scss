@@ -230,6 +230,36 @@ section.panel{
   .human-headshot{
     width: 100%;
   }
+
+  ol,ul{
+    margin-left: 0;
+    ol,ul{
+      margin-bottom: 0;
+    }
+  }
+  ul {
+    counter-reset: item;
+    li {
+      list-style-type: none;
+      margin-bottom: 0.3em;
+      &:before {
+        margin-left: -1em;
+        margin-right: 0.65em;
+        line-height: 0;
+        font-family: FontAwesome;
+        content: "\f0da ";
+        color: $yellow;
+      }
+    }
+    ul {
+      li {
+        &:before {
+          font-family: FontAwesome;
+          content: "\f0da ";
+        }
+      }
+    }
+  }
   &.risk-based-customer{
     .item.qa {
       .animate {
@@ -275,6 +305,9 @@ section.panel{
           background: rgba($white, 0.2);
           margin: 2em auto;
           padding: 2em;
+          .a{
+            text-align:center;
+          }
         }
       }
     }

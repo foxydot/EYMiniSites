@@ -233,6 +233,12 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/favicon.ico",
+		"oF": 0
+		},
 	"\/img\/headshot-anne.jpg": {
 		"ft": 16384,
 		"iS": 30478,
@@ -261,6 +267,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/icon-data.png": {
+		"ft": 32768,
+		"iS": 2341,
+		"oA": 0,
+		"oAP": "\/img\/icon-data.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/icon-strategy.png": {
+		"ft": 32768,
+		"iS": 2301,
+		"oA": 0,
+		"oAP": "\/img\/icon-strategy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/logo.png": {

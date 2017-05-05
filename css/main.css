@@ -184,6 +184,7 @@ section.panel .animate {
       section.panel .animate .interstitial .button:hover, section.panel .animate .interstitial .button:active, section.panel .animate .interstitial .button:visited {
         color: #ffe600; }
     section.panel .animate .interstitial .button-replacement {
+      font-size: 1.6em;
       display: none;
       opacity: 0;
       animation-duration: 1s; }
@@ -203,6 +204,25 @@ section.panel .human-job-title {
   margin-bottom: 0; }
 section.panel .human-headshot {
   width: 100%; }
+section.panel ol, section.panel ul {
+  margin-left: 0; }
+  section.panel ol ol, section.panel ol ul, section.panel ul ol, section.panel ul ul {
+    margin-bottom: 0; }
+section.panel ul {
+  counter-reset: item; }
+  section.panel ul li {
+    list-style-type: none;
+    margin-bottom: 0.3em; }
+    section.panel ul li:before {
+      margin-left: -1em;
+      margin-right: 0.65em;
+      line-height: 0;
+      font-family: FontAwesome;
+      content: "\f0da ";
+      color: #ffe600; }
+  section.panel ul ul li:before {
+    font-family: FontAwesome;
+    content: "\f0da "; }
 section.panel.risk-based-customer .item.qa .animate .block {
   background: rgba(255, 255, 255, 0.2);
   margin: 2em auto;
@@ -223,10 +243,14 @@ section.panel.risk-based-customer .item.demo .animate .block {
   section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
     padding: 2em;
     display: block; }
-section.panel.risk-based-customer .item.tools .animate .block {
-  background: rgba(255, 255, 255, 0.2);
-  margin: 2em auto;
-  padding: 2em; }
+section.panel.risk-based-customer .item.tools .animate {
+  display: flex; }
+  section.panel.risk-based-customer .item.tools .animate .block {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 2em auto;
+    padding: 2em; }
+    section.panel.risk-based-customer .item.tools .animate .block .a {
+      text-align: center; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-pg.jpg");
