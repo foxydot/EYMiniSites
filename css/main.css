@@ -296,21 +296,66 @@ section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons {
   section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-b {
     opacity: 0;
     bottom: 2em;
-    left: 0;
+    left: 2em;
     animation-delay: 1s;
     animation-name: zoomIn; }
   section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-c {
     opacity: 0;
     bottom: 0.5em;
-    right: 0.75em;
+    right: 3em;
     animation-delay: 1.5s;
     animation-name: zoomIn; }
+section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img.anne-1-a {
+    opacity: 0;
+    top: 1.5em;
+    left: 6em;
+    animation-delay: 1s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img.anne-1-b {
+    opacity: 0;
+    bottom: 0;
+    right: 6em;
+    animation-delay: 1.5s;
+    animation-name: zoomInUp; }
+section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img.rick-2-a {
+    opacity: 0;
+    top: 1.5em;
+    left: 4em;
+    animation-delay: 1s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img.rick-2-b {
+    opacity: 0;
+    top: 6em;
+    left: 20em;
+    width: 400px;
+    animation-delay: 1.5s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
 section.panel.risk-based-customer .item.tools .animate {
   display: flex; }
   section.panel.risk-based-customer .item.tools .animate .block {
     background: rgba(255, 255, 255, 0.2);
     margin: 2em auto;
-    padding: 2em; }
+    padding: 2em;
+    overflow: hidden; }
     section.panel.risk-based-customer .item.tools .animate .block .a {
       text-align: center; }
 
@@ -1169,7 +1214,9 @@ footer {
   60% {
     opacity: 1;
     transform: scale3d(0.475, 0.475, 0.475) translate3d(0, -60px, 0);
-    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); }
+  to {
+    opacity: 1; } }
 .zoomInUp {
   animation-name: zoomInUp; }
 

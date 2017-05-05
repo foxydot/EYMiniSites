@@ -213,6 +213,28 @@
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
+	"\/img\/anne-1-a.png": {
+		"ft": 32768,
+		"iS": 30326,
+		"oA": 0,
+		"oAP": "\/img\/anne-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/anne-1-b.png": {
+		"ft": 32768,
+		"iS": 12243,
+		"oA": 0,
+		"oAP": "\/img\/anne-1-b.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/bkg-pg-1.jpg": {
 		"ft": 16384,
 		"iS": 147085,
@@ -409,6 +431,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/rick-2-a.png": {
+		"ft": 32768,
+		"iS": 23203,
+		"oA": 0,
+		"oAP": "\/img\/rick-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

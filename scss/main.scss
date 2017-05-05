@@ -369,16 +369,80 @@ section.panel{
               img.rick-1-b{
                 opacity: 0;
                 bottom: 2em;
-                left: 0;
+                left: 2em;
                 animation-delay: 1s;
                 animation-name: zoomIn;
               }
               img.rick-1-c{
                 opacity: 0;
                 bottom: 0.5em;
-                right: 0.75em;
+                right: 3em;
                 animation-delay: 1.5s;
                 animation-name: zoomIn;
+              }
+            }
+          }
+        }
+      }
+      #anne-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.anne-1-a{
+                opacity: 0;
+                top: 1.5em;
+                left: 6em;
+                animation-delay: 1s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.anne-1-b{
+                opacity: 0;
+                bottom: 0;
+                right: 6em;
+                animation-delay: 1.5s;
+                animation-name: zoomInUp;
+              }
+            }
+          }
+        }
+      }
+      #rick-2{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.rick-2-a{
+                opacity: 0;
+                top: 1.5em;
+                left: 4em;
+                animation-delay: 1s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.rick-2-b{
+                opacity: 0;
+                top: 6em;
+                left: 20em;
+                width: 400px;
+                animation-delay: 1.5s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
               }
             }
           }
@@ -392,6 +456,7 @@ section.panel{
           background: rgba($white, 0.2);
           margin: 2em auto;
           padding: 2em;
+          overflow: hidden;
           .a{
             text-align:center;
           }
@@ -1792,6 +1857,10 @@ footer{
     opacity: 1;
     transform: scale3d(.475, .475, .475) translate3d(0, -60px, 0);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+  }
+
+  to{
+    opacity: 1;
   }
 }
 
