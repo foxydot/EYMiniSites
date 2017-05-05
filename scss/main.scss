@@ -347,6 +347,43 @@ section.panel{
           }
         }
       }
+      #rick-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.rick-1-a{
+                opacity: 0;
+                top: 1.5em;
+                right: 13em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.rick-1-b{
+                opacity: 0;
+                bottom: 2em;
+                left: 0;
+                animation-delay: 1s;
+                animation-name: zoomIn;
+              }
+              img.rick-1-c{
+                opacity: 0;
+                bottom: 0.5em;
+                right: 0.75em;
+                animation-delay: 1.5s;
+                animation-name: zoomIn;
+              }
+            }
+          }
+        }
+      }
     }
     .item.tools {
       .animate {

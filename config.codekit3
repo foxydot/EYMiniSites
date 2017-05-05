@@ -379,6 +379,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/rick-1-a.png": {
+		"ft": 32768,
+		"iS": 14922,
+		"oA": 0,
+		"oAP": "\/img\/rick-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/rick-1-b.png": {
+		"ft": 32768,
+		"iS": 17083,
+		"oA": 0,
+		"oAP": "\/img\/rick-1-b.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/rick-1-c.png": {
+		"ft": 32768,
+		"iS": 60351,
+		"oA": 0,
+		"oAP": "\/img\/rick-1-c.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
