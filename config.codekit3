@@ -33,6 +33,12 @@
 		"oAP": "\/.idea\/workspace.xml",
 		"oF": 0
 		},
+	"\/.idea\/workspace.xml___jb_tmp___": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -439,6 +445,17 @@
 		"iS": 23203,
 		"oA": 0,
 		"oAP": "\/img\/rick-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/rick-2-b.png": {
+		"ft": 32768,
+		"iS": 98810,
+		"oA": 0,
+		"oAP": "\/img\/rick-2-b.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

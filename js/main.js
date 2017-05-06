@@ -26,10 +26,10 @@ $(function () { // wait for document ready
         $('.panel').css('z-index',0);
         $(target).css('z-index',300);
         $(target).find('.animate').each(function(){
-            var animate = $(this);
-            var newone = animate.clone(true);
-            animate.addClass('oldone');
-            animate.before(newone);
+            var animate_el = $(this);
+            var newone = animate_el.clone(true);
+            animate_el.addClass('oldone');
+            animate_el.before(newone);
             $('.oldone').remove();
         });
     });
@@ -37,27 +37,25 @@ $(function () { // wait for document ready
         e.preventDefault();
         var target = $(this).attr('href');
         if($(target).hasClass('animate')){
-            var animate = $(target);
-            var newone = animate.clone(true);
+            console.log('offset: ' + $(this).offset().top); //<--this is reporting incorrect numbers on the demo panel
+            $('section.panel').animate({scrollTop: $(this).offset().top - 60}, 500); //<--why won't this work on demo screen?
+            var animate_el = $(target);
+            var newone = animate_el.clone(true);
             newone.css('opacity',1);
-            animate.addClass('oldone');
-            animate.before(newone);
+            animate_el.addClass('oldone');
+            animate_el.before(newone);
             $('.oldone').remove();
         } else if(target === '#next'){
+            $('section.panel').animate({scrollTop: 0}, 500);
             var slideshow = $(this).parents('.carousel');
             slideshow.carousel('next');
             slideshow.on('slid.bs.carousel',function(){
-                var animate = $(this).find('.active').find('.animate:first');
-                var newone = animate.clone(true);
+                var animate_el = $(this).find('.active').find('.animate:first');
+                var newone = animate_el.clone(true);
                 newone.css('opacity',1);
-                animate.addClass('oldone');
-                animate.before(newone);
+                animate_el.addClass('oldone');
+                animate_el.before(newone);
                 $('.oldone').remove();
-                /*if($(this).find('.active').is(':nth-child(2)')){
-                    slideshow.parents('.panel').addClass('bkgimg');
-                } else {
-                    slideshow.parents('.panel').removeClass('bkgimg');
-                }*/
             });
         }
         if($(this).next('div').hasClass('button-replacement')){
@@ -65,15 +63,27 @@ $(function () { // wait for document ready
             $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('not-button');
             $(this).remove();
         }
+
+        // Get an array of all element heights
+        /* var elementHeights = $('section.panel.risk-based-customer .item.tools .animate .block').map(function() {
+            return $(this).height();
+        }).get();
+*/
+        // Math.max takes a variable number of arguments
+        // `apply` is equivalent to passing each height as an argument
+        //var maxHeight = Math.max.apply(null, elementHeights);
+
+        // Set each height to the max height
+        //$('section.panel.risk-based-customer .item.tools .animate .block').height(maxHeight);
     });
     var animationEvent = whichAnimationEvent();
     $('#risk-based-customer-tools .animate .trigger').one(animationEvent,function(){
-        var animate = $(this).parents('.animate').next();
-        var newone = animate.clone(true);
+        var animate_el = $(this).parents('.animate').next();
+        var newone = animate_el.clone(true);
         newone.css('opacity',1);
-        newone.find('li:last').addClass('trigger');
-        animate.addClass('oldone');
-        animate.before(newone);
+        newone.find('li:last').addClass('trigger'); //<--why doesn't this trigger work?
+        animate_el.addClass('oldone');
+        animate_el.before(newone);
         $('.oldone').remove();
     });
     $('.panel .carousel').carousel({
