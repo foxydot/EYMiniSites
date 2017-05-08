@@ -132,7 +132,7 @@ section.panel .animate {
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
   opacity: 0; }
-  section.panel .animate.business-problem {
+  section.panel .animate.business-problem, section.panel .animate#mary-1 {
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
     -webkit-transition-duration: 1s;
@@ -236,21 +236,23 @@ section.panel.risk-based-customer .item.qa .animate .block {
     font-size: 1.4em; }
   section.panel.risk-based-customer .item.qa .animate .block .b {
     text-align: center; }
-section.panel.risk-based-customer .item.demo .animate .block {
-  margin: 2em auto;
-  padding: 2em 0;
-  display: flex; }
-  section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
-    padding: 2em;
-    display: block; }
-  section.panel.risk-based-customer .item.demo .animate .block .c {
+section.panel.risk-based-customer .item.demo .animate {
+  display: block; }
+  section.panel.risk-based-customer .item.demo .animate .block {
+    margin: 2em auto;
+    padding: 2em 0;
     display: flex; }
-    section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons {
-      overflow: hidden;
-      position: relative; }
-      section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons img {
-        animation-duration: 2s;
-        animation-fill-mode: forwards; }
+    section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
+      padding: 2em;
+      display: block; }
+    section.panel.risk-based-customer .item.demo .animate .block .c {
+      display: flex; }
+      section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons {
+        overflow: hidden;
+        position: relative; }
+        section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons img {
+          animation-duration: 2s;
+          animation-fill-mode: forwards; }
 section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons {
   margin: -2em; }
   section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img {

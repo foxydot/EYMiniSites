@@ -145,7 +145,7 @@ section.panel{
     @include transition-duration(1s);
     @include transition-timing-function(ease-in);
     opacity: 0;
-    &.business-problem{
+    &.business-problem,&#mary-1{
       @include transition-duration(1s);
       opacity: 1;
     }
@@ -287,6 +287,7 @@ section.panel{
     }
     .item.demo {
       .animate {
+        display: block;
         .block {
           margin: 2em auto;
           padding: 2em 0;

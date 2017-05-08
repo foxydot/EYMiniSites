@@ -20,6 +20,12 @@ $(function () { // wait for document ready
         $('.panel').css('z-index',0);
         $(window.location.hash).css('z-index',300);
     }
+    var offsetmap = {};
+    $('.qa .animate').each(function(){
+        var name = $(this).attr('id');
+        var offset = $(this).offset().top - 100;
+        offsetmap['#' + name] = offset;
+    });
     $('.subscreen-option').click(function(e){
         e.preventDefault();
         var target = $(this).attr('href');
@@ -37,8 +43,7 @@ $(function () { // wait for document ready
         e.preventDefault();
         var target = $(this).attr('href');
         if($(target).hasClass('animate')){
-            console.log('offset: ' + $(this).offset().top); //<--this is reporting incorrect numbers on the demo panel
-            $('section.panel').animate({scrollTop: $(this).offset().top - 60}, 500); //<--why won't this work on demo screen?
+            $('section.panel').animate({scrollTop: offsetmap[target]}, 500); //<--why won't this work on demo screen?
             var animate_el = $(target);
             var newone = animate_el.clone(true);
             newone.css('opacity',1);
@@ -56,6 +61,12 @@ $(function () { // wait for document ready
                 animate_el.addClass('oldone');
                 animate_el.before(newone);
                 $('.oldone').remove();
+
+                $('.animate').each(function(){
+                    var name = $(this).attr('id');
+                    var offset = $(this).offset().top - 100;
+                    offsetmap['#' + name] = offset;
+                });
             });
         }
         if($(this).next('div').hasClass('button-replacement')){
@@ -76,6 +87,7 @@ $(function () { // wait for document ready
         // Set each height to the max height
         //$('section.panel.risk-based-customer .item.tools .animate .block').height(maxHeight);
     });
+
     var animationEvent = whichAnimationEvent();
     $('#risk-based-customer-tools .animate .trigger').one(animationEvent,function(){
         var animate_el = $(this).parents('.animate').next();

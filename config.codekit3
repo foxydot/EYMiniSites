@@ -15,6 +15,18 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
+	"\/.idea\/EYMiniSites.iml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/EYMiniSites.iml",
+		"oF": 0
+		},
+	"\/.idea\/modules.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/modules.xml",
+		"oF": 0
+		},
 	"\/.idea\/vcs.xml": {
 		"ft": 8192,
 		"oA": 2,
@@ -31,12 +43,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.idea\/workspace.xml",
-		"oF": 0
-		},
-	"\/.idea\/workspace.xml___jb_tmp___": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
 		"oF": 0
 		},
 	"\/404.html": {
@@ -588,6 +594,12 @@
 		"oF": 3,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/testjs.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/testjs.html",
+		"oF": 0
 		}
 	},
 "hooks": [
