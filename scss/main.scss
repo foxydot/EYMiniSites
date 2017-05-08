@@ -175,11 +175,12 @@ section.panel{
           animation-name: slideInRight;
           animation-fill-mode: forwards;
         }
-        li:nth-child(1){animation-delay: 1s;}
-        li:nth-child(2){animation-delay: 1.5s;}
-        li:nth-child(3){animation-delay: 2s;}
-        li:nth-child(4){animation-delay: 2.5s;}
-        li:nth-child(5){animation-delay: 3s;}
+        li:nth-child(1){animation-delay: 0.5s;}
+        li:nth-child(2){animation-delay: 1s;}
+        li:nth-child(3){animation-delay: 1.5s;}
+        li:nth-child(4){animation-delay: 2s;}
+        li:nth-child(5){animation-delay: 2.5s;}
+        li:nth-child(6){animation-delay: 3s;}
       }
     }
     .interstitial{
@@ -289,8 +290,8 @@ section.panel{
       .animate {
         display: block;
         .block {
-          margin: 2em auto;
-          padding: 2em 0;
+          margin: 0 auto;
+          padding: 0;
           display: flex;
           .a,.c{
             padding: 2em;
@@ -302,15 +303,33 @@ section.panel{
               overflow: hidden;
               position: relative;
               img{
-                animation-duration: 2s;
+                animation-duration: 1s;
                 animation-fill-mode: forwards;
               }
             }
           }
         }
+        .interstitial{
+          margin: 0 auto;
+          display: flex;
+          .medots{
+            border-right: 10px dotted $yellow;
+            min-height: 100%;
+            position: relative;
+            right: 0;
+            margin-right: -15px;
+            opacity: 0;
+            animation-duration: 2s;
+            animation-fill-mode: forwards;
+          }
+          .button,.not-button{
+            margin: 2em;
+          }
+        }
       }
       #mary-1{
         .block{
+          padding-top: 2em;
           .c{
             .animate-icons{
               margin: -2em;

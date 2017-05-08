@@ -43,7 +43,7 @@ $(function () { // wait for document ready
         e.preventDefault();
         var target = $(this).attr('href');
         if($(target).hasClass('animate')){
-            $('section.panel').animate({scrollTop: offsetmap[target]}, 500); //<--why won't this work on demo screen?
+            $('section.panel').animate({scrollTop: offsetmap[target]}, 1000);
             var animate_el = $(target);
             var newone = animate_el.clone(true);
             newone.css('opacity',1);
@@ -70,6 +70,7 @@ $(function () { // wait for document ready
             });
         }
         if($(this).next('div').hasClass('button-replacement')){
+            $(this).parents('.interstitial').find('.medots').addClass('slideInDown');
             $(this).addClass('flipOutX');
             $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('not-button');
             $(this).remove();
