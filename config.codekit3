@@ -249,7 +249,7 @@
 		},
 	"\/img\/bkg-pg-1.jpg": {
 		"ft": 16384,
-		"iS": 147085,
+		"iS": 989994,
 		"oA": 0,
 		"oAP": "\/img\/bkg-pg-1.jpg",
 		"oF": 0,
@@ -259,12 +259,12 @@
 		},
 	"\/img\/bkg-pg.jpg": {
 		"ft": 16384,
-		"iS": 6241150,
+		"iS": 10948602,
 		"oA": 0,
 		"oAP": "\/img\/bkg-pg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/favicon.ico": {

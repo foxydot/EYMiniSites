@@ -76,6 +76,15 @@ $(function () { // wait for document ready
             $(this).remove();
         }
 
+        $('section.panel.risk-based-customer .item.tools .animate .block .a').one('mouseover',function(){
+            var animate_el = $(this).next('.c').find('ul');
+            var newone = animate_el.clone(true);
+            newone.css('opacity',1);
+            animate_el.addClass('oldone');
+            animate_el.before(newone);
+            $('.oldone').remove();
+        });
+
         // Get an array of all element heights
         /* var elementHeights = $('section.panel.risk-based-customer .item.tools .animate .block').map(function() {
             return $(this).height();

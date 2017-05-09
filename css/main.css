@@ -70,6 +70,7 @@ section.intro, section.panel {
 
 section.intro {
   background-image: url(../img/bkg-pg-1.jpg);
+  background-position: center center;
   background-size: cover;
   z-index: 100; }
   section.intro .title {
@@ -78,7 +79,7 @@ section.intro {
   section.intro p {
     font-size: 1.2em; }
   section.intro .subscreen-option {
-    background: rgba(109, 110, 113, 0.9);
+    background: rgba(17, 17, 17, 0.5);
     padding: 1em;
     margin-top: 2em;
     display: block;
@@ -86,7 +87,7 @@ section.intro {
     min-height: 215px; }
     section.intro .subscreen-option:hover {
       text-decoration: none;
-      background-color: rgba(109, 110, 113, 0.7); }
+      background-color: rgba(17, 17, 17, 0.7); }
 
 section.panel .tagline {
   background: #ffe600;
@@ -157,22 +158,23 @@ section.panel .animate {
       animation-name: slideInRight;
       animation-fill-mode: forwards; }
     section.panel .animate .c ul li:nth-child(1) {
-      animation-delay: 0.5s; }
+      animation-delay: 0s; }
     section.panel .animate .c ul li:nth-child(2) {
-      animation-delay: 1s; }
-    section.panel .animate .c ul li:nth-child(3) {
-      animation-delay: 1.5s; }
-    section.panel .animate .c ul li:nth-child(4) {
-      animation-delay: 2s; }
-    section.panel .animate .c ul li:nth-child(5) {
-      animation-delay: 2.5s; }
-    section.panel .animate .c ul li:nth-child(6) {
       animation-delay: 3s; }
+    section.panel .animate .c ul li:nth-child(3) {
+      animation-delay: 6s; }
+    section.panel .animate .c ul li:nth-child(4) {
+      animation-delay: 9s; }
+    section.panel .animate .c ul li:nth-child(5) {
+      animation-delay: 12s; }
+    section.panel .animate .c ul li:nth-child(6) {
+      animation-delay: 15s; }
+    section.panel .animate .c ul li:nth-child(7) {
+      animation-delay: 18s; }
   section.panel .animate .interstitial {
     opacity: 0;
     animation-duration: 1s;
     animation-name: zoomIn;
-    animation-delay: 3s;
     animation-fill-mode: forwards; }
     section.panel .animate .interstitial .button {
       display: inline-block;
@@ -238,6 +240,8 @@ section.panel.risk-based-customer .item.qa .animate .block {
     font-size: 1.4em; }
   section.panel.risk-based-customer .item.qa .animate .block .b {
     text-align: center; }
+section.panel.risk-based-customer .item.qa .animate .interstitial {
+  animation-delay: 3s; }
 section.panel.risk-based-customer .item.demo .animate {
   display: block; }
   section.panel.risk-based-customer .item.demo .animate .block {
@@ -257,13 +261,14 @@ section.panel.risk-based-customer .item.demo .animate {
           animation-fill-mode: forwards; }
   section.panel.risk-based-customer .item.demo .animate .interstitial {
     margin: 0 auto;
-    display: flex; }
+    display: flex;
+    animation-delay: 6s; }
     section.panel.risk-based-customer .item.demo .animate .interstitial .medots {
       border-right: 10px dotted #ffe600;
       min-height: 100%;
       position: relative;
       right: 0;
-      margin-right: -15px;
+      margin-right: -18px;
       opacity: 0;
       animation-duration: 2s;
       animation-fill-mode: forwards; }
@@ -279,13 +284,13 @@ section.panel.risk-based-customer .item.demo #mary-1 .block {
       opacity: 0;
       top: 1.5em;
       left: 2em;
-      animation-delay: 1s;
+      animation-delay: 0s;
       animation-name: zoomIn; }
     section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img.mary-1-b {
       opacity: 0;
       bottom: 0;
       right: 1em;
-      animation-delay: 1.5s;
+      animation-delay: 3s;
       -webkit-animation-name: slideInUp;
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
@@ -294,7 +299,7 @@ section.panel.risk-based-customer .item.demo #mary-1 .block {
       opacity: 0;
       bottom: 0;
       right: 0;
-      animation-delay: 2s;
+      animation-delay: 6s;
       -webkit-animation-name: slideInUp;
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
@@ -317,13 +322,13 @@ section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons {
     opacity: 0;
     bottom: 2em;
     left: 2em;
-    animation-delay: 1s;
+    animation-delay: 3s;
     animation-name: zoomIn; }
   section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-c {
     opacity: 0;
     bottom: 0.5em;
     right: 3em;
-    animation-delay: 1.5s;
+    animation-delay: 6s;
     animation-name: zoomIn; }
 section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
   margin: -2em;
@@ -334,7 +339,7 @@ section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
     opacity: 0;
     top: 1.5em;
     left: 6em;
-    animation-delay: 1s;
+    animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
@@ -343,7 +348,7 @@ section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
     opacity: 0;
     bottom: 0;
     right: 6em;
-    animation-delay: 1.5s;
+    animation-delay: 3s;
     animation-name: zoomInUp; }
 section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
   margin: -2em;
@@ -354,7 +359,7 @@ section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
     opacity: 0;
     top: 1.5em;
     left: 4em;
-    animation-delay: 1s;
+    animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
@@ -364,20 +369,50 @@ section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
     top: 6em;
     left: 20em;
     width: 400px;
-    animation-delay: 1.5s;
+    animation-delay: 3s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
 section.panel.risk-based-customer .item.tools .animate {
+  opacity: 1;
   display: flex; }
   section.panel.risk-based-customer .item.tools .animate .block {
     background: rgba(255, 255, 255, 0.2);
     margin: 2em auto;
     padding: 2em;
-    overflow: hidden; }
+    overflow: hidden;
+    height: 310px; }
     section.panel.risk-based-customer .item.tools .animate .block .a {
       text-align: center; }
+      section.panel.risk-based-customer .item.tools .animate .block .a .button {
+        display: inline-block;
+        opacity: 1;
+        border: 2px solid #ffe600;
+        border-radius: 0.5em;
+        padding: 1em;
+        animation-duration: 1s;
+        font-weight: 700;
+        color: #ffe600; }
+      section.panel.risk-based-customer .item.tools .animate .block .a:hover .button, section.panel.risk-based-customer .item.tools .animate .block .a:active .button, section.panel.risk-based-customer .item.tools .animate .block .a:visited .button {
+        color: #111111;
+        background-color: #ffe600; }
+    section.panel.risk-based-customer .item.tools .animate .block .c ul {
+      opacity: 0; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(1) {
+        animation-delay: 0s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(2) {
+        animation-delay: 0.5s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(3) {
+        animation-delay: 1s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(4) {
+        animation-delay: 1.5s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(5) {
+        animation-delay: 2s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(6) {
+        animation-delay: 2.5s; }
+      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(7) {
+        animation-delay: 3s; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-pg.jpg");
