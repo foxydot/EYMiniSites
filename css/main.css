@@ -56,23 +56,39 @@ main {
 .logo {
   max-width: 120px; }
 
+img.icon {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block; }
+
 section.intro, section.panel {
   position: absolute;
   height: 100%;
   width: 100%;
-  overflow: scroll;
   top: 0;
   left: 0;
   right: 0;
-  bottom: 0;
-  padding: 2em 0;
-  padding-bottom: 250px; }
+  bottom: 0; }
+  section.intro div.screen, section.panel div.screen {
+    position: relative;
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 2em 0;
+    padding-bottom: 250px;
+    overflow: scroll; }
 
 section.intro {
   background-image: url(../img/bkg-pg-1.jpg);
   background-position: center center;
   background-size: cover;
   z-index: 100; }
+  section.intro div.screen {
+    background: rgba(17, 17, 17, 0.5); }
   section.intro .title {
     color: #FFE000;
     font-size: 3em; }
@@ -84,7 +100,8 @@ section.intro {
     margin-top: 2em;
     display: block;
     color: #ffffff;
-    min-height: 215px; }
+    min-height: 375px;
+    text-align: center; }
     section.intro .subscreen-option:hover {
       text-decoration: none;
       background-color: rgba(17, 17, 17, 0.7); }

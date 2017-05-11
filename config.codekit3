@@ -27,6 +27,12 @@
 		"oAP": "\/.idea\/modules.xml",
 		"oF": 0
 		},
+	"\/.idea\/php.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/php.xml",
+		"oF": 0
+		},
 	"\/.idea\/vcs.xml": {
 		"ft": 8192,
 		"oA": 2,
@@ -265,6 +271,72 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_business_opportunity.png": {
+		"ft": 32768,
+		"iS": 14944,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_business_opportunity.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_business_problem.png": {
+		"ft": 32768,
+		"iS": 14123,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_business_problem.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_intelligent_cross_selling.png": {
+		"ft": 32768,
+		"iS": 11713,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_intelligent_cross_selling.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_IoT_smart_devices.png": {
+		"ft": 32768,
+		"iS": 15016,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_IoT_smart_devices.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_risk_based_customer_acquisition.png": {
+		"ft": 32768,
+		"iS": 17813,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_risk_based_customer_acquisition.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png": {
+		"ft": 32768,
+		"iS": 14348,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/favicon.ico": {
