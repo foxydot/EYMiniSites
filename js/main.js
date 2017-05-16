@@ -43,7 +43,7 @@ $(function () { // wait for document ready
         e.preventDefault();
         var target = $(this).attr('href');
         if($(target).hasClass('animate')){
-            $('section.panel').animate({scrollTop: offsetmap[target]}, 1000);
+            $('section.panel div.screen').animate({scrollTop: offsetmap[target]}, 1000);
             var animate_el = $(target);
             var newone = animate_el.clone(true);
             newone.css('opacity',1);
@@ -51,7 +51,7 @@ $(function () { // wait for document ready
             animate_el.before(newone);
             $('.oldone').remove();
         } else if(target === '#next'){
-            $('section.panel').animate({scrollTop: 0}, 500);
+            $('section.panel div.screen').animate({scrollTop: 0}, 500);
             var slideshow = $(this).parents('.carousel');
             slideshow.carousel('next');
             slideshow.on('slid.bs.carousel',function(){
