@@ -48,7 +48,7 @@
 	"\/.idea\/workspace.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.idea\/workspace.xml",
+		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
 		"oF": 0
 		},
 	"\/404.html": {
@@ -273,6 +273,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/img\/digital_building.png": {
+		"ft": 32768,
+		"iS": 5042,
+		"oA": 0,
+		"oAP": "\/img\/digital_building.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/EY_ DI_Innovation_Center_icons_business_opportunity.png": {
 		"ft": 32768,
 		"iS": 14944,
@@ -479,6 +490,28 @@
 		"iS": 13944,
 		"oA": 0,
 		"oAP": "\/img\/mary-1-c.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/P2P_icon.png": {
+		"ft": 32768,
+		"iS": 39020,
+		"oA": 0,
+		"oAP": "\/img\/P2P_icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/P2P_icon_yellow.png": {
+		"ft": 32768,
+		"iS": 32717,
+		"oA": 0,
+		"oAP": "\/img\/P2P_icon_yellow.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
