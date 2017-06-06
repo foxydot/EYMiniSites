@@ -81,9 +81,20 @@ section.intro, section.panel {
     padding: 2em 0;
     padding-bottom: 250px;
     overflow: scroll; }
+    section.intro div.screen .wrap, section.panel div.screen .wrap {
+      position: relative; }
+      section.intro div.screen .wrap .carousel-control.left, section.intro div.screen .wrap .carousel-control.right, section.panel div.screen .wrap .carousel-control.left, section.panel div.screen .wrap .carousel-control.right {
+        background: transparent;
+        position: absolute;
+        top: 200px;
+        left: -40px;
+        bottom: auto;
+        right: auto;
+        width: auto;
+        opacity: 0; }
 
 section.intro {
-  background-image: url(../img/bkg-pg-1.jpg);
+  background-image: url(../img/bkg-intro-panel.jpg);
   background-position: center center;
   background-size: cover;
   z-index: 100; }
@@ -106,21 +117,30 @@ section.intro {
       text-decoration: none;
       background-color: rgba(17, 17, 17, 0.7); }
 
-section.panel .tagline {
+section.panel .menu-bug {
+  text-align: right; }
+  section.panel .menu-bug a {
+    display: block; }
+section.panel .tagline-wrapper {
   background: #ffe600;
-  color: #111111;
-  padding: 1em;
   margin-top: 2em; }
-  section.panel .tagline h2 {
-    font-size: 1.5em;
-    font-weight: 700;
-    line-height: 1;
-    margin: 0; }
-  section.panel .tagline h3 {
-    font-size: 1.3em;
-    font-weight: 500;
-    line-height: 1;
-    margin: 0; }
+  section.panel .tagline-wrapper .tagline-icon {
+    background-color: #6D6E71;
+    padding: 0.25em; }
+  section.panel .tagline-wrapper .tagline {
+    background: #ffe600;
+    color: #111111;
+    padding: 1em; }
+    section.panel .tagline-wrapper .tagline h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      line-height: 1;
+      margin: 0; }
+    section.panel .tagline-wrapper .tagline h3 {
+      font-size: 1.3em;
+      font-weight: 500;
+      line-height: 1;
+      margin: 0; }
 section.panel .sidewindow {
   overflow: hidden;
   display: block;
@@ -432,8 +452,10 @@ section.panel.risk-based-customer .item.tools .animate {
         animation-delay: 3s; }
 
 section.panel.risk-based-customer.bkgimg {
-  background-image: url("../img/bkg-pg.jpg");
+  background-image: url("../img/bkg-risk-based.jpg");
   background-size: cover; }
+  section.panel.risk-based-customer.bkgimg .screen {
+    background-color: rgba(255, 255, 255, 0.25); }
 
 footer {
   background: #2E2F2F;

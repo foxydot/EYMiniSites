@@ -26,6 +26,19 @@ $(function () { // wait for document ready
         var offset = $(this).offset().top - 100;
         offsetmap['#' + name] = offset;
     });
+    $('.menu-bug a').click(function(e){
+        e.preventDefault();
+        var target = $(this).attr('href');
+        $('.panel').css('z-index',0);
+        $(target).css('z-index',300);
+        $(target).find('.animate').each(function(){
+            var animate_el = $(this);
+            var newone = animate_el.clone(true);
+            animate_el.addClass('oldone');
+            animate_el.before(newone);
+            $('.oldone').remove();
+        });
+    });
     $('.subscreen-option').click(function(e){
         e.preventDefault();
         var target = $(this).attr('href');
@@ -55,6 +68,8 @@ $(function () { // wait for document ready
             var slideshow = $(this).parents('.carousel');
             slideshow.carousel('next');
             slideshow.on('slid.bs.carousel',function(){
+                var control = slideshow.parents('.panel').find('.carousel-control.left');
+                control.css('opacity','1');
                 var animate_el = $(this).find('.active').find('.animate:first');
                 var newone = animate_el.clone(true);
                 newone.css('opacity',1);

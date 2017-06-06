@@ -51,6 +51,12 @@
 		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
 		"oF": 0
 		},
+	"\/.idea\/workspace.xml___jb_tmp___": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -58,7 +64,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -253,21 +259,21 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/bkg-pg-1.jpg": {
+	"\/img\/bkg-intro-panel.jpg": {
 		"ft": 16384,
 		"iS": 989994,
 		"oA": 0,
-		"oAP": "\/img\/bkg-pg-1.jpg",
+		"oAP": "\/img\/bkg-intro-panel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bkg-pg.jpg": {
+	"\/img\/bkg-risk-based.jpg": {
 		"ft": 16384,
 		"iS": 10948602,
 		"oA": 0,
-		"oAP": "\/img\/bkg-pg.jpg",
+		"oAP": "\/img\/bkg-risk-based.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -699,6 +705,12 @@
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/scss\/main.scss___jb_tmp___": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/scss\/main.scss___jb_tmp___",
+		"oF": 0
 		}
 	},
 "hooks": [

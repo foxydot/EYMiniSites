@@ -92,10 +92,23 @@ section.intro,section.panel{
     padding: 2em 0;
     padding-bottom: 250px;
     overflow: scroll;
+    .wrap {
+      position: relative;
+      .carousel-control.left, .carousel-control.right {
+        background: transparent;
+        position: absolute;
+        top: 200px;
+        left: -40px;
+        bottom: auto;
+        right: auto;
+        width: auto;
+        opacity: 0;
+      }
+    }
   }
 }
 section.intro{
-  background-image: url(../img/bkg-pg-1.jpg);
+  background-image: url(../img/bkg-intro-panel.jpg);
   background-position: center center;
   background-size: cover;
   z-index: 100;
@@ -124,22 +137,37 @@ section.intro{
   }
 }
 section.panel{
-  .tagline{
-    background: $yellow;
-    color: $black;
-    padding: 1em;
-    margin-top: 2em;
-    h2{
-      font-size: 1.5em;
-      font-weight: 700;
-      line-height: 1;
-      margin: 0;
+  .menu-bug{
+    text-align: right;
+    a{
+  display: block;
     }
-    h3{
-      font-size: 1.3em;
-      font-weight: 500;
-      line-height: 1;
-      margin: 0;
+  }
+  .tagline-wrapper {
+    background: $yellow;
+    margin-top: 2em;
+    .tagline-icon{
+      background-color: $gray50;
+      padding: 0.25em;
+      img.icon{
+      }
+    }
+    .tagline {
+      background: $yellow;
+      color: $black;
+      padding: 1em;
+      h2 {
+        font-size: 1.5em;
+        font-weight: 700;
+        line-height: 1;
+        margin: 0;
+      }
+      h3 {
+        font-size: 1.3em;
+        font-weight: 500;
+        line-height: 1;
+        margin: 0;
+      }
     }
   }
   .sidewindow{
@@ -540,8 +568,11 @@ section.panel{
   }
 }
 section.panel.risk-based-customer.bkgimg{
-  background-image: url('../img/bkg-pg.jpg');
+  background-image: url('../img/bkg-risk-based.jpg');
   background-size: cover;
+  .screen{
+    background-color: rgba($white,0.25);
+  }
 }
 footer{
   background: #2E2F2F;
