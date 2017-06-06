@@ -280,28 +280,28 @@ section.panel .item.qa .animate .block {
     text-align: center; }
 section.panel .item.qa .animate .interstitial {
   animation-delay: 3s; }
-section.panel.risk-based-customer .item.demo .animate {
+section.panel .item.demo .animate {
   display: block; }
-  section.panel.risk-based-customer .item.demo .animate .block {
+  section.panel .item.demo .animate .block {
     margin: 0 auto;
     padding: 0;
     display: flex; }
-    section.panel.risk-based-customer .item.demo .animate .block .a, section.panel.risk-based-customer .item.demo .animate .block .c {
+    section.panel .item.demo .animate .block .a, section.panel .item.demo .animate .block .c {
       padding: 2em;
       display: block; }
-    section.panel.risk-based-customer .item.demo .animate .block .c {
+    section.panel .item.demo .animate .block .c {
       display: flex; }
-      section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons {
+      section.panel .item.demo .animate .block .c .animate-icons {
         overflow: hidden;
         position: relative; }
-        section.panel.risk-based-customer .item.demo .animate .block .c .animate-icons img {
+        section.panel .item.demo .animate .block .c .animate-icons img {
           animation-duration: 1s;
           animation-fill-mode: forwards; }
-  section.panel.risk-based-customer .item.demo .animate .interstitial {
+  section.panel .item.demo .animate .interstitial {
     margin: 0 auto;
     display: flex;
     animation-delay: 6s; }
-    section.panel.risk-based-customer .item.demo .animate .interstitial .medots {
+    section.panel .item.demo .animate .interstitial .medots {
       border-right: 10px dotted #ffe600;
       min-height: 100%;
       position: relative;
@@ -310,7 +310,7 @@ section.panel.risk-based-customer .item.demo .animate {
       opacity: 0;
       animation-duration: 2s;
       animation-fill-mode: forwards; }
-    section.panel.risk-based-customer .item.demo .animate .interstitial .button, section.panel.risk-based-customer .item.demo .animate .interstitial .not-button {
+    section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
 section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
   padding-top: 2em; }
@@ -457,6 +457,12 @@ section.panel.risk-based-customer.bkgimg {
   background-size: cover; }
   section.panel.risk-based-customer.bkgimg .screen {
     background-color: rgba(255, 255, 255, 0.25); }
+
+section.panel.intelligent-cross-selling.bkgimg {
+  background-image: url("../img/bkg-intelligent-cross-selling.jpg");
+  background-size: cover; }
+  section.panel.intelligent-cross-selling.bkgimg .screen {
+    background-color: rgba(255, 255, 255, 0.4); }
 
 footer {
   background: #2E2F2F;

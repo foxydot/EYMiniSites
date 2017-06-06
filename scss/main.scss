@@ -337,49 +337,52 @@ section.panel{
       }
     }
   }
-  &.risk-based-customer{
-    .item.demo {
-      .animate {
-        display: block;
-        .block {
-          margin: 0 auto;
-          padding: 0;
+  .item.demo{
+
+    .animate {
+      display: block;
+      .block {
+        margin: 0 auto;
+        padding: 0;
+        display: flex;
+        .a,.c{
+          padding: 2em;
+          display: block;
+        }
+        .c{
           display: flex;
-          .a,.c{
-            padding: 2em;
-            display: block;
-          }
-          .c{
-            display: flex;
-            .animate-icons{
-              overflow: hidden;
-              position: relative;
-              img{
-                animation-duration: 1s;
-                animation-fill-mode: forwards;
-              }
+          .animate-icons{
+            overflow: hidden;
+            position: relative;
+            img{
+              animation-duration: 1s;
+              animation-fill-mode: forwards;
             }
           }
         }
-        .interstitial{
-          margin: 0 auto;
-          display: flex;
-          animation-delay: 6s;
-          .medots{
-            border-right: 10px dotted $yellow;
-            min-height: 100%;
-            position: relative;
-            right: 0;
-            margin-right: -18px;
-            opacity: 0;
-            animation-duration: 2s;
-            animation-fill-mode: forwards;
-          }
-          .button,.not-button{
-            margin: 2em;
-          }
+      }
+      .interstitial{
+        margin: 0 auto;
+        display: flex;
+        animation-delay: 6s;
+        .medots{
+          border-right: 10px dotted $yellow;
+          min-height: 100%;
+          position: relative;
+          right: 0;
+          margin-right: -18px;
+          opacity: 0;
+          animation-duration: 2s;
+          animation-fill-mode: forwards;
+        }
+        .button,.not-button{
+          margin: 2em;
         }
       }
+    }
+  }
+  &.risk-based-customer{
+    .item.demo {
       #rbc-mary-1{
         .block{
           padding-top: 2em;
@@ -573,6 +576,13 @@ section.panel.risk-based-customer.bkgimg{
   background-size: cover;
   .screen{
     background-color: rgba($white,0.25);
+  }
+}
+section.panel.intelligent-cross-selling.bkgimg{
+  background-image: url('../img/bkg-intelligent-cross-selling.jpg');
+  background-size: cover;
+  .screen{
+    background-color: rgba($white,0.4);
   }
 }
 footer{
