@@ -146,6 +146,7 @@ section.panel{
   .tagline-wrapper {
     background: $yellow;
     margin-top: 2em;
+    margin-right: -50px;
     .tagline-icon{
       background-color: $gray50;
       padding: 0.25em;
@@ -193,7 +194,7 @@ section.panel{
     @include transition-duration(1s);
     @include transition-timing-function(ease-in);
     opacity: 0;
-    &.business-problem,&#mary-1{
+    &.business-problem,&#rbc-mary-1{
       @include transition-duration(1s);
       opacity: 1;
     }
@@ -309,34 +310,34 @@ section.panel{
       }
     }
   }
-  &.risk-based-customer{
-    .item.qa {
-      .animate {
-        .block {
-          background: rgba($white, 0.2);
-          margin: 2em auto;
-          padding: 2em;
-          .a{
-            dl{
-              margin-bottom: 0;
-            }
-            dt{
-              font-size: 1.4em;
-              font-weight: 700;
-            }
-            dd{
-              font-size: 1.4em;
-            }
+  .item.qa {
+    .animate {
+      .block {
+        background: rgba($white, 0.2);
+        margin: 2em auto;
+        padding: 2em;
+        .a{
+          dl{
+            margin-bottom: 0;
           }
-          .b{
-            text-align: center;
+          dt{
+            font-size: 1.4em;
+            font-weight: 700;
+          }
+          dd{
+            font-size: 1.4em;
           }
         }
-        .interstitial{
-          animation-delay: 3s;
+        .b{
+          text-align: center;
         }
       }
+      .interstitial{
+        animation-delay: 3s;
+      }
     }
+  }
+  &.risk-based-customer{
     .item.demo {
       .animate {
         display: block;
@@ -379,7 +380,7 @@ section.panel{
           }
         }
       }
-      #mary-1{
+      #rbc-mary-1{
         .block{
           padding-top: 2em;
           .c{
@@ -419,7 +420,7 @@ section.panel{
           }
         }
       }
-      #rick-1{
+      #rbc-rick-1{
         .block{
           .c{
             .animate-icons{
@@ -456,7 +457,7 @@ section.panel{
           }
         }
       }
-      #anne-1{
+      #rbc-anne-1{
         .block{
           .c{
             .animate-icons{
@@ -486,7 +487,7 @@ section.panel{
           }
         }
       }
-      #rick-2{
+      #rbc-rick-2{
         .block{
           .c{
             .animate-icons{

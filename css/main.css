@@ -123,7 +123,8 @@ section.panel .menu-bug {
     display: block; }
 section.panel .tagline-wrapper {
   background: #ffe600;
-  margin-top: 2em; }
+  margin-top: 2em;
+  margin-right: -50px; }
   section.panel .tagline-wrapper .tagline-icon {
     background-color: #6D6E71;
     padding: 0.25em; }
@@ -170,7 +171,7 @@ section.panel .animate {
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
   opacity: 0; }
-  section.panel .animate.business-problem, section.panel .animate#mary-1 {
+  section.panel .animate.business-problem, section.panel .animate#rbc-mary-1 {
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
     -webkit-transition-duration: 1s;
@@ -264,20 +265,20 @@ section.panel ul {
   section.panel ul ul li:before {
     font-family: FontAwesome;
     content: "\f0da "; }
-section.panel.risk-based-customer .item.qa .animate .block {
+section.panel .item.qa .animate .block {
   background: rgba(255, 255, 255, 0.2);
   margin: 2em auto;
   padding: 2em; }
-  section.panel.risk-based-customer .item.qa .animate .block .a dl {
+  section.panel .item.qa .animate .block .a dl {
     margin-bottom: 0; }
-  section.panel.risk-based-customer .item.qa .animate .block .a dt {
+  section.panel .item.qa .animate .block .a dt {
     font-size: 1.4em;
     font-weight: 700; }
-  section.panel.risk-based-customer .item.qa .animate .block .a dd {
+  section.panel .item.qa .animate .block .a dd {
     font-size: 1.4em; }
-  section.panel.risk-based-customer .item.qa .animate .block .b {
+  section.panel .item.qa .animate .block .b {
     text-align: center; }
-section.panel.risk-based-customer .item.qa .animate .interstitial {
+section.panel .item.qa .animate .interstitial {
   animation-delay: 3s; }
 section.panel.risk-based-customer .item.demo .animate {
   display: block; }
@@ -311,19 +312,19 @@ section.panel.risk-based-customer .item.demo .animate {
       animation-fill-mode: forwards; }
     section.panel.risk-based-customer .item.demo .animate .interstitial .button, section.panel.risk-based-customer .item.demo .animate .interstitial .not-button {
       margin: 2em; }
-section.panel.risk-based-customer .item.demo #mary-1 .block {
+section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
   padding-top: 2em; }
-  section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons {
+  section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons {
     margin: -2em; }
-    section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img {
+    section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img {
       position: absolute; }
-    section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img.mary-1-a {
+    section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-a {
       opacity: 0;
       top: 1.5em;
       left: 2em;
       animation-delay: 0s;
       animation-name: zoomIn; }
-    section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img.mary-1-b {
+    section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-b {
       opacity: 0;
       bottom: 0;
       right: 1em;
@@ -332,7 +333,7 @@ section.panel.risk-based-customer .item.demo #mary-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-    section.panel.risk-based-customer .item.demo #mary-1 .block .c .animate-icons img.mary-1-c {
+    section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-c {
       opacity: 0;
       bottom: 0;
       right: 0;
@@ -341,12 +342,12 @@ section.panel.risk-based-customer .item.demo #mary-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons {
+section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-  section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img {
+  section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img {
     position: absolute; }
-  section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-a {
+  section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-a {
     opacity: 0;
     top: 1.5em;
     right: 13em;
@@ -355,24 +356,24 @@ section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-  section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-b {
+  section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-b {
     opacity: 0;
     bottom: 2em;
     left: 2em;
     animation-delay: 3s;
     animation-name: zoomIn; }
-  section.panel.risk-based-customer .item.demo #rick-1 .block .c .animate-icons img.rick-1-c {
+  section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-c {
     opacity: 0;
     bottom: 0.5em;
     right: 3em;
     animation-delay: 6s;
     animation-name: zoomIn; }
-section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
+section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img {
+  section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img {
     position: absolute; }
-  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img.anne-1-a {
+  section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img.anne-1-a {
     opacity: 0;
     top: 1.5em;
     left: 6em;
@@ -381,18 +382,18 @@ section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-  section.panel.risk-based-customer .item.demo #anne-1 .block .c .animate-icons img.anne-1-b {
+  section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img.anne-1-b {
     opacity: 0;
     bottom: 0;
     right: 6em;
     animation-delay: 3s;
     animation-name: zoomInUp; }
-section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
+section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img {
+  section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img {
     position: absolute; }
-  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img.rick-2-a {
+  section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-a {
     opacity: 0;
     top: 1.5em;
     left: 4em;
@@ -401,7 +402,7 @@ section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-  section.panel.risk-based-customer .item.demo #rick-2 .block .c .animate-icons img.rick-2-b {
+  section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-b {
     opacity: 0;
     top: 6em;
     left: 20em;
