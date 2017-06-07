@@ -312,6 +312,45 @@ section.panel .item.demo .animate {
       animation-fill-mode: forwards; }
     section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
+section.panel .item.tools .animate {
+  opacity: 1;
+  display: flex; }
+  section.panel .item.tools .animate .block {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 2em auto;
+    padding: 2em;
+    overflow: hidden;
+    height: 310px; }
+    section.panel .item.tools .animate .block .a {
+      text-align: center; }
+      section.panel .item.tools .animate .block .a .button {
+        display: inline-block;
+        opacity: 1;
+        border: 2px solid #ffe600;
+        border-radius: 0.5em;
+        padding: 1em;
+        animation-duration: 1s;
+        font-weight: 700;
+        color: #ffe600; }
+      section.panel .item.tools .animate .block .a:hover .button, section.panel .item.tools .animate .block .a:active .button, section.panel .item.tools .animate .block .a:visited .button {
+        color: #111111;
+        background-color: #ffe600; }
+    section.panel .item.tools .animate .block .c ul {
+      opacity: 0; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(1) {
+        animation-delay: 0s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(2) {
+        animation-delay: 0.5s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(3) {
+        animation-delay: 1s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(4) {
+        animation-delay: 1.5s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(5) {
+        animation-delay: 2s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(6) {
+        animation-delay: 2.5s; }
+      section.panel .item.tools .animate .block .c ul li:nth-child(7) {
+        animation-delay: 3s; }
 section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
   padding-top: 2em; }
   section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons {
@@ -412,45 +451,6 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-section.panel.risk-based-customer .item.tools .animate {
-  opacity: 1;
-  display: flex; }
-  section.panel.risk-based-customer .item.tools .animate .block {
-    background: rgba(255, 255, 255, 0.2);
-    margin: 2em auto;
-    padding: 2em;
-    overflow: hidden;
-    height: 310px; }
-    section.panel.risk-based-customer .item.tools .animate .block .a {
-      text-align: center; }
-      section.panel.risk-based-customer .item.tools .animate .block .a .button {
-        display: inline-block;
-        opacity: 1;
-        border: 2px solid #ffe600;
-        border-radius: 0.5em;
-        padding: 1em;
-        animation-duration: 1s;
-        font-weight: 700;
-        color: #ffe600; }
-      section.panel.risk-based-customer .item.tools .animate .block .a:hover .button, section.panel.risk-based-customer .item.tools .animate .block .a:active .button, section.panel.risk-based-customer .item.tools .animate .block .a:visited .button {
-        color: #111111;
-        background-color: #ffe600; }
-    section.panel.risk-based-customer .item.tools .animate .block .c ul {
-      opacity: 0; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(1) {
-        animation-delay: 0s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(2) {
-        animation-delay: 0.5s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(3) {
-        animation-delay: 1s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(4) {
-        animation-delay: 1.5s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(5) {
-        animation-delay: 2s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(6) {
-        animation-delay: 2.5s; }
-      section.panel.risk-based-customer .item.tools .animate .block .c ul li:nth-child(7) {
-        animation-delay: 3s; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-risk-based.jpg");

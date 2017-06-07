@@ -91,7 +91,7 @@ $(function () { // wait for document ready
             $(this).remove();
         }
 
-        $('section.panel.risk-based-customer .item.tools .animate .block .a').one('mouseover',function(){
+        $('section.panel .item.tools .animate .block .a').one('mouseover',function(){
             var animate_el = $(this).next('.c').find('ul');
             var newone = animate_el.clone(true);
             newone.css('opacity',1);
