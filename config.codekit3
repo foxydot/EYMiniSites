@@ -253,6 +253,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/biz_icons_biz_problem.png": {
+		"ft": 32768,
+		"iS": 28508,
+		"oA": 0,
+		"oAP": "\/img\/biz_icons_biz_problem.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/biz_icons_biz_solution.png": {
+		"ft": 32768,
+		"iS": 14682,
+		"oA": 0,
+		"oAP": "\/img\/biz_icons_biz_solution.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/bkg-intelligent-cross-selling.jpg": {
 		"ft": 16384,
 		"iS": 153342,
@@ -366,6 +388,16 @@
 		"oAP": "\/img\/favicon.ico",
 		"oF": 0
 		},
+	"\/img\/headshot-abe.jpg": {
+		"ft": 16384,
+		"iS": 253026,
+		"oA": 0,
+		"oAP": "\/img\/headshot-abe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/headshot-anne.jpg": {
 		"ft": 16384,
 		"iS": 30478,
@@ -374,6 +406,26 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-dan.jpg": {
+		"ft": 16384,
+		"iS": 132796,
+		"oA": 0,
+		"oAP": "\/img\/headshot-dan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/headshot-john.jpg": {
+		"ft": 16384,
+		"iS": 83490,
+		"oA": 0,
+		"oAP": "\/img\/headshot-john.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/headshot-mary.jpg": {
