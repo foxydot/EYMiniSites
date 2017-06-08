@@ -58,7 +58,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 131072,
+		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -231,6 +231,50 @@
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
+	"\/img\/abcp2p-1-a.png": {
+		"ft": 32768,
+		"iS": 42094,
+		"oA": 0,
+		"oAP": "\/img\/abcp2p-1-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/abcp2p-2-a.png": {
+		"ft": 32768,
+		"iS": 423170,
+		"oA": 0,
+		"oAP": "\/img\/abcp2p-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/abe-1-a.png": {
+		"ft": 32768,
+		"iS": 348325,
+		"oA": 0,
+		"oAP": "\/img\/abe-1-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/abe-2-a.png": {
+		"ft": 32768,
+		"iS": 27363,
+		"oA": 0,
+		"oAP": "\/img\/abe-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/anne-1-a.png": {
 		"ft": 32768,
 		"iS": 30326,
@@ -275,6 +319,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/bkg-blockchain-p2p.jpg": {
+		"ft": 16384,
+		"iS": 533879,
+		"oA": 0,
+		"oAP": "\/img\/bkg-blockchain-p2p.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bkg-intelligent-cross-selling.jpg": {
 		"ft": 16384,
 		"iS": 153342,
@@ -303,6 +357,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/dan-1-a.png": {
+		"ft": 32768,
+		"iS": 131409,
+		"oA": 0,
+		"oAP": "\/img\/dan-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/dan-1-b.png": {
+		"ft": 32768,
+		"iS": 20286,
+		"oA": 0,
+		"oAP": "\/img\/dan-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/digital_building.png": {
@@ -388,6 +464,16 @@
 		"oAP": "\/img\/favicon.ico",
 		"oF": 0
 		},
+	"\/img\/headshot-abcp2p.jpg": {
+		"ft": 16384,
+		"iS": 31118,
+		"oA": 0,
+		"oAP": "\/img\/headshot-abcp2p.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/headshot-abe.jpg": {
 		"ft": 16384,
 		"iS": 253026,
@@ -413,6 +499,16 @@
 		"iS": 132796,
 		"oA": 0,
 		"oAP": "\/img\/headshot-dan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/headshot-jane.jpg": {
+		"ft": 16384,
+		"iS": 32546,
+		"oA": 0,
+		"oAP": "\/img\/headshot-jane.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -500,6 +596,83 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/jane-1-a.png": {
+		"ft": 32768,
+		"iS": 38121,
+		"oA": 0,
+		"oAP": "\/img\/jane-1-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/jane-2-a.png": {
+		"ft": 32768,
+		"iS": 382980,
+		"oA": 0,
+		"oAP": "\/img\/jane-2-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/jane-3-a.png": {
+		"ft": 32768,
+		"iS": 66161,
+		"oA": 0,
+		"oAP": "\/img\/jane-3-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/john-1-a.png": {
+		"ft": 32768,
+		"iS": 122398,
+		"oA": 0,
+		"oAP": "\/img\/john-1-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/john-2-a.png": {
+		"ft": 32768,
+		"iS": 22591,
+		"oA": 0,
+		"oAP": "\/img\/john-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/john-2-b.png": {
+		"ft": 32768,
+		"iS": 25455,
+		"oA": 0,
+		"oAP": "\/img\/john-2-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/john-3-a.png": {
+		"ft": 32768,
+		"iS": 190307,
+		"oA": 0,
+		"oAP": "\/img\/john-3-a.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -635,10 +808,10 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.html": {
+	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/index.php",
 		"oF": 0
 		},
 	"\/js\/main-min.js": {
@@ -703,6 +876,30 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/panel-blockchain-p2p.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-blockchain-p2p.php",
+		"oF": 0
+		},
+	"\/panel-intelligent-cross-selling.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-intelligent-cross-selling.php",
+		"oF": 0
+		},
+	"\/panel-risk-based-customer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-risk-based-customer.php",
+		"oF": 0
+		},
+	"\/panel-wearable-loss-prevention.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-wearable-loss-prevention.php",
+		"oF": 0
 		},
 	"\/robots.txt": {
 		"ft": 8192,

@@ -92,6 +92,8 @@ section.intro, section.panel {
         right: auto;
         width: auto;
         opacity: 0; }
+      section.intro div.screen .wrap .carousel, section.panel div.screen .wrap .carousel {
+        margin-top: 2em; }
 
 section.intro {
   background-image: url(../img/bkg-intro-panel.jpg);
@@ -312,6 +314,14 @@ section.panel .item.demo .animate {
       animation-fill-mode: forwards; }
     section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
+section.panel .item.requirements .animate {
+  opacity: 1;
+  display: flex; }
+  section.panel .item.requirements .animate .block {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 2em auto;
+    padding: 2em;
+    overflow: hidden; }
 section.panel .item.tools .animate {
   opacity: 1;
   display: flex; }
@@ -451,6 +461,105 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block {
+  padding-top: 2em; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons {
+    margin: -2em; }
+    section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img {
+      position: absolute; }
+    section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img.john-1-a {
+      opacity: 0;
+      bottom: 0;
+      right: 1em;
+      animation-delay: 0s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img.dan-1-a {
+    opacity: 0;
+    left: 6em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img.dan-1-b {
+    opacity: 0;
+    bottom: -1em;
+    right: 2em;
+    animation-delay: 3s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-a {
+    opacity: 0;
+    top: 1.5em;
+    left: 6em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-b {
+    opacity: 0;
+    bottom: 0;
+    right: 6em;
+    animation-delay: 3s;
+    animation-name: zoomInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons img.abe-1-a {
+    opacity: 0;
+    top: 0;
+    left: 4em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons img.john-3-a {
+    opacity: 0;
+    top: 0;
+    left: 6em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons img.abe-2-a {
+    opacity: 0;
+    top: 1.5em;
+    left: 4em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-risk-based.jpg");
@@ -463,6 +572,12 @@ section.panel.intelligent-cross-selling.bkgimg {
   background-size: cover; }
   section.panel.intelligent-cross-selling.bkgimg .screen {
     background-color: rgba(255, 255, 255, 0.4); }
+
+section.panel.blockchain-p2p.bkgimg {
+  background-image: url("../img/bkg-blockchain-p2p.jpg");
+  background-size: cover; }
+  section.panel.blockchain-p2p.bkgimg .screen {
+    background-color: rgba(17, 17, 17, 0.7); }
 
 footer {
   background: #2E2F2F;
