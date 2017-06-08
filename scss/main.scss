@@ -392,6 +392,11 @@ section.panel{
         margin: 2em auto;
         padding: 2em;
         overflow: hidden;
+
+      }
+      .req-icon{
+        background: $yellow;
+        height: 10em;
       }
     }
   }
@@ -743,19 +748,144 @@ section.panel{
       }
     }
   }
+
+
+  &.blockchain-p2p{
+    .item.demo {
+      #p2p-jane-1{
+        .block{
+          padding-top: 2em;
+          .c{
+            .animate-icons{
+              margin: -2em;
+              img{
+                position: absolute;
+              }
+              img.jane-1-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 2em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #p2p-abcp2p-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              img{
+                position: absolute;
+              }
+              img.abcp2p-1-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 2em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #p2p-jane-2{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              img{
+                position: absolute;
+              }
+              img.jane-2-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 1em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #p2p-abcp2p-2{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.abcp2p-2-a{
+                max-width: 300px;
+                opacity: 0;
+                top: 1em;
+                right: 2em;
+                bottom: 1em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #p2p-jane-3{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.jane-3-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 2em;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }
 section.panel.risk-based-customer.bkgimg{
   background-image: url('../img/bkg-risk-based.jpg');
   background-size: cover;
   .screen{
-    background-color: rgba($white,0.25);
+    background-color: rgba($black,0.25);
   }
 }
 section.panel.intelligent-cross-selling.bkgimg{
   background-image: url('../img/bkg-intelligent-cross-selling.jpg');
   background-size: cover;
   .screen{
-    background-color: rgba($white,0.4);
+    background-color: rgba($black,0.4);
   }
 }
 section.panel.blockchain-p2p.bkgimg{

@@ -322,6 +322,9 @@ section.panel .item.requirements .animate {
     margin: 2em auto;
     padding: 2em;
     overflow: hidden; }
+  section.panel .item.requirements .animate .req-icon {
+    background: #ffe600;
+    height: 10em; }
 section.panel .item.tools .animate {
   opacity: 1;
   display: flex; }
@@ -560,18 +563,93 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
+section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block {
+  padding-top: 2em; }
+  section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons {
+    margin: -2em; }
+    section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons img {
+      position: absolute; }
+    section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons img.jane-1-a {
+      max-width: 300px;
+      opacity: 0;
+      bottom: 0;
+      right: 2em;
+      animation-delay: 0s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons {
+  margin: -2em; }
+  section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons img.abcp2p-1-a {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    right: 2em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons {
+  margin: -2em; }
+  section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons img.jane-2-a {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    right: 1em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons img.abcp2p-2-a {
+    max-width: 300px;
+    opacity: 0;
+    top: 1em;
+    right: 2em;
+    bottom: 1em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons img.jane-3-a {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    right: 2em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-risk-based.jpg");
   background-size: cover; }
   section.panel.risk-based-customer.bkgimg .screen {
-    background-color: rgba(255, 255, 255, 0.25); }
+    background-color: rgba(17, 17, 17, 0.25); }
 
 section.panel.intelligent-cross-selling.bkgimg {
   background-image: url("../img/bkg-intelligent-cross-selling.jpg");
   background-size: cover; }
   section.panel.intelligent-cross-selling.bkgimg .screen {
-    background-color: rgba(255, 255, 255, 0.4); }
+    background-color: rgba(17, 17, 17, 0.4); }
 
 section.panel.blockchain-p2p.bkgimg {
   background-image: url("../img/bkg-blockchain-p2p.jpg");

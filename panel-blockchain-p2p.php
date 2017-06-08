@@ -76,8 +76,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-1-a" src="img/jane-1-a.png" />
-                                        <img class="jane-1-b" src="img/jane-1-b.png" />
-                                        <img class="jane-1-c" src="img/jane-1-c.png" />
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +130,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-2-a" src="img/jane-2-a.png" />
-                                        <img class="jane-2-b" src="img/jane-2-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +156,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcp2p-2-a" src="img/abcp2p-2-a.png" />
-                                        <img class="abcp2p-2-b" src="img/abcp2p-2-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -187,7 +183,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-3-a" src="img/jane-3-a.png" />
-                                        <img class="jane-3-b" src="img/jane-3-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -239,6 +234,11 @@
                             </div>
                             <div class="animate requirement col-md-8">
                                 Core Insure processing platform manages <strong>policy</strong> and <strong>billing transactions</strong> for each P2P community.
+                            </div>
+                        </div>
+                        <div class="row interstitial">
+                            <div class="col-md-11 col-md-offset-1">
+                                <a class="button" href="#next">Now see how our tools support Blockchain P2P ></a>
                             </div>
                         </div>
                     </div>
