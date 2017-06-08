@@ -425,6 +425,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/EY_ DI_Innovation_Center_icons_iot_loss_prevention.png": {
+		"ft": 32768,
+		"iS": 3982,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_iot_loss_prevention.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/EY_ DI_Innovation_Center_icons_IoT_smart_devices.png": {
 		"ft": 32768,
 		"iS": 15016,
@@ -877,6 +888,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/panel-automated-claims.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-automated-claims.php",
+		"oF": 0
+		},
 	"\/panel-blockchain-p2p.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -887,6 +904,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel-intelligent-cross-selling.php",
+		"oF": 0
+		},
+	"\/panel-iot-loss-prevention.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-iot-loss-prevention.php",
 		"oF": 0
 		},
 	"\/panel-risk-based-customer.php": {

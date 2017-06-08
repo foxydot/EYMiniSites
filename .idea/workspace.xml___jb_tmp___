@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="start on Blockchain P2P">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/abcp2p-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/abcp2p-2-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/abe-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/abe-2-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bkg-blockchain-p2p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dan-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dan-1-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-abcp2p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-jane.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jane-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jane-2-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jane-3-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/john-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/john-2-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/john-2-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/john-3-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-risk-based-customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+    <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_ DI_Innovation_Center_icons_iot_loss_prevention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,6 +19,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="80" column="65" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-466">
+              <caret line="17" column="84" lean-forward="true" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="706" column="27" lean-forward="true" selection-start-line="706" selection-start-column="27" selection-end-line="706" selection-end-column="27" />
+            <state relative-caret-position="559">
+              <caret line="731" column="27" lean-forward="true" selection-start-line="731" selection-start-column="27" selection-end-line="731" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -85,6 +95,9 @@
       <find>wlp-</find>
       <find>#</find>
       <find>carousel</find>
+      <find>dan</find>
+      <find>rbc-</find>
+      <find>risk-based-customer</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -92,6 +105,8 @@
       <replace>[ICON NEEDED]</replace>
       <replace>wlp-</replace>
       <replace>p2p-</replace>
+      <replace>ilp-</replace>
+      <replace>automated-claims</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -109,9 +124,11 @@
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
       </list>
     </option>
   </component>
@@ -273,7 +290,7 @@
       <workItem from="1494511196973" duration="1828000" />
       <workItem from="1494958000822" duration="1561000" />
       <workItem from="1496758250674" duration="2301000" />
-      <workItem from="1496778863688" duration="15609000" />
+      <workItem from="1496778863688" duration="16604000" />
     </task>
     <task id="LOCAL-00001" summary="added some second page flows">
       <created>1493843117800</created>
@@ -443,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496882941931</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add images to ICS&#10;Move files around for easier editing.">
+      <created>1496932067912</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1496932067912</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104124000" />
+    <option name="totallyTimeSpent" value="105119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1654" y="-93" width="1613" height="956" extended-state="0" />
@@ -505,7 +529,8 @@
     <MESSAGE value="add ics demo" />
     <MESSAGE value="add ics tools" />
     <MESSAGE value="start on Blockchain P2P" />
-    <option name="LAST_COMMIT_MESSAGE" value="start on Blockchain P2P" />
+    <MESSAGE value="Add images to ICS&#10;Move files around for easier editing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add images to ICS&#10;Move files around for easier editing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -701,14 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="59" lean-forward="false" selection-start-line="96" selection-start-column="59" selection-end-line="96" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="628">
@@ -737,8 +754,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="706" column="27" lean-forward="true" selection-start-line="706" selection-start-column="27" selection-end-line="706" selection-end-column="27" />
+        <state relative-caret-position="559">
+          <caret line="731" column="27" lean-forward="true" selection-start-line="731" selection-start-column="27" selection-end-line="731" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466">
+          <caret line="17" column="84" lean-forward="true" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="80" column="65" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
         </state>
       </provider>

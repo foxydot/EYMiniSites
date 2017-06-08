@@ -62,11 +62,9 @@
                      </div>
                      <div class="col-md-3">
                          <a class="subscreen-option iot-loss-prevention" href="#iot-loss-prevention">
-                             <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
+                             <img src="/img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon menu" />
                              <h3>IoT loss prevention:</h3>
-                             <p>More precise and data-driven insight
-                                 into worker compensation exposure risk,
-                                 enabling smart policies <br /><strong>More ></strong></p>
+                             <p>Active monitoring of commercial buildings to prevent leaks, floods or other costly damage.<br /><strong>More ></strong></p></p>
                          </a>
                      </div>
                      <div class="col-md-3">
@@ -75,6 +73,13 @@
                              <h3>Blockchain P2P: </h3>
                              <p>A new, secure way for insurers to engage non-traditional customers and efficiently convert existing polices to P2P market
                                  <br /><strong>More ></strong></p>
+                         </a>
+                     </div>
+                     <div class="col-md-3">
+                         <a class="subscreen-option automated-claims" href="#automated-claims">
+                             <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
+                             <h3>Automated Claims with Telematics: </h3>
+                             <p>A fully automated process for initiating, processign and paying claims with no human intervention.<br /><strong>More ></strong></p></p>
                          </a>
                      </div>
                      <div class="col-md-3">
@@ -93,8 +98,10 @@
          <div id="#panel-top"></div>
          <?php include_once('panel-risk-based-customer.php'); ?>
          <?php include_once('panel-intelligent-cross-selling.php'); ?>
-         <?php include_once('panel-wearable-loss-prevention.php'); ?>
+         <?php include_once('panel-iot-loss-prevention.php'); ?>
          <?php include_once('panel-blockchain-p2p.php'); ?>
+         <?php include_once('panel-automated-claims.php'); ?>
+         <?php include_once('panel-wearable-loss-prevention.php'); ?>
      </main>
       <footer>
           <div class="wrap">
