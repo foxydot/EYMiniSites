@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Customer acquisition costs – which average $900 - $1,000 across the industry are unsustainably high.</dd>
+                                        <dd>Claims processing workflows are currently engineered primarily for adjustor efficiency, not for maximizing customer experience?</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Insurers have the data they need to identify likely customers more efficiently and reach out to them in automated yet personalized ways</dd>
+                                        <dd>When integrated with core processing  systems, advanced telematics data enables insurers to communicate with customer claimants directly via chatbot, with each communication triggering the next step in the claims workflow. Similarly, robotic process automation can extend from first notification of loss (FNOL) through to payment and claim settlement.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -56,122 +56,52 @@
                             </div>
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now, see how it works ></a>
+                                    <a class="button" href="#next">Now, see what's required ></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="item demo" id="automated-claims-demo">
-                        <div class="interactive-demo1 animate" id="act-mary-1">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-mary.jpg" />
-                                    <h5 class="human-name">Mary</h5>
-                                    <h6 class="human-job-title">Policy underwriter</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Reviews existing policy data enhanced with satellite views of homes</li>
-                                        <li>Conducts analysis of roof quality and surrounding terrain</li>
-                                        <li>Identifies portfolio targets with pre-approved offers</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="mary-1-a" src="img/mary-1-a.png" />
-                                        <img class="mary-1-b" src="img/mary-1-b.png" />
-                                        <img class="mary-1-c" src="img/mary-1-c.png" />
-                                    </div>
-                                </div>
+                    <div class="item requirements" id="automated-claims-requirements">
+                        <h2>What’s required: connected digital architecture</h2>
+                        <div class="row">
+                            <div class="animate requirement col-md-3">
+                                <img class="img-circle req-icon" src="" />
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-1">
-                                    <div class="medots"></div>
-                                </div>
-                                <div class="col-md-11">
-                                    <a class="button" href="#act-rick-1">See what happens next ></a>
-                                    <div class="button-replacement">Forwards link to pre-approved policy offers to agent Rick, via text (his preferred format)</div>
-                                </div>
+                            <div class="animate requirement col-md-9">
+                                Telematics video imagery and accompany data is downloaded from Claims cloud and triggers automated FNOL
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="act-rick-1">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
-                                    <h5 class="human-name">Rick</h5>
-                                    <h6 class="human-job-title">Agent</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Receives alert on his phone and reviews offers</li>
-                                        <li>Thinks that he’s been looking for ways to expand his portfolio with this carrier and be more proactive with clients</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="rick-1-a" src="img/rick-1-a.png" />
-                                        <img class="rick-1-b" src="img/rick-1-b.png" />
-                                        <img class="rick-1-c" src="img/rick-1-c.png" />
-                                    </div>
-                                </div>
+                        <div class="row">
+                            <div class="animate requirement col-md-9">
+                                Integrated Chabot platform manages conversation with policyholder and claimants to step through robotics automated workflow
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-1">
-                                    <div class="medots"></div>
-                                </div>
-                                <div class="col-md-11">
-                                    <a class="button" href="#act-anne-1">See what happens next ></a>
-                                    <div class="button-replacement">Texts his client Anne (who also prefers text communications)</div>
-                                </div>
+                            <div class="animate requirement col-md-3">
+                                <img class="img-circle req-icon" src="" />
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="act-anne-1">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-anne.jpg" />
-                                    <h5 class="human-name">Anne</h5>
-                                    <h6 class="human-job-title">Client</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Receives and reviews the offer</li>
-                                        <li>Accepts the offer and binds the policy</li>
-                                        <li>Texts Rick the news – “Let’s talk soon”</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="anne-1-a" src="img/anne-1-a.png" />
-                                        <img class="anne-1-b" src="img/anne-1-b.png" />
-                                    </div>
-                                </div>
+                        <div class="row">
+                            <div class="animate requirement col-md-3">
+                                <img class="img-circle req-icon" src="" />
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-1">
-                                    <div class="medots"></div>
-                                </div>
-                                <div class="col-md-11">
-                                    <a class="button" href="#act-rick-2">See what happens next ></a>
-                                    <div class="button-replacement">Rick gets notified!</div>
-                                </div>
+                            <div class="animate requirement col-md-9">
+                                Secure payment system processes payments that are initiated via chatbot  customer conversation and claim system triggers
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="act-rick-2">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
-                                    <h5 class="human-name">Rick</h5>
-                                    <h6 class="human-job-title">Agent</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Receives automated notification</li>
-                                        <li>Decides to review other offers from Mary</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="rick-2-a" src="img/rick-2-a.png" />
-                                        <img class="rick-2-b" src="img/rick-2-b.png" />
-                                    </div>
-                                </div>
+                        <div class="row">
+                            <div class="animate requirement col-md-9">
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">See what it takes ></a>
-                                </div>
+                            <div class="animate requirement col-md-3">
+                                <img class="img-circle req-icon" src="" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="animate requirement col-md-4">
+                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="" />
+                            </div>
+                            <div class="animate requirement col-md-8">
+                                Core Insure processing platform manages related coverage verification, policy account data, and integrated policy, claims transactions
                             </div>
                         </div>
                     </div>
@@ -187,66 +117,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Pre-approved policies based on risk-profile matching</li>
-                                            <li>Precise risk analysis and accurate external data</li>
-                                            <li>Insurance score used for pre-approval</li>
-                                            <li>Visual presentation of pre-approved homes</li>
-                                            <li class="trigger">Integrated transactional data enabling automated processing</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="animate tool col-md-6">
-                                <div class="block row">
-                                    <div class="col-md-4 a">
-                                        <h4>Strategy</h4>
-                                        <img src="img/icon-strategy.png" class="icon" />
-                                        <h6>Innovation</h6>
-                                        <div class="button">Learn More</div>
-                                    </div>
-                                    <div class="col-md-8 c">
-                                        <ul>
-                                            <li>Prioritized demographics and segmentation (e.g., first-time home buyers, HNW zip codes)</li>
-                                            <li>Increased conversion rates</li>
-                                            <li>Tech-enabled innovations within distribution and customer acquisition</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="animate tool col-md-6">
-                                <div class="block row">
-                                    <div class="col-md-4 a">
-                                        <h4>Tools and technology</h4>
-                                        <img src="img/icon-tools.png" class="icon" />
-                                        <h6>Digital architecture</h6>
-                                        <div class="button">Learn More</div>
-                                    </div>
-                                    <div class="col-md-8 c">
-                                        <ul>
-                                            <li>AI-enabled IVAs for scalable and personalized communication</li>
-                                            <li>Mobile app for customers</li>
-                                            <li>Portal and mobile app for brokers and agents</li>
-                                            <li>Underwriter desktop systems</li>
-                                            <li>Risk profile engine</li>
-                                            <li>Integrated geo mapping</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="animate tool col-md-6">
-                                <div class="block row">
-                                    <div class="col-md-4 a">
-                                        <h4>People and organization</h4>
-                                        <img src="img/icon-people.png" class="icon" />
-                                        <h6>Agility</h6>
-                                        <div class="button">Learn More</div>
-                                    </div>
-                                    <div class="col-md-8 c">
-                                        <ul>
-                                            <li>Portfolio underwriting teams/programs</li>
-                                            <li>Risk-appetite visibility</li>
-                                            <li>Alignment between underwriting and channel KPIs</li>
-                                            <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
+                                            <li>Advanced telematics with video</li>
+                                            <li>Video imagery linked to customer and policy data</li>
+                                            <li>Downloadable cloud telematics data mapped to claims FNOL and Loss Details graphs</li>
+                                            <li>Conversational data via chatbot with claims workflow selections</li>
+                                            <li>Settlement calculation data </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -261,7 +136,63 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, agent and customer</li>
+                                            <li>Secure, auditable chatbot communications with policyholder and claimants</li>
+                                            <li>Encryption to protect data transmissions between carrier and customer</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="animate tool col-md-6">
+                                <div class="block row">
+                                    <div class="col-md-4 a">
+                                        <h4>Tools and technology</h4>
+                                        <img src="img/icon-tools.png" class="icon" />
+                                        <h6>Digital architecture</h6>
+                                        <div class="button">Learn More</div>
+                                    </div>
+                                    <div class="col-md-8 c">
+                                        <ul>
+                                            <li>Video telematics device capturing  internal/external imagery</li>
+                                            <li>Chatbot platform integrated with core claims processing system</li>
+                                            <li>Claims processing system connected to Cloud telematics data</li>
+                                            <li>Robotics process automation enabled claims workflow</li>
+                                            <li>Chatbot enabled customer mobile application</li>
+                                            <li>Robotics enabled Auto physical damage appraisal engine</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="animate tool col-md-6">
+                                <div class="block row">
+                                    <div class="col-md-4 a">
+                                        <h4>Strategy</h4>
+                                        <img src="img/icon-strategy.png" class="icon" />
+                                        <h6>Innovation</h6>
+                                        <div class="button">Learn More</div>
+                                    </div>
+                                    <div class="col-md-8 c">
+                                        <ul>
+                                            <li>Increased customer engagement via improved claims experience</li>
+                                            <li>Claims cost control impacting improved ratios</li>
+                                            <li>Straight through processing within core operations</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="animate tool col-md-6">
+                                <div class="block row">
+                                    <div class="col-md-4 a">
+                                        <h4>People and organization</h4>
+                                        <img src="img/icon-people.png" class="icon" />
+                                        <h6>Agility</h6>
+                                        <div class="button">Learn More</div>
+                                    </div>
+                                    <div class="col-md-8 c">
+                                        <ul>
+                                            <li>Target operating model staffing capabilities</li>
+                                            <li>Claims organization restructuring focused on highest value activities</li>
+                                            <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
+                                            <li>Transformation into Digital company culture</li>
                                         </ul>
                                     </div>
                                 </div>
