@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Customer acquisition costs – which average $900 - $1,000 across the industry are unsustainably high.</dd>
+                                        <dd>Insurers lack the ability to proactively monitor commercial buildings and other structures for water leakage, broken pipes and other types of costly damage, which makes risk assessment and policy pricing very difficult.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Insurers have the data they need to identify likely customers more efficiently and reach out to them in automated yet personalized ways</dd>
+                                        <dd>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to their facilities and equipment to identify small threats that may come.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -62,23 +62,23 @@
                         </div>
                     </div>
                     <div class="item demo" id="iot-loss-prevention-demo">
-                        <div class="interactive-demo1 animate" id="ilp-mary-1">
+                        <div class="interactive-demo1 animate" id="ilp-charles-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-mary.jpg" />
-                                    <h5 class="human-name">Mary</h5>
-                                    <h6 class="human-job-title">Policy underwriter</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-charles.jpg" />
+                                    <h5 class="human-name">Charles</h5>
+                                    <h6 class="human-job-title">Commerical building owner</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Reviews existing policy data enhanced with satellite views of homes</li>
-                                        <li>Conducts analysis of roof quality and surrounding terrain</li>
-                                        <li>Identifies portfolio targets with pre-approved offers</li>
+                                        <li>Sees an ad about a new “smart sensor” program in exchange for discounted policy</li>
+                                        <li>Vaguely remembers an email he received from ABC Insurance about it (he is a reluctant digital customer)</li>
+                                        <li>Clicks to learn more</li>
+                                        <li>Contacts ABC to to purchase, install and register devices</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="mary-1-a" src="img/mary-1-a.png" />
-                                        <img class="mary-1-b" src="img/mary-1-b.png" />
-                                        <img class="mary-1-c" src="img/mary-1-c.png" />
+                                        <img class="charles-1-a" src="img/charles-1-a.png" />
+                                        <img class="charles-1-b" src="img/charles-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -87,27 +87,28 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#ilp-rick-1">See what happens next ></a>
-                                    <div class="button-replacement">Forwards link to pre-approved policy offers to agent Rick, via text (his preferred format)</div>
+                                    <a class="button" href="#ilp-abcins-1">See what happens next ></a>
+                                    <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="ilp-rick-1">
+                        <div class="interactive-demo1 animate" id="ilp-abcins-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
-                                    <h5 class="human-name">Rick</h5>
-                                    <h6 class="human-job-title">Agent</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-abcins.jpg" />
+                                    <h5 class="human-name">ABC Insuracne Inc.</h5>
+                                    <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives alert on his phone and reviews offers</li>
-                                        <li>Thinks that he’s been looking for ways to expand his portfolio with this carrier and be more proactive with clients</li>
+                                        <li>Confirms Charles’s participation</li>
+                                        <li>Completes sale and shipping of device</li>
+                                        <li>Confirms device registration</li>
+                                        <li>Sends Charles notification app for download</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="rick-1-a" src="img/rick-1-a.png" />
-                                        <img class="rick-1-b" src="img/rick-1-b.png" />
-                                        <img class="rick-1-c" src="img/rick-1-c.png" />
+                                        <img class="abcins-1-a" src="img/abcins-1-a.png" />
+                                        <img class="abcins-1-b" src="img/abcins-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -116,27 +117,27 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#ilp-anne-1">See what happens next ></a>
-                                    <div class="button-replacement">Texts his client Anne (who also prefers text communications)</div>
+                                    <a class="button" href="#ilp-sensors-1">See what happens next ></a>
+                                    <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="ilp-anne-1">
+                        <div class="interactive-demo1 animate" id="ilp-sensors-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-anne.jpg" />
-                                    <h5 class="human-name">Anne</h5>
-                                    <h6 class="human-job-title">Client</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-sensors.jpg" />
+                                    <h5 class="human-name">Sensors</h5>
+                                    <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives and reviews the offer</li>
-                                        <li>Accepts the offer and binds the policy</li>
-                                        <li>Texts Rick the news – “Let’s talk soon”</li>
+                                        <li>Monitors water flow to establish baseline</li>
+                                        <li>Sets protocol to notify Charles if abnormal measures are detected</li>
+                                        <li>Detects leak and notifies Charles via an app alert</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="anne-1-a" src="img/anne-1-a.png" />
-                                        <img class="anne-1-b" src="img/anne-1-b.png" />
+                                        <img class="sensors-1-a" src="img/sensors-1-a.png" />
+                                        <img class="sensors-1-b" src="img/sensors-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -145,26 +146,27 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#ilp-rick-2">See what happens next ></a>
-                                    <div class="button-replacement">Rick gets notified!</div>
+                                    <a class="button" href="#ilp-charles-2">See what happens next ></a>
+                                    <div class="button-replacement">Charles gets notified!</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="ilp-rick-2">
+                        <div class="interactive-demo1 animate" id="ilp-charles-2">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
-                                    <h5 class="human-name">Rick</h5>
-                                    <h6 class="human-job-title">Agent</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-charles.jpg" />
+                                    <h5 class="human-name">Charles</h5>
+                                    <h6 class="human-job-title">Commerical building owner</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives automated notification</li>
-                                        <li>Decides to review other offers from Mary</li>
+                                        <li>Receives alert on app</li>
+                                        <li>Shuts off water in that zone of the building until the issue is rectified</li>
+                                        <li>Receives thank-you message from ABC for his loss prevention</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="rick-2-a" src="img/rick-2-a.png" />
-                                        <img class="rick-2-b" src="img/rick-2-b.png" />
+                                        <img class="charles-2-a" src="img/charles-2-a.png" />
+                                        <img class="charles-2-b" src="img/charles-2-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -187,11 +189,12 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Pre-approved policies based on risk-profile matching</li>
-                                            <li>Precise risk analysis and accurate external data</li>
-                                            <li>Insurance score used for pre-approval</li>
-                                            <li>Visual presentation of pre-approved homes</li>
-                                            <li class="trigger">Integrated transactional data enabling automated processing</li>
+                                            <li>Ability to package sale and installation of IoT devices</li>
+                                            <li>IoT platform monitoring</li>
+                                            <li>Integration of IoT platform with underwriter desktop system and core operator system</li>
+                                            <li>Full functionality underwriter workstation system</li>
+                                            <li>Integration of IoT monitoring platform with mobile application</li>
+                                            <li>Ability to target current customers for email promotion</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -206,9 +209,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Prioritized demographics and segmentation (e.g., first-time home buyers, HNW zip codes)</li>
-                                            <li>Increased conversion rates</li>
-                                            <li>Tech-enabled innovations within distribution and customer acquisition</li>
+                                            <li>Willingness to offer discounts for changes in customer behavior</li>
+                                            <li>Capacity to sell and support smart sensors</li>
+                                            <li>Ability to launch products based on varying degrees of risk</li>
+                                            <li>Partnership with IoT providers</li>
+                                            <li>Customer engagement plans to create demand promote new offerings</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -223,12 +228,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>AI-enabled IVAs for scalable and personalized communication</li>
-                                            <li>Mobile app for customers</li>
-                                            <li>Portal and mobile app for brokers and agents</li>
-                                            <li>Underwriter desktop systems</li>
-                                            <li>Risk profile engine</li>
-                                            <li>Integrated geo mapping</li>
+                                            <li>Underwriter workstation</li>
+                                            <li>AquaSeca water monitoring system</li>
+                                            <li>IoT and mobile application monitoring hub</li>
+                                            <li>Integration of IoT platform with underwriter desktop system and core operator system</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -243,10 +246,9 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Portfolio underwriting teams/programs</li>
                                             <li>Risk-appetite visibility</li>
-                                            <li>Alignment between underwriting and channel KPIs</li>
-                                            <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
+                                            <li>Operational agility with tight integration between product development, underwriting and claims</li>
+                                            <li>Company culture that embraces testing and learning</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -261,7 +263,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, agent and customer</li>
+                                            <li>Encryption to protect data transmissions between sensors, carrier and insureds</li>
                                         </ul>
                                     </div>
                                 </div>
