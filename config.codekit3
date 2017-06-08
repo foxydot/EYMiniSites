@@ -51,12 +51,6 @@
 		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
 		"oF": 0
 		},
-	"\/.idea\/workspace.xml___jb_tmp___": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.idea\/workspace.xml___jb_tmp___",
-		"oF": 0
-		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -767,6 +761,50 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p_icons_analytics_platform.png": {
+		"ft": 32768,
+		"iS": 11411,
+		"oA": 0,
+		"oAP": "\/img\/p2p_icons_analytics_platform.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p_icons_globe.png": {
+		"ft": 32768,
+		"iS": 19875,
+		"oA": 0,
+		"oAP": "\/img\/p2p_icons_globe.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p_icons_member_portal.png": {
+		"ft": 32768,
+		"iS": 5076,
+		"oA": 0,
+		"oAP": "\/img\/p2p_icons_member_portal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p_icons_robotic_claims.png": {
+		"ft": 32768,
+		"iS": 14530,
+		"oA": 0,
+		"oAP": "\/img\/p2p_icons_robotic_claims.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

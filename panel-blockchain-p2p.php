@@ -202,7 +202,7 @@
                         <h2>What’s required: connected digital architecture</h2>
                         <div class="row">
                             <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="img/p2p_icons_member_portal.png" />
                             </div>
                             <div class="animate requirement col-md-9">
                                 Member’s <strong>portal and mobile app</strong> integrated with block chain smart contract platform. Integrated <strong>identify management</strong> and <strong>coverage fund</strong> management.
@@ -213,12 +213,12 @@
                                 Robotic <strong>automated claims payout</strong> engine connects with Blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong>
                             </div>
                             <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="img/p2p_icons_robotic_claims.png" />
                             </div>
                         </div>
                         <div class="row">
                             <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="img/p2p_icons_analytics_platform.png" />
                             </div>
                             <div class="animate requirement col-md-9">
                                 Analytics Platform <strong>managing</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong>
@@ -228,7 +228,7 @@
                             <div class="animate requirement col-md-9">
                             </div>
                             <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                                <img class="img-circle req-icon" src="img/p2p_icons_globe.png" />
                             </div>
                         </div>
                         <div class="row">
