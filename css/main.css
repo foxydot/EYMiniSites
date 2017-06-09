@@ -569,6 +569,104 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block {
+  padding-top: 2em; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons {
+    margin: -2em;
+    width: 100%; }
+    section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img {
+      position: absolute; }
+    section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img.charles-1-a {
+      opacity: 0;
+      bottom: 0;
+      right: 0;
+      animation-delay: 0s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+    section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img.charles-1-b {
+      max-width: 300px;
+      opacity: 0;
+      bottom: 0;
+      left: 6em;
+      animation-delay: 6s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img.abcins-1-a {
+    opacity: 0;
+    bottom: 0;
+    right: 3em;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img.abcins-1-b {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    left: 8em;
+    animation-delay: 6s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img.sensors-1-a {
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img.sensors-1-b {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    left: 6em;
+    animation-delay: 6s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img.charles-2-a {
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img.charles-2-b {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    left: 6em;
+    animation-delay: 6s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
 section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block {
   padding-top: 2em; }
   section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons {
