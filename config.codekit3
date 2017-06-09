@@ -58,7 +58,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -231,6 +231,28 @@
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
+	"\/img\/abcins-1-a.png": {
+		"ft": 32768,
+		"iS": 13139,
+		"oA": 0,
+		"oAP": "\/img\/abcins-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/abcins-1-b.png": {
+		"ft": 32768,
+		"iS": 11897,
+		"oA": 0,
+		"oAP": "\/img\/abcins-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/abcp2p-1-a.png": {
 		"ft": 32768,
 		"iS": 199055,
@@ -349,6 +371,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/bkg-iot-loss-prevention.jpg": {
+		"ft": 16384,
+		"iS": 585182,
+		"oA": 0,
+		"oAP": "\/img\/bkg-iot-loss-prevention.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bkg-risk-based.jpg": {
 		"ft": 16384,
 		"iS": 10948602,
@@ -357,6 +389,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/charles-1-a.png": {
+		"ft": 32768,
+		"iS": 171109,
+		"oA": 0,
+		"oAP": "\/img\/charles-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/charles-1-b.png": {
+		"ft": 32768,
+		"iS": 14878,
+		"oA": 0,
+		"oAP": "\/img\/charles-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/charles-2-a.png": {
+		"ft": 32768,
+		"iS": 153633,
+		"oA": 0,
+		"oAP": "\/img\/charles-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/charles-2-b.png": {
+		"ft": 32768,
+		"iS": 38530,
+		"oA": 0,
+		"oAP": "\/img\/charles-2-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/dan-1-a.png": {
@@ -475,6 +551,16 @@
 		"oAP": "\/img\/favicon.ico",
 		"oF": 0
 		},
+	"\/img\/headshot-abcins.jpg": {
+		"ft": 16384,
+		"iS": 92367,
+		"oA": 0,
+		"oAP": "\/img\/headshot-abcins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/headshot-abcp2p.jpg": {
 		"ft": 16384,
 		"iS": 31118,
@@ -503,6 +589,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-charles.png": {
+		"ft": 32768,
+		"iS": 1099106,
+		"oA": 0,
+		"oAP": "\/img\/headshot-charles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/headshot-dan.jpg": {
@@ -553,6 +650,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-sensors.png": {
+		"ft": 32768,
+		"iS": 52703,
+		"oA": 0,
+		"oAP": "\/img\/headshot-sensors.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/icon-data.png": {
@@ -742,6 +850,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/p2p-icons-b.png": {
+		"ft": 32768,
+		"iS": 2032,
+		"oA": 0,
+		"oAP": "\/img\/p2p-icons-b.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p-icons-c.png": {
+		"ft": 32768,
+		"iS": 2427,
+		"oA": 0,
+		"oAP": "\/img\/p2p-icons-c.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/p2p-icons-p.png": {
+		"ft": 32768,
+		"iS": 1302,
+		"oA": 0,
+		"oAP": "\/img\/p2p-icons-p.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/P2P_icon.png": {
 		"ft": 32768,
 		"iS": 39020,
@@ -863,6 +1004,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sensors-1-a.png": {
+		"ft": 32768,
+		"iS": 160084,
+		"oA": 0,
+		"oAP": "\/img\/sensors-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sensors-1-b.png": {
+		"ft": 32768,
+		"iS": 22320,
+		"oA": 0,
+		"oAP": "\/img\/sensors-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -910,6 +1073,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/vendor\/jquery-1.11.2.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.waypoints.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/jquery.waypoints-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0

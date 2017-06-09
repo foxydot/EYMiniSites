@@ -65,7 +65,7 @@
                         <div class="interactive-demo1 animate" id="ilp-charles-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-charles.jpg" />
+                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
                                     <h6 class="human-job-title">Commerical building owner</h6>
                                 </div>
@@ -96,7 +96,7 @@
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-abcins.jpg" />
-                                    <h5 class="human-name">ABC Insuracne Inc.</h5>
+                                    <h5 class="human-name">ABC Insurance Inc.</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
@@ -125,7 +125,7 @@
                         <div class="interactive-demo1 animate" id="ilp-sensors-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-sensors.jpg" />
+                                    <img class="img-circle human-headshot" src="img/headshot-sensors.png" />
                                     <h5 class="human-name">Sensors</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
@@ -154,7 +154,7 @@
                         <div class="interactive-demo1 animate" id="ilp-charles-2">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-charles.jpg" />
+                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
                                     <h6 class="human-job-title">Commerical building owner</h6>
                                 </div>

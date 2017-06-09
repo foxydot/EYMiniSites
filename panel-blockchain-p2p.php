@@ -195,50 +195,60 @@
                     </div>
                     <div class="item requirements" id="blockchain-p2p-requirements">
                         <h2>What’s required: connected digital architecture</h2>
-                        <div class="row">
-                            <div class="animate requirement col-md-3">
+                        <div class="row animate">
+                            <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_member_portal.png" />
                             </div>
-                            <div class="animate requirement col-md-9">
-                                Member’s <strong>portal and mobile app</strong> integrated with block chain smart contract platform. Integrated <strong>identify management</strong> and <strong>coverage fund</strong> management.
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                <p>Member’s <strong>portal and mobile app</strong> integrated with block chain smart contract platform. Integrated <strong>identify management</strong> and <strong>coverage fund</strong> management.</p>
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-9">
-                                Robotic <strong>automated claims payout</strong> engine connects with Blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong>
+                        <div class="row animate">
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                <p>Robotic <strong>automated claims payout</strong> engine connects with Blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong></p>
+                                </div>
                             </div>
-                            <div class="animate requirement col-md-3">
+                            <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_robotic_claims.png" />
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-3">
+                        <div class="row animate">
+                            <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_analytics_platform.png" />
                             </div>
-                            <div class="animate requirement col-md-9">
-                                Analytics Platform <strong>managing</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong>
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                <p>Analytics Platform <strong>managing</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong></p>
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-9">
+                        <div class="row animate">
+                            <div class="requirement text col-md-7">
                             </div>
-                            <div class="animate requirement col-md-3">
+                            <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_globe.png" />
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-4">
-                                <img class="img-circle req-icon" src="" />
-                                <img class="img-circle req-icon" src="" />
-                                <img class="img-circle req-icon" src="" />
+                        <div class="row animate">
+                            <div class="requirement col-md-7">
+                                <img class="img-circle req-icon" src="img/p2p-icons-p.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-b.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-c.png" />
                             </div>
-                            <div class="animate requirement col-md-8">
+                            <div class="requirement col-md-5">
+                                <div class="block">
                                 Core Insure processing platform manages <strong>policy</strong> and <strong>billing transactions</strong> for each P2P community.
+                                </div>
                             </div>
                         </div>
-                        <div class="row interstitial">
-                            <div class="col-md-11 col-md-offset-1">
-                                <a class="button" href="#next">Now see how our tools support Blockchain P2P ></a>
+                        <div class="animate">
+                            <div class="row interstitial">
+                                <div class="col-md-11 col-md-offset-1">
+                                    <a class="button" href="#next">Now see how our tools support Blockchain P2P ></a>
+                                </div>
                             </div>
                         </div>
                     </div>

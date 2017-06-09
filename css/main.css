@@ -314,17 +314,23 @@ section.panel .item.demo .animate {
       animation-fill-mode: forwards; }
     section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
-section.panel .item.requirements .animate {
-  opacity: 1;
-  display: flex; }
-  section.panel .item.requirements .animate .block {
-    background: rgba(255, 255, 255, 0.2);
+section.panel .item.requirements .requirement {
+  display: flex;
+  animation-duration: 2s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards; }
+  section.panel .item.requirements .requirement .block {
+    background: rgba(17, 17, 17, 0.5);
+    font-size: 1.2em;
     margin: 2em auto;
     padding: 2em;
     overflow: hidden; }
-  section.panel .item.requirements .animate .req-icon {
+  section.panel .item.requirements .requirement .req-icon {
     background: #ffe600;
-    height: 10em; }
+    height: 12em;
+    width: 12em;
+    padding: 1em;
+    margin: 1em auto; }
 section.panel .item.tools .animate {
   opacity: 1;
   display: flex; }
@@ -655,6 +661,12 @@ section.panel.blockchain-p2p.bkgimg {
   background-image: url("../img/bkg-blockchain-p2p.jpg");
   background-size: cover; }
   section.panel.blockchain-p2p.bkgimg .screen {
+    background-color: rgba(17, 17, 17, 0.7); }
+
+section.panel.iot-loss-prevention.bkgimg {
+  background-image: url("../img/bkg-iot-loss-prevention.jpg");
+  background-size: cover; }
+  section.panel.iot-loss-prevention.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.7); }
 
 footer {

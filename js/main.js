@@ -91,6 +91,19 @@ $(function () { // wait for document ready
             $(this).remove();
         }
 
+        $('section.panel .item.requirements .animate')
+            .css('opacity', 0) // immediately hide element
+            .waypoint(function(direction) {
+            if (direction === 'down') {
+                $(this.element).animate({ opacity: 1 });
+            }
+            else {
+                $(this.element).animate({ opacity: 0 });
+            }
+        }, {
+            offset: 'bottom-in-view'
+        });
+
         $('section.panel .item.tools .animate .block .a').one('mouseover',function(){
             var animate_el = $(this).next('.c').find('ul');
             var newone = animate_el.clone(true);
