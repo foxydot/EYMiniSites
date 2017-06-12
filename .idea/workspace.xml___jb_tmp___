@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_4.png" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/abe-1-a.png" afterPath="$PROJECT_DIR$/img/abe-1-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/abe-2-a.png" afterPath="$PROJECT_DIR$/img/abe-2-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dan-1-a.png" afterPath="$PROJECT_DIR$/img/dan-1-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dan-1-b.png" afterPath="$PROJECT_DIR$/img/dan-1-b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-1-a.png" afterPath="$PROJECT_DIR$/img/john-1-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-2-a.png" afterPath="$PROJECT_DIR$/img/john-2-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-2-b.png" afterPath="$PROJECT_DIR$/img/john-2-b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-3-a.png" afterPath="$PROJECT_DIR$/img/john-3-a.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,21 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
+            <state relative-caret-position="376">
               <caret line="118" column="111" lean-forward="false" selection-start-line="118" selection-start-column="111" selection-end-line="118" selection-end-column="111" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="1089" column="36" lean-forward="true" selection-start-line="1089" selection-start-column="36" selection-end-line="1089" selection-end-column="36" />
+            <state relative-caret-position="399">
+              <caret line="795" column="26" lean-forward="false" selection-start-line="795" selection-start-column="26" selection-end-line="795" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -128,9 +140,9 @@
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
       </list>
     </option>
   </component>
@@ -145,8 +157,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1847" />
-    <option name="y" value="25" />
+    <option name="x" value="-1544" />
+    <option name="y" value="44" />
     <option name="width" value="1512" />
     <option name="height" value="977" />
   </component>
@@ -292,7 +304,7 @@
       <workItem from="1494511196973" duration="1828000" />
       <workItem from="1494958000822" duration="1561000" />
       <workItem from="1496758250674" duration="2301000" />
-      <workItem from="1496778863688" duration="37265000" />
+      <workItem from="1496778863688" duration="38666000" />
     </task>
     <task id="LOCAL-00001" summary="added some second page flows">
       <created>1493843117800</created>
@@ -525,14 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1497279077002</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Automated claims">
+      <created>1497280164400</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1497280164400</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125780000" />
+    <option name="totallyTimeSpent" value="127181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1847" y="25" width="1512" height="977" extended-state="0" />
+    <frame x="-1544" y="44" width="1512" height="977" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15410052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -563,7 +582,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add demo images mary-1" />
     <MESSAGE value="add demo images rick-1" />
     <MESSAGE value="add images anne-1 and rick-2" />
     <MESSAGE value="trying to get scrollto working" />
@@ -588,7 +606,8 @@
     <MESSAGE value="add iot images&#10;attempt to get animation for new p2p page working right" />
     <MESSAGE value="time iot images" />
     <MESSAGE value="final P2P page" />
-    <option name="LAST_COMMIT_MESSAGE" value="final P2P page" />
+    <MESSAGE value="Automated claims" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automated claims" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -810,14 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="1089" column="36" lean-forward="true" selection-start-line="1089" selection-start-column="36" selection-end-line="1089" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/jquery.waypoints.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -846,8 +857,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="376">
           <caret line="118" column="111" lean-forward="false" selection-start-line="118" selection-start-column="111" selection-end-line="118" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="795" column="26" lean-forward="false" selection-start-line="795" selection-start-column="26" selection-end-line="795" selection-end-column="26" />
           <folding />
         </state>
       </provider>

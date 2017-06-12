@@ -508,13 +508,14 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
 section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block {
   padding-top: 2em; }
   section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons {
-    margin: -2em; }
+    margin: -2em;
+    width: 100%; }
     section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img {
       position: absolute; }
     section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img.john-1-a {
       opacity: 0;
       bottom: 0;
-      right: 1em;
+      right: 0;
       animation-delay: 0s;
       -webkit-animation-name: slideInUp;
       -moz-animation-name: slideInUp;
@@ -549,7 +550,7 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animat
     position: absolute; }
   section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-a {
     opacity: 0;
-    top: 1.5em;
+    bottom: 0;
     left: 6em;
     animation-delay: 0s;
     -webkit-animation-name: slideInUp;
@@ -559,7 +560,7 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animat
   section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-b {
     opacity: 0;
     bottom: 0;
-    right: 6em;
+    right: 4em;
     animation-delay: 3s;
     animation-name: zoomInUp; }
 section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons {
@@ -569,8 +570,8 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate
     position: absolute; }
   section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons img.abe-1-a {
     opacity: 0;
-    top: 0;
-    left: 4em;
+    bottom: 0;
+    right: 0;
     animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
@@ -583,8 +584,8 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animat
     position: absolute; }
   section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons img.john-3-a {
     opacity: 0;
-    top: 0;
-    left: 6em;
+    bottom: 0;
+    right: 0;
     animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
@@ -597,8 +598,8 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate
     position: absolute; }
   section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons img.abe-2-a {
     opacity: 0;
-    top: 1.5em;
-    left: 4em;
+    bottom: 0;
+    left: 6em;
     animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;

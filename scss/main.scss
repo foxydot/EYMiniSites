@@ -656,13 +656,14 @@ section.panel{
           .c{
             .animate-icons{
               margin: -2em;
+              width: 100%;
               img{
                 position: absolute;
               }
               img.john-1-a{
                 opacity: 0;
                 bottom: 0;
-                right: 1em;
+                right: 0;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
                 -moz-animation-name: slideInUp;
@@ -716,7 +717,7 @@ section.panel{
               }
               img.john-2-a{
                 opacity: 0;
-                top: 1.5em;
+                bottom: 0;
                 left: 6em;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
@@ -727,7 +728,7 @@ section.panel{
               img.john-2-b{
                 opacity: 0;
                 bottom: 0;
-                right: 6em;
+                right: 4em;
                 animation-delay: 3s;
                 animation-name: zoomInUp;
               }
@@ -746,8 +747,8 @@ section.panel{
               }
               img.abe-1-a{
                 opacity: 0;
-                top: 0;
-                left: 4em;
+                bottom: 0;
+                right: 0;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
                 -moz-animation-name: slideInUp;
@@ -769,8 +770,8 @@ section.panel{
               }
               img.john-3-a{
                 opacity: 0;
-                top: 0;
-                left: 6em;
+                bottom: 0;
+                right: 0;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
                 -moz-animation-name: slideInUp;
@@ -792,8 +793,8 @@ section.panel{
               }
               img.abe-2-a{
                 opacity: 0;
-                top: 1.5em;
-                left: 4em;
+                bottom: 0;
+                left: 6em;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
                 -moz-animation-name: slideInUp;
