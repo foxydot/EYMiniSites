@@ -64,7 +64,7 @@
                          <a class="subscreen-option iot-loss-prevention" href="#iot-loss-prevention">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon menu" />
                              <h3>IoT loss prevention:</h3>
-                             <p>Active monitoring of commercial buildings to prevent leaks, floods or other costly damage.<br /><strong>More ></strong></p></p>
+                             <p>Active monitoring of commercial buildings to prevent leaks, floods or other costly damage.<br /><strong>More ></strong></p>
                          </a>
                      </div>
                      <div class="col-md-3">
@@ -79,7 +79,7 @@
                          <a class="subscreen-option automated-claims" href="#automated-claims">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon menu" />
                              <h3>Automated Claims with Telematics: </h3>
-                             <p>A fully automated process for initiating, processign and paying claims with no human intervention.<br /><strong>More ></strong></p></p>
+                             <p>A fully automated process for initiating, processign and paying claims with no human intervention.<br /><strong>More ></strong></p>
                          </a>
                      </div>
                      <div class="col-md-3">
@@ -93,6 +93,7 @@
                      </div>
                  </div>
              </div>
+                 <div class="fill"></div>
              </div>
          </section>
          <div id="#panel-top"></div>

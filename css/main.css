@@ -79,10 +79,11 @@ section.intro, section.panel {
     right: 0;
     bottom: 0;
     padding: 2em 0;
-    padding-bottom: 250px;
-    overflow: scroll; }
+    overflow: scroll;
+    zoom: 1; }
     section.intro div.screen .wrap, section.panel div.screen .wrap {
-      position: relative; }
+      position: relative;
+      zoom: 1; }
       section.intro div.screen .wrap .carousel-control.left, section.intro div.screen .wrap .carousel-control.right, section.panel div.screen .wrap .carousel-control.left, section.panel div.screen .wrap .carousel-control.right {
         background: transparent;
         position: absolute;
@@ -94,6 +95,11 @@ section.intro, section.panel {
         opacity: 0; }
       section.intro div.screen .wrap .carousel, section.panel div.screen .wrap .carousel {
         margin-top: 2em; }
+    section.intro div.screen .fill, section.panel div.screen .fill {
+      width: 100%;
+      height: 250px;
+      position: relative;
+      display: block; }
 
 section.intro {
   background-image: url(../img/bkg-intro-panel.jpg);
