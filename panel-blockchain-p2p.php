@@ -200,7 +200,6 @@
                                 <svg height="200" width="500" class="line1">
                                     <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
                                 </svg>
-                                <div class='mask'></div>
                             </div>
                             <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_member_portal.png" />
@@ -216,7 +215,6 @@
                                 <svg height="200" width="500" class="line2">
                                     <line fill="none" x2="0" y1="0" x1="500" y2="200" stroke-dasharray="10, 10" />
                                 </svg>
-                                <div class='mask'></div>
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
@@ -232,7 +230,6 @@
                                 <svg height="200" width="500" class="line3">
                                     <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
                                 </svg>
-                                <div class='mask'></div>
                             </div>
                             <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_analytics_platform.png" />

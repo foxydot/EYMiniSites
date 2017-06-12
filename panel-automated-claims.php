@@ -61,50 +61,85 @@
                             </div>
                         </div>
                     </div>
+
+
+
                     <div class="item requirements" id="automated-claims-requirements">
                         <h2>What’s required: connected digital architecture</h2>
-                        <div class="row">
-                            <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                        <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line1">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
                             </div>
-                            <div class="animate requirement col-md-9">
-                                Telematics video imagery and accompany data is downloaded from Claims cloud and triggers automated FNOL
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_telemantics_req_1.png" />
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-9">
-                                Integrated Chabot platform manages conversation with policyholder and claimants to step through robotics automated workflow
-                            </div>
-                            <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
-                            </div>
-                            <div class="animate requirement col-md-9">
-                                Secure payment system processes payments that are initiated via chatbot  customer conversation and claim system triggers
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Telematics video imagery and accompany data is downloaded from Claims cloud and triggers automated FNOL
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-9">
+                        <div class="row animate">
+                            <div class='dotted-line r2l'>
+                                <svg height="200" width="500" class="line2">
+                                    <line fill="none" x2="0" y1="0" x1="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
                             </div>
-                            <div class="animate requirement col-md-3">
-                                <img class="img-circle req-icon" src="" />
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Integrated Chabot platform manages conversation with policyholder and claimants to step through robotics automated workflow</p>
+                                </div>
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_telemantics_req_2.png" />
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="animate requirement col-md-4">
-                                <img class="img-circle req-icon" src="" />
-                                <img class="img-circle req-icon" src="" />
-                                <img class="img-circle req-icon" src="" />
+                        <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line3">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
                             </div>
-                            <div class="animate requirement col-md-8">
-                                Core Insure processing platform manages related coverage verification, policy account data, and integrated policy, claims transactions
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_telemantics_req_3.png" />
+                            </div>
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Secure payment system processes payments that are initiated via chatbot  customer conversation and claim system triggers</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class="requirement text col-md-7">
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_telemantics_req_4.png" />
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class="requirement col-md-7">
+                                <img class="img-circle req-icon" src="img/p2p-icons-p.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-b.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-c.png" />
+                            </div>
+                            <div class="requirement col-md-5">
+                                <div class="block">
+                                    Core Insure processing platform manages related coverage verification, policy account data, and integrated policy, claims transactions
+                                </div>
+                            </div>
+                        </div>
+                        <div class="animate">
+                            <div class="row interstitial">
+                                <div class="col-md-11 col-md-offset-1">
+                                    <a class="button" href="#next">Now see how our tools support Automated Claims with Telematics ></a>
+                                </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="item tools" id="automated-claims-tools">
                         <div class="row">
                             <div class="animate tool col-md-6">
