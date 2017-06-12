@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_telemantics_req_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_ DI_Innovation_Center_icons_automated_claims.png" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/abe-1-a.png" afterPath="$PROJECT_DIR$/img/abe-1-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/abe-2-a.png" afterPath="$PROJECT_DIR$/img/abe-2-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dan-1-a.png" afterPath="$PROJECT_DIR$/img/dan-1-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dan-1-b.png" afterPath="$PROJECT_DIR$/img/dan-1-b.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-1-a.png" afterPath="$PROJECT_DIR$/img/john-1-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-2-a.png" afterPath="$PROJECT_DIR$/img/john-2-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-2-b.png" afterPath="$PROJECT_DIR$/img/john-2-b.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/john-3-a.png" afterPath="$PROJECT_DIR$/img/john-3-a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png" afterPath="$PROJECT_DIR$/img/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="120" column="20" lean-forward="true" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
+            <state relative-caret-position="414">
+              <caret line="93" column="23" lean-forward="true" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -69,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -108,8 +97,8 @@
       <find>rbc-</find>
       <find>ABC Insuracne Inc.</find>
       <find>dan</find>
-      <find>fade</find>
       <find>stroke-dasharray=&quot;5, 5&quot;</find>
+      <find>fade</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -139,10 +128,10 @@
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -304,7 +293,7 @@
       <workItem from="1494511196973" duration="1828000" />
       <workItem from="1494958000822" duration="1561000" />
       <workItem from="1496758250674" duration="2301000" />
-      <workItem from="1496778863688" duration="38666000" />
+      <workItem from="1496778863688" duration="38860000" />
     </task>
     <task id="LOCAL-00001" summary="added some second page flows">
       <created>1493843117800</created>
@@ -544,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497280164400</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Update images in cross selling">
+      <created>1497282003045</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1497282003045</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127181000" />
+    <option name="totallyTimeSpent" value="127375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1544" y="44" width="1512" height="977" extended-state="0" />
@@ -582,7 +578,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add demo images rick-1" />
     <MESSAGE value="add images anne-1 and rick-2" />
     <MESSAGE value="trying to get scrollto working" />
     <MESSAGE value="trying to get scrollto working: used hashmap to force offsets" />
@@ -607,7 +602,8 @@
     <MESSAGE value="time iot images" />
     <MESSAGE value="final P2P page" />
     <MESSAGE value="Automated claims" />
-    <option name="LAST_COMMIT_MESSAGE" value="Automated claims" />
+    <MESSAGE value="Update images in cross selling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update images in cross selling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -839,14 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="120" column="20" lean-forward="true" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -867,6 +855,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="795" column="26" lean-forward="false" selection-start-line="795" selection-start-column="26" selection-end-line="795" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="93" column="23" lean-forward="true" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
           <folding />
         </state>
       </provider>

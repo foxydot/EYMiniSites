@@ -77,7 +77,7 @@
                      </div>
                      <div class="col-md-3">
                          <a class="subscreen-option automated-claims" href="#automated-claims">
-                             <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
+                             <img src="/img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon menu" />
                              <h3>Automated Claims with Telematics: </h3>
                              <p>A fully automated process for initiating, processign and paying claims with no human intervention.<br /><strong>More ></strong></p></p>
                          </a>

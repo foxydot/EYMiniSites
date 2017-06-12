@@ -275,6 +275,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/abe-1-a.png": {
+		"ft": 32768,
+		"iS": 170678,
+		"oA": 0,
+		"oAP": "\/img\/abe-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/abe-2-a.png": {
+		"ft": 32768,
+		"iS": 33147,
+		"oA": 0,
+		"oAP": "\/img\/abe-2-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/anne-1-a.png": {
 		"ft": 32768,
 		"iS": 30326,
@@ -413,11 +435,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/dan-1-a.png": {
+		"ft": 32768,
+		"iS": 91814,
+		"oA": 0,
+		"oAP": "\/img\/dan-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/dan-1-b.png": {
+		"ft": 32768,
+		"iS": 45149,
+		"oA": 0,
+		"oAP": "\/img\/dan-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/digital_building.png": {
 		"ft": 32768,
 		"iS": 5042,
 		"oA": 0,
 		"oAP": "\/img\/digital_building.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_ DI_Innovation_Center_icons_automated_claims.png": {
+		"ft": 32768,
+		"iS": 14348,
+		"oA": 0,
+		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_automated_claims.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -492,7 +547,7 @@
 		},
 	"\/img\/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png": {
 		"ft": 32768,
-		"iS": 14348,
+		"iS": 22697,
 		"oA": 0,
 		"oAP": "\/img\/EY_ DI_Innovation_Center_icons_wearable_loss_prevention.png",
 		"oF": 0,
@@ -751,6 +806,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/john-1-a.png": {
+		"ft": 32768,
+		"iS": 128967,
+		"oA": 0,
+		"oAP": "\/img\/john-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/john-2-a.png": {
 		"ft": 32768,
 		"iS": 22591,
@@ -770,6 +836,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/john-3-a.png": {
+		"ft": 32768,
+		"iS": 110007,
+		"oA": 0,
+		"oAP": "\/img\/john-3-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
