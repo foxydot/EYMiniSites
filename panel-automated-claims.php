@@ -12,7 +12,7 @@
                     <div class="menu-bug"><a href="#intro">Menu</a></div>
                     <div class="tagline-wrapper row">
                         <div class="tagline-icon col-md-2">
-                            <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon" />
+                            <img src="/img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon" />
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
