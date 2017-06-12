@@ -1104,6 +1104,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/vendor\/waypoints.debug.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/waypoints.debug-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/panel-automated-claims.php": {
 		"ft": 8192,
 		"oA": 2,

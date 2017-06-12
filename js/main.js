@@ -52,66 +52,55 @@ $(function () { // wait for document ready
             $('.oldone').remove();
         });
     });
-    $('.interstitial a').click(function(e){
+    $('.interstitial a').click(function(e) {
         e.preventDefault();
         var target = $(this).attr('href');
-        if($(target).hasClass('animate')){
+        if ($(target).hasClass('animate')) {
             $('section.panel div.screen').animate({scrollTop: offsetmap[target]}, 1000);
             var animate_el = $(target);
             var newone = animate_el.clone(true);
-            newone.css('opacity',1);
+            newone.css('opacity', 1);
             animate_el.addClass('oldone');
             animate_el.before(newone);
             $('.oldone').remove();
-        } else if(target === '#next'){
+        } else if (target === '#next') {
             $('section.panel div.screen').animate({scrollTop: 0}, 500);
             var slideshow = $(this).parents('.carousel');
             slideshow.carousel('next');
-            slideshow.on('slid.bs.carousel',function(){
+            slideshow.on('slid.bs.carousel', function () {
                 var control = slideshow.parents('.panel').find('.carousel-control.left');
-                control.css('opacity','1');
+                control.css('opacity', '1');
                 var animate_el = $(this).find('.active').find('.animate:first');
                 var newone = animate_el.clone(true);
-                newone.css('opacity',1);
+                newone.css('opacity', 1);
                 animate_el.addClass('oldone');
                 animate_el.before(newone);
                 $('.oldone').remove();
 
-                $('.animate').each(function(){
+                $('.animate').each(function () {
                     var name = $(this).attr('id');
                     var offset = $(this).offset().top - 100;
                     offsetmap['#' + name] = offset;
                 });
             });
         }
-        if($(this).next('div').hasClass('button-replacement')){
+
+        if ($(this).next('div').hasClass('button-replacement')) {
             $(this).parents('.interstitial').find('.medots').addClass('slideInDown');
             $(this).addClass('flipOutX');
             $(this).next('div').removeClass('button-replacement').addClass('flipInX').addClass('not-button');
             $(this).remove();
         }
+    });
 
-        $('section.panel .item.requirements .animate')
-            .css('opacity', 0) // immediately hide element
-            .waypoint(function(direction) {
-            if (direction === 'down') {
-                $(this.element).animate({ opacity: 1 });
-            }
-            else {
-                $(this.element).animate({ opacity: 0 });
-            }
-        }, {
-            offset: 'bottom-in-view'
-        });
-
-        $('section.panel .item.tools .animate .block .a').one('mouseover',function(){
-            var animate_el = $(this).next('.c').find('ul');
-            var newone = animate_el.clone(true);
-            newone.css('opacity',1);
-            animate_el.addClass('oldone');
-            animate_el.before(newone);
-            $('.oldone').remove();
-        });
+    $('section.panel .item.tools .animate .block .a').one('mouseover',function(){
+        var animate_el = $(this).next('.c').find('ul');
+        var newone = animate_el.clone(true);
+        newone.css('opacity',1);
+        animate_el.addClass('oldone');
+        animate_el.before(newone);
+        $('.oldone').remove();
+    });
 
         // Get an array of all element heights
         /* var elementHeights = $('section.panel.risk-based-customer .item.tools .animate .block').map(function() {
@@ -124,7 +113,6 @@ $(function () { // wait for document ready
 
         // Set each height to the max height
         //$('section.panel.risk-based-customer .item.tools .animate .block').height(maxHeight);
-    });
 
     var animationEvent = whichAnimationEvent();
     $('#risk-based-customer-tools .animate .trigger').one(animationEvent,function(){

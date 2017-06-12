@@ -315,10 +315,7 @@ section.panel .item.demo .animate {
     section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
 section.panel .item.requirements .requirement {
-  display: flex;
-  animation-duration: 2s;
-  animation-name: fadeIn;
-  animation-fill-mode: forwards; }
+  display: flex; }
   section.panel .item.requirements .requirement .block {
     background: rgba(17, 17, 17, 0.5);
     font-size: 1.2em;
@@ -331,6 +328,44 @@ section.panel .item.requirements .requirement {
     width: 12em;
     padding: 1em;
     margin: 1em auto; }
+section.panel .item.requirements .animate {
+  animation-duration: 3s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards;
+  position: relative; }
+section.panel .item.requirements .dotted-line {
+  overflow: hidden;
+  width: 500px;
+  height: 0;
+  position: absolute;
+  top: 7em;
+  left: 20em;
+  animation: showDiag 3s linear forwards; }
+  section.panel .item.requirements .dotted-line svg line {
+    stroke: #ffe600;
+    stroke-width: 10px; }
+section.panel .item.requirements .animate:nth-child(2) .dotted-line {
+  animation-delay: 1s; }
+section.panel .item.requirements .animate:nth-child(3) {
+  animation-delay: 3s; }
+  section.panel .item.requirements .animate:nth-child(3) .dotted-line {
+    animation-delay: 4s; }
+section.panel .item.requirements .animate:nth-child(4) {
+  animation-delay: 6s; }
+  section.panel .item.requirements .animate:nth-child(4) .dotted-line {
+    animation-delay: 7s; }
+section.panel .item.requirements .animate:nth-child(5) {
+  animation-delay: 9s; }
+  section.panel .item.requirements .animate:nth-child(5) .dotted-line {
+    animation-delay: 10s; }
+section.panel .item.requirements .animate:nth-child(6) {
+  animation-delay: 12s; }
+  section.panel .item.requirements .animate:nth-child(6) .dotted-line {
+    animation-delay: 13s; }
+section.panel .item.requirements .animate:nth-child(7) {
+  animation-delay: 15s; }
+  section.panel .item.requirements .animate:nth-child(7) .dotted-line {
+    animation-delay: 16s; }
 section.panel .item.tools .animate {
   opacity: 1;
   display: flex; }
@@ -788,6 +823,11 @@ footer {
       text-decoration: none;
       background: rgba(255, 255, 255, 0.1); }
 
+@keyframes showDiag {
+  from {
+    height: 0; }
+  to {
+    height: 200px; } }
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.5.2

@@ -196,6 +196,12 @@
                     <div class="item requirements" id="blockchain-p2p-requirements">
                         <h2>What’s required: connected digital architecture</h2>
                         <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line1">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                                <div class='mask'></div>
+                            </div>
                             <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_member_portal.png" />
                             </div>
@@ -206,6 +212,12 @@
                             </div>
                         </div>
                         <div class="row animate">
+                            <div class='dotted-line r2l'>
+                                <svg height="200" width="500" class="line2">
+                                    <line fill="none" x2="0" y1="0" x1="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                                <div class='mask'></div>
+                            </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
                                 <p>Robotic <strong>automated claims payout</strong> engine connects with Blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong></p>
@@ -216,6 +228,12 @@
                             </div>
                         </div>
                         <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line3">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                                <div class='mask'></div>
+                            </div>
                             <div class="requirement icon col-md-5">
                                 <img class="img-circle req-icon" src="img/p2p_icons_analytics_platform.png" />
                             </div>

@@ -386,9 +386,6 @@ section.panel{
   .item.requirements{
     .requirement{
       display: flex;
-      animation-duration: 2s;
-      animation-name: fadeIn;
-      animation-fill-mode: forwards;
       .block{
         background: rgba($black, 0.5);
         font-size: 1.2em;
@@ -402,6 +399,62 @@ section.panel{
         width: 12em;
         padding: 1em;
         margin: 1em auto;
+      }
+    }
+    .animate{
+      animation-duration: 3s;
+      animation-name: fadeIn;
+      animation-fill-mode: forwards;
+      position: relative;
+    }
+    .dotted-line{
+      overflow: hidden;
+      width: 500px;
+      height: 0;
+      position: absolute;
+      top: 7em;
+      left: 20em;
+      animation: showDiag 3s linear forwards;
+      svg{
+        line{
+          stroke: $yellow;
+          stroke-width: 10px;
+        }
+      }
+    }
+    .animate:nth-child(2){
+      .dotted-line{
+        animation-delay: 1s;
+      }
+    }
+    .animate:nth-child(3){
+      animation-delay: 3s;
+      .dotted-line{
+        animation-delay: 4s;
+      }
+    }
+    .animate:nth-child(4){
+      animation-delay: 6s;
+      .dotted-line{
+        animation-delay: 7s;
+      }
+    }
+    .animate:nth-child(5){
+      animation-delay: 9s;
+      .dotted-line{
+        animation-delay: 10s;
+      }
+    }
+    .animate:nth-child(6){
+      animation-delay: 12s;
+      .dotted-line{
+        animation-delay: 13s;
+      }
+    }
+    .animate:nth-child(7){
+      animation-delay: 15s;
+      .dotted-line{
+        animation-delay: 16s;
       }
     }
   }
@@ -1070,6 +1123,13 @@ footer{
       background: rgba($white,0.1);
     }
   }
+}
+
+
+
+@keyframes showDiag {
+  from { height: 0; }
+  to { height: 200px; }
 }
 
 /*!
