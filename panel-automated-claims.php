@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Claims processing workflows are currently engineered primarily for adjustor efficiency, not for maximizing customer experience?</dd>
+                                        <dd>Claims processing workflows are currently engineered primarily for adjustor efficiency, not for maximizing customer experience</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
