@@ -1242,10 +1242,10 @@
 		"oAP": "\/panel-risk-based-customer.php",
 		"oF": 0
 		},
-	"\/panel-wearable-loss-prevention.php": {
+	"\/panel-wearable-saftey.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/panel-wearable-loss-prevention.php",
+		"oAP": "\/panel-wearable-saftey.php",
 		"oF": 0
 		},
 	"\/robots.txt": {

@@ -1,8 +1,8 @@
-<section class="panel wearable-loss-prevention bkgimg" id="wearable-loss-prevention">
+<section class="panel wearable-saftey bkgimg" id="wearable-saftey">
     <div class="screen">
         <div class="wrap">
             <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-wearable-loss-prevention" role="button" data-slide="prev">
+            <a class="left carousel-control" href="#carousel-wearable-saftey" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                 <span class="sr-only">Back</span>
             </a>
@@ -21,9 +21,9 @@
                     </div>
                 </div>
             </div>
-            <div id="carousel-wearable-loss-prevention" class="carousel slide">
+            <div id="carousel-wearable-saftey" class="carousel slide">
                 <div class="carousel-inner">
-                    <div class="item active qa">
+                    <div class="item qa">
                         <div class="interactive-question business-problem animate" id="wlp-business-problem">
                             <div class="row block odd">
                                 <div class="col-md-10 a">
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item demo" id="wearable-loss-prevention-demo">
+                    <div class="item demo" id="wearable-saftey-demo">
                         <div class="interactive-demo1 animate" id="wlp-anthony-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
@@ -174,7 +174,7 @@
                         </div>
                     </div>
 
-                    <div class="item requirements" id="wearable-loss-prevention-requirements">
+                    <div class="item requirements" id="wearable-saftey-requirements">
                         <h2>What makes it possible</h2>
                         <div class="row animate">
                             <div class='dotted-line l2r'>
@@ -250,7 +250,7 @@
                     </div>
 
 
-                    <div class="item tools" id="wearable-loss-prevention-tools">
+                    <div class="item tools" id="wearable-saftey-tools">
                         <div class="row">
                             <div class="animate tool col-md-6">
                                 <div class="block row">

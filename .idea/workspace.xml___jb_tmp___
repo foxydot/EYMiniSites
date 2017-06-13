@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_wearable_safety_req_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_wearable_safety_req_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_wearable_safety_req_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EY_user_stories_wearable_safety_req_4.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/panel-wearable-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-wearable-saftey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-wearable-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +20,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="95" selection-end-column="41" />
+            <state relative-caret-position="584">
+              <caret line="93" column="23" lean-forward="true" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-wearable-saftey.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -97,44 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="668">
               <caret line="274" column="32" lean-forward="false" selection-start-line="274" selection-start-column="32" selection-end-line="274" selection-end-column="32" />
-              <folding>
-                <marker date="1497379303000" expanded="true" signature="11952:12084" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="11952:12841" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="11952:12876" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="11952:17472" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="11952:17499" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="12145:12802" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="12190:12759" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="12940:13997" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="12996:13962" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="13057:13384" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="13445:13923" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="13490:13880" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="14061:15312" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="14117:15277" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="14178:14524" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="14585:15238" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="14630:15195" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="15376:16522" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="15432:16487" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="15493:15830" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="15891:16448" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="15936:16405" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="16586:17441" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="16642:17406" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="16703:17042" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="17103:17367" ph="..." />
-                <marker date="1497379303000" expanded="true" signature="17148:17324" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-wearable-loss-prevention.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/panel-wearable-loss-prevention.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="118" column="74" lean-forward="false" selection-start-line="118" selection-start-column="74" selection-end-line="118" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -203,6 +171,7 @@
       <find>fade</find>
       <find>&lt;/p&gt;&lt;/p&gt;</find>
       <find>gives ins</find>
+      <find>wearable-loss-prevention</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -215,6 +184,7 @@
       <replace>ABC Insurance Inc.</replace>
       <replace>stroke-dasharray=&quot;10, 10&quot;</replace>
       <replace>&lt;/p&gt;</replace>
+      <replace>wearable-saftey</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -229,7 +199,6 @@
         <option value="$PROJECT_DIR$/testjs.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
@@ -237,6 +206,8 @@
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
       </list>
     </option>
   </component>
@@ -399,7 +370,7 @@
       <workItem from="1494958000822" duration="1561000" />
       <workItem from="1496758250674" duration="2301000" />
       <workItem from="1496778863688" duration="39024000" />
-      <workItem from="1497290241809" duration="4257000" />
+      <workItem from="1497290241809" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="added some second page flows">
       <created>1493843117800</created>
@@ -674,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497370936897</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="wearable loss prevention added">
+      <created>1497381964902</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1497381964902</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131796000" />
+    <option name="totallyTimeSpent" value="132050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1770" y="84" width="1512" height="977" extended-state="0" />
@@ -712,7 +690,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="new background art, some tstyling and timing tweaks, convert last page to mouseovers" />
     <MESSAGE value="Adding in new icon pngs from Tina" />
     <MESSAGE value="fix scrolling issues caused by my &quot;cleverness&quot; with the screen element over the background images." />
     <MESSAGE value="Edits to choice panel" />
@@ -737,7 +714,8 @@
     <MESSAGE value="update icon on autoclaims" />
     <MESSAGE value="some IE fixes" />
     <MESSAGE value="fix css?" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix css?" />
+    <MESSAGE value="wearable loss prevention added" />
+    <option name="LAST_COMMIT_MESSAGE" value="wearable loss prevention added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -940,14 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="95" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -973,42 +943,6 @@
             <marker date="1497379303000" expanded="true" signature="16961:17300" ph="..." />
             <marker date="1497379303000" expanded="true" signature="17361:17627" ph="..." />
             <marker date="1497379303000" expanded="true" signature="17406:17584" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="274" column="32" lean-forward="false" selection-start-line="274" selection-start-column="32" selection-end-line="274" selection-end-column="32" />
-          <folding>
-            <marker date="1497379303000" expanded="true" signature="11952:12084" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="11952:12841" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="11952:12876" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="11952:17472" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="11952:17499" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="12145:12802" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="12190:12759" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="12940:13997" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="12996:13962" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="13057:13384" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="13445:13923" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="13490:13880" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="14061:15312" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="14117:15277" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="14178:14524" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="14585:15238" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="14630:15195" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="15376:16522" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="15432:16487" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="15493:15830" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="15891:16448" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="15936:16405" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="16586:17441" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="16642:17406" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="16703:17042" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="17103:17367" ph="..." />
-            <marker date="1497379303000" expanded="true" signature="17148:17324" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1061,10 +995,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-wearable-loss-prevention.php">
+    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="118" column="74" lean-forward="false" selection-start-line="118" selection-start-column="74" selection-end-line="118" selection-end-column="74" />
+        <state relative-caret-position="668">
+          <caret line="274" column="32" lean-forward="false" selection-start-line="274" selection-start-column="32" selection-end-line="274" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="93" column="23" lean-forward="true" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding />
         </state>
       </provider>

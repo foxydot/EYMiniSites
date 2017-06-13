@@ -83,7 +83,7 @@
                          </a>
                      </div>
                      <div class="col-md-3">
-                         <a class="subscreen-option wearable-loss-prevention" href="#wearable-loss-prevention">
+                         <a class="subscreen-option wearable-saftey" href="#wearable-saftey">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
                              <h3>Wearable loss prevention:</h3>
                              <p>More precise and data-driven insight
@@ -102,7 +102,7 @@
          <?php include_once('panel-iot-loss-prevention.php'); ?>
          <?php include_once('panel-blockchain-p2p.php'); ?>
          <?php include_once('panel-automated-claims.php'); ?>
-         <?php include_once('panel-wearable-loss-prevention.php'); ?>
+         <?php include_once('panel-wearable-saftey.php'); ?>
      </main>
       <footer>
           <div class="wrap">
