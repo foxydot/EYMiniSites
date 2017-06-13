@@ -1109,6 +1109,13 @@ section.panel.iot-loss-prevention.bkgimg{
     background-color: rgba($black,0.7);
   }
 }
+section.panel.automated-claims.bkgimg{
+  background-image: url('../img/bkg-automated-claims.jpg');
+  background-size: cover;
+  .screen{
+    background-color: rgba($black,0.7);
+  }
+}
 footer{
   background: #2E2F2F;
   color: $yellow;
