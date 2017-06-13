@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Blockchain technology enables insurers to offer a secure platform to launch peer-to-peer and community offerings, entice and engage new customers with niche policies and differentiate on service to boost retention.</dd>
+                                        <dd>Blockchain gives insurers a secure platform to launch a secure platform to launch peer-to-peer and community offerings, entice and engage new customers with niche policies and differentiate on service to boost retention.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>ABC P2P presents Event Disruption coverage to Jane. </li>
+                                        <li>ABC P2P presents event disruption coverage to Jane </li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcp2p-1-a" src="img/abcp2p-1-a.png" />
@@ -124,8 +124,8 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Reviews coverage economics and, liking what she sees, enrolls in Event Disruption coverage</li>
-                                        <li>Completes all enrollment requirements including integrating her business systems with the P2P Market “smart policy”</li>
+                                        <li>Reviews coverage economics and, liking what she sees, enrolls in event disruption coverage</li>
+                                        <li>Completes all enrollment requirements including integrating her business systems with the P2P market “smart policy”</li>
                                         <li>After complete rainout of event, automatically receives payout</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
@@ -206,7 +206,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                <p>Member’s <strong>portal and mobile app</strong> integrated with block chain smart contract platform. Integrated <strong>identify management</strong> and <strong>coverage fund</strong> management.</p>
+                                <p>Member’s <strong>portal and mobile app</strong> integrated with blockchain smart contract platform. Integrated <strong>identity management</strong> and <strong>coverage fund</strong> management.</p>
                                 </div>
                             </div>
                         </div>
@@ -218,7 +218,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                <p>Robotic <strong>automated claims payout</strong> engine connects with Blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong></p>
+                                <p>Robotic <strong>automated claims payout</strong> engine connects with blockchain to <strong>manage payments</strong> and <strong>coverage reserving.</strong></p>
                                 </div>
                             </div>
                             <div class="requirement icon col-md-5">
@@ -236,7 +236,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                <p>Analytics Platform <strong>managing</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong></p>
+                                <p>Analytics Platform <strong>manages</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                             </div>
                             <div class="requirement col-md-5">
                                 <div class="block">
-                                Core Insure processing platform manages <strong>policy</strong> and <strong>billing transactions</strong> for each P2P community.
+                                Core insurance processing platform manages <strong>policy</strong> and <strong>billing transactions</strong> for each P2P community.
                                 </div>
                             </div>
                         </div>
@@ -279,8 +279,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Automatic compensation by a blockchain smart policy</li>
-                                            <li>Automated underwriting and business rules engine</li>
+                                            
                                             <li>Integration with external data sources to supplement coverage compensation calculation (geolocation, satellite weather, historical event revenue data, etc.)</li>
                                             <li>Integration of actuarial pricing data</li>
                                         </ul>
@@ -300,6 +299,7 @@
                                             <li>Integration with community business partners (production companies, food supplies, telematics, etc.)</li>
                                             <li>Increased customer engagement</li>
                                             <li>Tech-enabled innovations within customer acquisition and policy creation</li>
+                                            <li>Risk-appetite visibility</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -314,10 +314,12 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
+                                            <li>Automatic compensation by a blockchain smart policy</li>
+                                            <li>Automated underwriting and business rules engine</li>
                                             <li>Mobile app for customers</li>
                                             <li>Online portal for customers</li>
                                             <li>Enrollment within discreet coverages</li>
-                                            <li>Integration connecting smart policy with members business systems</li>
+                                            <li>Integration connecting smart policy with members' business systems</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -334,7 +336,7 @@
                                         <ul>
                                             <li>Niche peer-to-peer insurance community</li>
                                             <li>Portfolio underwriting teams and programs</li>
-                                            <li>Risk-appetite visibility</li>
+                                            
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
                                             <li>Integration into company culture</li>
                                         </ul>
@@ -351,7 +353,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, agent, partner company, and customer</li>
+                                            <li>Encryption to protect data transmissions between carrier, agent, partner company and customer</li>
                                             <li>Shared identity management with member portal and blockchain smart contract</li>
                                         </ul>
                                     </div>
