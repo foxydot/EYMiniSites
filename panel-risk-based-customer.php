@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Customer acquisition costs – which average $900 - $1,000 across the industry are unsustainably high.</dd>
+                                        <dd>Customer acquisition costs – which average $900 - $1,000 across the industry – are unsustainably high.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
