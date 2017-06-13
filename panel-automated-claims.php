@@ -147,7 +147,7 @@
                                     <div class="col-md-4 a">
                                         <h4>Data</h4>
                                         <img src="img/icon-data.png" class="icon" />
-                                        <h6>Data and Analytics</h6>
+                                        <h6>Data and analytics</h6>
                                         <div class="button">Learn More</div>
                                     </div>
                                     <div class="col-md-8 c">

@@ -72,7 +72,7 @@
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Holds bundled household policy with ABC Insurance Co.</li>
-                                        <li>Has a son, Dan, just graduating and moving back to the family neighborhood.</li>
+                                        <li>Has a son, Dan, just graduating and moving back to the family neighborhood</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="john-1-a" src="img/john-1-a.png" />
@@ -126,7 +126,7 @@
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Receives an alert from ABC app congratulating him on Dan’s recent graduation</li>
-                                        <li>Connects to the App to add Dan’s car to bundled policy</li>
+                                        <li>Connects to the app to add Dan’s car to bundled policy</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="john-2-a" src="img/john-2-a.png" />
@@ -230,7 +230,7 @@
                                     <div class="col-md-4 a">
                                         <h4>Data</h4>
                                         <img src="img/icon-data.png" class="icon" />
-                                        <h6>Data and Analytics</h6>
+                                        <h6>Data and analytics</h6>
                                         <div class="button">Learn More</div>
                                     </div>
                                     <div class="col-md-8 c">
@@ -308,7 +308,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, partner company, and customer</li>
+                                            <li>Encryption to protect data transmissions between carrier, partner company and customer</li>
                                             <li>Secured channels for text communications and financial transactions</li>
                                         </ul>
                                     </div>
