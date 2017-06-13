@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Insurers have the data they need to identify likely customers more efficiently and reach out to them in automated yet personalized ways</dd>
+                                        <dd>Insurers have the data they need to identify likely customers more efficiently and reach out to them in automated yet personalized ways.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="col-md-11">
                                     <a class="button" href="#rbc-rick-1">See what happens next ></a>
-                                    <div class="button-replacement">Forwards link to pre-approved policy offers to agent Rick, via text (his preferred format)</div>
+                                    <div class="button-replacement">Forwards link to pre-approved policy offers to agent Rick, via text (his preferred channel)</div>
                                 </div>
                             </div>
                         </div>
