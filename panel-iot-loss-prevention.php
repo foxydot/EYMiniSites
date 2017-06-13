@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to their facilities and equipment to identify small threats that may come.</dd>
+                                        <dd>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to facilities and equipment to identify small threats that can turn into significant losses.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -73,8 +73,8 @@
                                     <ul class="col-md-5 animate-ul">
                                         <li>Sees an ad about a new “smart sensor” program in exchange for discounted policy</li>
                                         <li>Vaguely remembers an email he received from ABC Insurance about it (he is a reluctant digital customer)</li>
-                                        <li>Clicks to learn more</li>
-                                        <li>Contacts ABC to to purchase, install and register devices</li>
+                                        <li>Finds email and clicks to learn more</li>
+                                        <li>Contacts ABC to purchase, install and register devices</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="charles-1-a" src="img/charles-1-a.png" />
@@ -101,7 +101,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Confirms Charles’s participation</li>
+                                        <li>Confirms Charles’ participation</li>
                                         <li>Completes sale and shipping of device</li>
                                         <li>Confirms device registration</li>
                                         <li>Sends Charles notification app for download</li>
@@ -162,7 +162,7 @@
                                     <ul class="col-md-5 animate-ul">
                                         <li>Receives alert on app</li>
                                         <li>Shuts off water in that zone of the building until the issue is rectified</li>
-                                        <li>Receives thank-you message from ABC for his loss prevention</li>
+                                        <li>Receives thank-you message from ABC for his help in preventing loss</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="charles-2-a" src="img/charles-2-a.png" />
@@ -189,10 +189,9 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Ability to package sale and installation of IoT devices</li>
+                                            <li>Ability to package sale and support of IoT devices</li>
                                             <li>IoT platform monitoring</li>
-                                            <li>Integration of IoT platform with underwriter desktop system and core operator system</li>
-                                            <li>Full functionality underwriter workstation system</li>
+                                            
                                             <li>Integration of IoT monitoring platform with mobile application</li>
                                             <li>Ability to target current customers for email promotion</li>
                                         </ul>
@@ -213,7 +212,7 @@
                                             <li>Capacity to sell and support smart sensors</li>
                                             <li>Ability to launch products based on varying degrees of risk</li>
                                             <li>Partnership with IoT providers</li>
-                                            <li>Customer engagement plans to create demand promote new offerings</li>
+                                            <li>Customer engagement plans to create demand and promote new offerings</li>
                                         </ul>
                                     </div>
                                 </div>
