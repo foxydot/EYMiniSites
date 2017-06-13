@@ -29,7 +29,8 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Insurers lack insight into events in customers’ lives that would represent upsell and cross-sell opportunities, as well as the capabilities to efficiently and effectively develop and distribute targeted offers.</dd>
+                                        <dd>How do we know what covered employees actually do in the workplace?</dd>
+                                        <dd>How do we manage workers’ compensation exposure risk more precisely and with more frequent audits?</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -47,7 +48,9 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Artificial intelligence, when combined with mobile portals, enables insurers to engage customers renewing their policies and generate more revenue through targeted and timely offers for additional coverage. </dd>
+                                        <dd>Dynamic workplace safety programs – enabled by data from wearables and employee portals</dd>
+                                        <dd>Automated, weekly premium audits – enabled by robots</dd>
+                                        <dd>Integrated and aggregated worker safety scoring and incentives – enabled by gamification</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -61,23 +64,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item demo" id="intelligent-cross-selling-demo">
-                        <div class="interactive-demo1 animate" id="wlp-john-1">
+                    <div class="item demo" id="wearable-loss-prevention-demo">
+                        <div class="interactive-demo1 animate" id="wlp-anthony-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-john.jpg" />
-                                    <h5 class="human-name">John</h5>
-                                    <h6 class="human-job-title">Insured</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-anthony.jpg" />
+                                    <h5 class="human-name">Anthony</h5>
+                                    <h6 class="human-job-title">Construction Worker</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Holds bundled household policy with ABC Insurance Co.</li>
-                                        <li>Has a son, Dan, just graduating and moving back to the family neighborhood.</li>
+                                        <li>Anthony clocks in and is handed a safety vest connected with wearable sensors. He puts on the vest and is assigned to his first job for the day.</li>
+                                        <li>Anthony’s assignment is to install ceiling tiles.</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="john-1-a" src="img/john-1-a.png" />
-                                        <img class="john-1-b" src="img/john-1-b.png" />
-                                        <img class="john-1-c" src="img/john-1-c.png" />
+                                        <img class="anthony-1-a" src="img/anthony-1-a.png" />
+                                        <img class="anthony-1-b" src="img/anthony-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -86,24 +88,26 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#wlp-dan-1">See what happens next ></a>
+                                    <a class="button" href="#wlp-benny-1">See what happens next ></a>
                                     <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="wlp-dan-1">
+                        <div class="interactive-demo1 animate" id="wlp-benny-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-dan.jpg" />
-                                    <h5 class="human-name">Dan</h5>
-                                    <h6 class="human-job-title">Son of John</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-benny.jpg" />
+                                    <h5 class="human-name">Benny</h5>
+                                    <h6 class="human-job-title">Robo Saftey Advisor</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Successfully negotiates with John to add his car to the family policy	</li>
+                                        <li>Benny, the robo safety advisor that is programmed to read Anthony’s sensor data and compare movements to benchmarks, collects data for 60 minutes.</li>
+                                        <li>Benny sends Anthony a message that he should take a five-minute break.</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="dan-1-a" src="img/dan-1-a.png" />
+                                        <img class="benny-1-a" src="img/benny-1-a.png" />
+                                        <img class="benny-1-b" src="img/benny-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -112,26 +116,24 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#wlp-john-2">See what happens next ></a>
+                                    <a class="button" href="#wlp-sensors-1">See what happens next ></a>
                                     <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="wlp-john-2">
+                        <div class="interactive-demo1 animate" id="wlp-sensors-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-john.jpg" />
-                                    <h5 class="human-name">John</h5>
-                                    <h6 class="human-job-title">Insured</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-sensors.png" />
+                                    <h5 class="human-name">Sensors</h5>
+                                    <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives an alert from ABC app congratulating him on Dan’s recent graduation</li>
-                                        <li>Connects to the App to add Dan’s car to bundled policy</li>
+                                        <li>During Anthony’s break his safety vest uploads sensor data to his employer’s smart policy.</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="john-2-a" src="img/john-2-a.png" />
-                                        <img class="john-2-b" src="img/john-2-b.png" />
+                                        <img class="sensors-1-a" src="img/wlp-sensors-1-a.png" />
                                     </div>
                                 </div>
                             </div>
@@ -140,86 +142,30 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
-                                    <a class="button" href="#wlp-abe-1">See what happens next ></a>
+                                    <a class="button" href="#wlp-anthony-2">See what happens next ></a>
                                     <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="interactive-demo1 animate" id="wlp-abe-1">
+                        <div class="interactive-demo1 animate" id="wlp-anthony-2">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-abe.jpg" />
-                                    <h5 class="human-name">Abe</h5>
-                                    <h6 class="human-job-title">ABC's AI Bot</h6>
+                                    <img class="img-circle human-headshot" src="img/headshot-anthony.jpg" />
+                                    <h5 class="human-name">Anthony</h5>
+                                    <h6 class="human-job-title">Construction Worker</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Monitors policy change and determines that Dan is moving into an apartment</li>
-                                        <li>Automatically configures a renter’s policy and presents John with a bundled renter’s policy offer</li>
+                                        <li>Anthony continues working with Benny alerting him throughout the day when it is time for breaks.</li>
+                                        <li>Anthony’s safety score is calculated. It is comparably high and he is contracted for longer- term assignments.</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="abe-1-a" src="img/abe-1-a.png" />
-                                        <img class="abe-1-b" src="img/abe-1-b.png" />
+                                        <img class="anthony-2-a" src="img/anthony-2-a.png" />
+                                        <img class="anthony-2-b" src="img/anthony-2-b.png" />
                                     </div>
                                 </div>
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-1">
-                                    <div class="medots"></div>
-                                </div>
-                                <div class="col-md-11">
-                                    <a class="button" href="#wlp-john-3">See what happens next ></a>
-                                    <div class="button-replacement"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="interactive-demo1 animate" id="wlp-john-3">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-john.jpg" />
-                                    <h5 class="human-name">John</h5>
-                                    <h6 class="human-job-title">Insured</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Likes Abe’s idea and clicks to see the bundled savings, which are in line with his expectations</li>
-                                        <li>Buys the renters policy</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="john-3-a" src="img/john-3-a.png" />
-                                        <img class="john-3-b" src="img/john-3-b.png" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row interstitial">
-                                <div class="col-md-1">
-                                    <div class="medots"></div>
-                                </div>
-                                <div class="col-md-11">
-                                    <a class="button" href="#wlp-abe-2">See what happens next ></a>
-                                    <div class="button-replacement"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="interactive-demo1 animate" id="wlp-abe-2">
-                            <div class="row block even">
-                                <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-abe.jpg" />
-                                    <h5 class="human-name">Abe</h5>
-                                    <h6 class="human-job-title">ABC's AI Bot</h6>
-                                </div>
-                                <div class="col-md-10 bkg-white20 c">
-                                    <ul class="col-md-5 animate-ul">
-                                        <li>Automatically completes all transactions</li>
-                                        <li>Issues the updated policies</li>
-                                        <li>Notifies portfolio underwriter who manages John’s bundled home account that all policies have been issued</li>
-                                    </ul>
-                                    <div class="col-md-7 animate-icons">
-                                        <img class="abe-2-a" src="img/abe-2-a.png" />
-                                        <img class="abe-2-b" src="img/abe-2-b.png" />
-                                    </div>
-                                </div>
-                            </div>
+
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
                                     <a class="button" href="#next">See what it takes ></a>
@@ -227,7 +173,84 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item tools" id="intelligent-cross-selling-tools">
+
+                    <div class="item requirements" id="wearable-loss-prevention-requirements">
+                        <h2>What makes it possible</h2>
+                        <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line1">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_wearable_safety_req_1.png" />
+                            </div>
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Telematics and sensor-enabled devices and wearables will capture risk data generated through people, equipment, material and the environment.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class='dotted-line r2l'>
+                                <svg height="200" width="500" class="line2">
+                                    <line fill="none" x2="0" y1="0" x1="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                            </div>
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Dynamic worker safety data is aggregated within the risk-assessment process and used by underwriters to monitor and quantify risk in real-time.</p>
+                                </div>
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_wearable_safety_req_2.png" />
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class='dotted-line l2r'>
+                                <svg height="200" width="500" class="line3">
+                                    <line fill="none" x1="0" y1="0" x2="500" y2="200" stroke-dasharray="10, 10" />
+                                </svg>
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_wearable_safety_req_3.png" />
+                            </div>
+                            <div class="requirement text col-md-7">
+                                <div class="block">
+                                    <p>Employer gathers all the real-time data and can take actionable insights – effectively reducing injury rate while partnering more closely with carrier to improve risk management.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class="requirement text col-md-7">
+                            </div>
+                            <div class="requirement icon col-md-5">
+                                <img class="img-circle req-icon" src="img/EY_user_stories_wearable_safety_req_4.png" />
+                            </div>
+                        </div>
+                        <div class="row animate">
+                            <div class="requirement col-md-7">
+                                <img class="img-circle req-icon" src="img/p2p-icons-p.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-b.png" />
+                                <img class="img-circle req-icon" src="img/p2p-icons-c.png" />
+                            </div>
+                            <div class="requirement col-md-5">
+                                <div class="block">
+                                    Core Insure processing platform manages policy and billing transactions with leveraged robotics automation and comprehensive portfolio underwriting.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="animate">
+                            <div class="row interstitial">
+                                <div class="col-md-11 col-md-offset-1">
+                                    <a class="button" href="#next">Now see how our tools support Wearable Loss Prevention ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="item tools" id="wearable-loss-prevention-tools">
                         <div class="row">
                             <div class="animate tool col-md-6">
                                 <div class="block row">
@@ -239,9 +262,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Rich customer data and analytics to enable tracking of life events</li>
-                                            <li>Actuarial data and rate making (right rate for the risk)</li>
-                                            <li>3rd-party rules data</li>
+                                            <li>Wearables sensor data</li>
+                                            <li>Environmental and GIS sensor data</li>
+                                            <li>Integrated payroll data with individual and aggregated employees</li>
+                                            <li>Underwriters risk analysis data</li>
+                                            <li>Monitored workplace safety data </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -256,11 +281,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Commitment to increased customer engagement</li>
-                                            <li>Ability to rapidly launch personalized bundles</li>
-                                            <li>Proactive product offerings through direct channels</li>
-                                            <li>Willingness to take on increased risk profile</li>
-                                            <li>Confidence in accuracy of customer data</li>
+                                            <li>Improved profitability for comp books</li>
+                                            <li>High-impact, effective worker safety and injury prevention programs</li>
+                                            <li>Focused, enhanced risk assessment and portfolio monitoring</li>
+                                            <li>Precise risk selection and segmentation</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -275,11 +299,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Underwriters platform</li>
-                                            <li>Automated transaction processing with AI Bot</li>
-                                            <li>External integration including 3rd-party data rules engine</li>
-                                            <li>Integration with 3rd-party vendor partners systems</li>
-                                            <li>Mobile platform for customers to view and change policy details</li>
+                                            <li>Sensor-enabled workplace wearables</li>
+                                            <li>Workplace sensors collecting GIS and environmental data</li>
+                                            <li>Underwritering desktop system configured for real-time monitoring and enhanced risk analytics</li>
+                                            <li>Robotics-automated premium audit jobs configured to run weekly with consolidated wearables, environmental and payroll data used to quantify risk</li>
+                                            <li>Core processing system managing policy administration and billing functions</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -294,10 +318,9 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Portfolio underwriting teams and programs</li>
-                                            <li>Risk-appetite visibility</li>
+                                            <li>Underwriting organization target operating model</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
-                                            <li>Integration of proactive sales into company culture, especially within underwriting</li>
+                                            <li>Digital culture embracing robotics audit and assessment automation</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -312,8 +335,8 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, partner company, and customer</li>
-                                            <li>Secured channels for text communications and financial transactions</li>
+                                            <li>Authenticated user sessions for secure transaction automation</li>
+                                            <li>Encryption to protect data transmissions between carrier and customer</li>
                                         </ul>
                                     </div>
                                 </div>

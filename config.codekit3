@@ -161,6 +161,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/print.css": {
 		"aP": 1,
 		"bl": 0,
@@ -168,6 +178,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/print-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/screen.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/screen-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -574,6 +594,50 @@
 		"iS": 3800,
 		"oA": 0,
 		"oAP": "\/img\/EY_user_stories_telemantics_req_4.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_user_stories_wearable_safety_req_1.png": {
+		"ft": 32768,
+		"iS": 4012,
+		"oA": 0,
+		"oAP": "\/img\/EY_user_stories_wearable_safety_req_1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_user_stories_wearable_safety_req_2.png": {
+		"ft": 32768,
+		"iS": 1807,
+		"oA": 0,
+		"oAP": "\/img\/EY_user_stories_wearable_safety_req_2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_user_stories_wearable_safety_req_3.png": {
+		"ft": 32768,
+		"iS": 3216,
+		"oA": 0,
+		"oAP": "\/img\/EY_user_stories_wearable_safety_req_3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/EY_user_stories_wearable_safety_req_4.png": {
+		"ft": 32768,
+		"iS": 2176,
+		"oA": 0,
+		"oAP": "\/img\/EY_user_stories_wearable_safety_req_4.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -1154,6 +1218,12 @@
 		"oAP": "\/panel-automated-claims.php",
 		"oF": 0
 		},
+	"\/panel-blockchain-p2p.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-blockchain-p2p.php",
+		"oF": 0
+		},
 	"\/panel-intelligent-cross-selling.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1164,6 +1234,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel-iot-loss-prevention.php",
+		"oF": 0
+		},
+	"\/panel-risk-based-customer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/panel-risk-based-customer.php",
 		"oF": 0
 		},
 	"\/panel-wearable-loss-prevention.php": {

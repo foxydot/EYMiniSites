@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Blockchain gives insurers a secure platform to launch a secure platform to launch peer-to-peer and community offerings, entice and engage new customers with niche policies and differentiate on service to boost retention.</dd>
+                                        <dd>Blockchain gives insurers a secure platform to launch peer-to-peer and community offerings, entice and engage new customers with niche policies and differentiate on service to boost retention.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
