@@ -161,16 +161,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/main-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/print.css": {
 		"aP": 1,
 		"bl": 0,
@@ -178,16 +168,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/print-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/screen.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/screen-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1174,12 +1154,6 @@
 		"oAP": "\/panel-automated-claims.php",
 		"oF": 0
 		},
-	"\/panel-blockchain-p2p.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/panel-blockchain-p2p.php",
-		"oF": 0
-		},
 	"\/panel-intelligent-cross-selling.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1190,12 +1164,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel-iot-loss-prevention.php",
-		"oF": 0
-		},
-	"\/panel-risk-based-customer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/panel-risk-based-customer.php",
 		"oF": 0
 		},
 	"\/panel-wearable-loss-prevention.php": {
