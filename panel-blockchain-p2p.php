@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-md-2 logo"><img src="./img/logo.png" class="logo" /></div>
                 <div class="col-md-6 col-md-offset-4">
-                    <div class="menu-bug"><a href="#intro">Menu</a></div>
+                    <div class="menu-bug"><a href="#intro">< Return to menu page</a></div>
                     <div class="tagline-wrapper row">
                         <div class="tagline-icon col-md-2">
                             <img src="/img/P2P_icon_yellow.png" class="icon" />
