@@ -27,7 +27,7 @@ $(function () { // wait for document ready
         offsetmap['#' + name] = offset;
     });
     $('.menu-bug a').click(function(e){
-        e.preventDefault();
+        //e.preventDefault();
         var target = $(this).attr('href');
         $('.panel').css('z-index',0);
         $(target).css('z-index',300);
@@ -40,7 +40,7 @@ $(function () { // wait for document ready
         });
     });
     $('.subscreen-option').click(function(e){
-        e.preventDefault();
+        //e.preventDefault();
         var target = $(this).attr('href');
         $('.panel').css('z-index',0);
         $(target).css('z-index',300);
