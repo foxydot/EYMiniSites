@@ -16,7 +16,7 @@
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
-                            <h2>Use Case: Blockchain P2P</h2>
+                            <h2>Use case: Blockchain peer-to-peer</h2>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                <p>Analytics Platform <strong>manages</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong></p>
+                                <p>Analytics platform <strong>manages</strong> social media, telematics, partner company profiles, weather feeds, other <strong>predictive modeling data.</strong></p>
                                 </div>
                             </div>
                         </div>

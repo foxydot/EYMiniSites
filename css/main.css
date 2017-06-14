@@ -258,19 +258,19 @@ section.panel ol, section.panel ul {
   margin-left: 0; }
   section.panel ol ol, section.panel ol ul, section.panel ul ol, section.panel ul ul {
     margin-bottom: 0; }
-section.panel ul {
+section.panel ul, section.panel dl {
   counter-reset: item; }
-  section.panel ul li {
+  section.panel ul li, section.panel dl li {
     list-style-type: none;
     margin-bottom: 0.3em; }
-    section.panel ul li:before {
+    section.panel ul li:before, section.panel dl li:before {
       margin-left: -1em;
       margin-right: 0.65em;
       line-height: 0;
       font-family: FontAwesome;
       content: "\f0da ";
       color: #ffe600; }
-  section.panel ul ul li:before {
+  section.panel ul ul li:before, section.panel ul dl li:before, section.panel dl ul li:before, section.panel dl dl li:before {
     font-family: FontAwesome;
     content: "\f0da "; }
 section.panel .item.qa .animate .block {
@@ -282,7 +282,7 @@ section.panel .item.qa .animate .block {
   section.panel .item.qa .animate .block .a dt {
     font-size: 1.4em;
     font-weight: 700; }
-  section.panel .item.qa .animate .block .a dd {
+  section.panel .item.qa .animate .block .a dd, section.panel .item.qa .animate .block .a li {
     font-size: 1.4em; }
   section.panel .item.qa .animate .block .b {
     text-align: center; }

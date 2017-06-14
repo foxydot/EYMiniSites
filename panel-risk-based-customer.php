@@ -16,7 +16,7 @@
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
-                            <h2>Use Case: Risk-Based Customer Acquisition</h2>
+                            <h2>Use case: Risk-based customer acquisition</h2>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="col-md-11">
                                     <a class="button" href="#rbc-rick-1">See what happens next ></a>
-                                    <div class="button-replacement">Forwards link to pre-approved policy offers to agent Rick, via text (his preferred channel)</div>
+                                    <div class="button-replacement">Forwards links to pre-approved policy offers to agent, via text (his preferred channel)</div>
                                 </div>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Prioritized demographics and segmentation (e.g., first-time home buyers, HNW zip codes)</li>
+                                            <li>Prioritized demographics and segmentation (e.g., first-time home buyers, high net worth zip codes)</li>
                                             <li>Increased conversion rates</li>
                                             <li>Tech-enabled innovations within distribution and customer acquisition</li>
                                         </ul>
@@ -223,7 +223,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>AI-enabled IVAs for scalable and personalized communication</li>
+                                            <li>AI-enabled interactive voice automation for scalable and personalized communication</li>
                                             <li>Mobile app for customers</li>
                                             <li>Portal and mobile app for brokers and agents</li>
                                             <li>Underwriter desktop systems</li>
@@ -245,7 +245,7 @@
                                         <ul>
                                             <li>Portfolio underwriting teams/programs</li>
                                             <li>Risk-appetite visibility</li>
-                                            <li>Alignment between underwriting and channel KPIs</li>
+                                            <li>Alignment between underwriting and channel key performance indicators</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
                                         </ul>
                                     </div>

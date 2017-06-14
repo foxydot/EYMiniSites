@@ -16,7 +16,7 @@
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
-                            <h2>Use Case: Automated claims with telematics</h2>
+                            <h2>Use case: Automated claims with telematics</h2>
                         </div>
                     </div>
                 </div>

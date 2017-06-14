@@ -16,7 +16,7 @@
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
-                            <h2>Use Case: Intelligent Cross Selling</h2>
+                            <h2>Use case: Intelligent cross-selling</h2>
                         </div>
                     </div>
                 </div>
@@ -29,7 +29,8 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Insurers lack insight into events in customers’ lives that would represent upsell and cross-sell opportunities, as well as the capabilities to efficiently and effectively develop and distribute targeted offers.</dd>
+                                        <li>How can we seize upsell opportunities related to our policyholders’ life events?</li>
+                                        <li>What role can bundled policies play in expanding customer relationships?</li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -125,7 +126,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives an alert from ABC app congratulating him on Dan’s recent graduation</li>
+                                        <li>Receives an alert from ABC app congratulating him on Dan’s recent graduation and offering additional coverage</li>
                                         <li>Connects to the app to add Dan’s car to bundled policy</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
@@ -272,7 +273,7 @@
                                     <div class="col-md-8 c">
                                         <ul>
                                             <li>Underwriters platform</li>
-                                            <li>Automated transaction processing with AI Bot</li>
+                                            <li>Automated transaction processing with AI bot</li>
                                             <li>External integration including 3rd-party data rules engine</li>
                                             <li>Integration with 3rd-party vendor partners systems</li>
                                             <li>Mobile platform for customers to view and change policy details</li>

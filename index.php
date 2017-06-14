@@ -56,7 +56,7 @@
                      <div class="col-md-3">
                          <a class="subscreen-option intelligent-cross-selling" href="#intelligent-cross-selling">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_intelligent_cross_selling.png" class="icon menu" />
-                             <h3>Intelligent cross selling:</h3>
+                             <h3>Intelligent cross-selling:</h3>
                              <p>Existing customers renewing policies online are led through quoting and purchase of additional policies by AI-driven “ChatBot” <br /><strong>More ></strong></p>
                          </a>
                      </div>
@@ -70,7 +70,7 @@
                      <div class="col-md-3">
                          <a class="subscreen-option blockchain-p2p" href="#blockchain-p2p">
                              <img src="/img/P2P_icon_yellow.png" class="icon menu" />
-                             <h3>Blockchain P2P: </h3>
+                             <h3>Blockchain peer-to-peer: </h3>
                              <p>A new, secure way for insurers to engage non-traditional customers and efficiently convert existing polices to P2P market
                                  <br /><strong>More ></strong></p>
                          </a>

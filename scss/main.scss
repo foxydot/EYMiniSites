@@ -297,7 +297,7 @@ section.panel{
       margin-bottom: 0;
     }
   }
-  ul {
+  ul,dl {
     counter-reset: item;
     li {
       list-style-type: none;
@@ -311,7 +311,7 @@ section.panel{
         color: $yellow;
       }
     }
-    ul {
+    ul,dl {
       li {
         &:before {
           font-family: FontAwesome;
@@ -334,7 +334,7 @@ section.panel{
             font-size: 1.4em;
             font-weight: 700;
           }
-          dd{
+          dd,li{
             font-size: 1.4em;
           }
         }
