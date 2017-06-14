@@ -85,7 +85,7 @@
                      <div class="col-md-3">
                          <a class="subscreen-option wearable-saftey" href="#wearable-saftey">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
-                             <h3>Wearable loss prevention:</h3>
+                             <h3>Wearables for worker safety:</h3>
                              <p>More precise and data-driven insight
                                  into worker compensation exposure risk,
                                  enabling smart policies <br /><strong>More ></strong></p>

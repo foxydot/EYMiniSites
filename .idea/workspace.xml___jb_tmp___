@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-risk-based-customer.php" afterPath="$PROJECT_DIR$/panel-risk-based-customer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-wearable-saftey.php" afterPath="$PROJECT_DIR$/panel-wearable-saftey.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,18 +20,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+            <state relative-caret-position="627">
+              <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-wearable-saftey.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="panel-wearable-saftey.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -48,16 +42,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="449">
               <caret line="251" column="93" lean-forward="true" selection-start-line="251" selection-start-column="93" selection-end-line="251" selection-end-column="93" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="272" column="60" lean-forward="true" selection-start-line="272" selection-start-column="60" selection-end-line="272" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -76,10 +60,10 @@
       <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="315">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
-                <marker date="1497475312000" expanded="true" signature="14295:14370" ph="..." />
+                <marker date="1497476347000" expanded="true" signature="14295:14370" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,9 +142,9 @@
       <find>U</find>
       <find>Use Case</find>
       <find>Prio</find>
-      <find>Platform</find>
       <find>dl</find>
       <find>AI Bot</find>
+      <find>Platform</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -193,14 +177,14 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
       </list>
     </option>
   </component>
@@ -379,7 +363,7 @@
       <workItem from="1496758250674" duration="2301000" />
       <workItem from="1496778863688" duration="39024000" />
       <workItem from="1497290241809" duration="5294000" />
-      <workItem from="1497474101886" duration="1808000" />
+      <workItem from="1497474101886" duration="1961000" />
     </task>
     <task id="LOCAL-00001" summary="added some second page flows">
       <created>1493843117800</created>
@@ -689,28 +673,35 @@
       <option name="project" value="LOCAL" />
       <updated>1497475071331</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase">
+      <created>1497476296042</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1497476296042</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134641000" />
+    <option name="totallyTimeSpent" value="134794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1708" y="-129" width="1512" height="977" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15343915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08259912" sideWeight="0.505291" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08259912" sideWeight="0.50793654" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08259912" sideWeight="0.49470899" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08259912" sideWeight="0.4920635" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11123348" sideWeight="0.4781746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -727,7 +718,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="image adds" />
     <MESSAGE value="start on intelligent cross selling" />
     <MESSAGE value="add ics background and adjust css for broader application" />
     <MESSAGE value="add ics demo" />
@@ -752,7 +742,8 @@
     <MESSAGE value="add automated claims background image" />
     <MESSAGE value="change copy to &lt; Return to menu page:" />
     <MESSAGE value="fix icon height to align text" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix icon height to align text" />
+    <MESSAGE value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -804,7 +795,7 @@
         <state relative-caret-position="4125">
           <caret line="275" column="32" lean-forward="false" selection-start-line="275" selection-start-column="32" selection-end-line="275" selection-end-column="32" />
           <folding>
-            <marker date="1497475312000" expanded="true" signature="14295:14370" ph="..." />
+            <marker date="1497476347000" expanded="true" signature="14295:14370" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1065,44 +1056,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <marker date="1497475312000" expanded="true" signature="14295:14370" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="251" column="93" lean-forward="true" selection-start-line="251" selection-start-column="93" selection-end-line="251" selection-end-column="93" />
           <folding />
         </state>
       </provider>
@@ -1117,8 +1074,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="272" column="60" lean-forward="true" selection-start-line="272" selection-start-column="60" selection-end-line="272" selection-end-column="60" />
+        <state relative-caret-position="222">
+          <caret line="273" column="44" lean-forward="true" selection-start-line="273" selection-start-column="44" selection-end-line="273" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="251" column="93" lean-forward="true" selection-start-line="251" selection-start-column="93" selection-end-line="251" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <marker date="1497476347000" expanded="true" signature="14295:14370" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
           <folding />
         </state>
       </provider>
