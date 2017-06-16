@@ -72,7 +72,7 @@
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Reviews existing policy data enhanced with satellite views of homes</li>
-                                        <li>Conducts analysis of roof quality and surrounding terrain</li>
+                                        <li>Combines property parameters with geo information to complete her portfolio of homes</li>
                                         <li>Identifies portfolio targets with pre-approved offers</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
@@ -159,8 +159,10 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Receives automated notification</li>
-                                        <li>Decides to review other offers from Mary</li>
+                                        <li>Receives notification by app alert that policy is issued</li>
+                                        <li>Increased commissions for week based on Rick’s conversion rate</li>
+                                        <li>Sends welcome kit</li>
+                                        <li>Receives next set of pre-approved homes for review and potential sales offers</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="rick-2-a" src="img/rick-2-a.png" />
