@@ -154,7 +154,7 @@
                                         <ul>
                                             <li>Advanced telematics with video</li>
                                             <li>Video imagery linked to customer and policy data</li>
-                                            <li>Downloadable cloud telematics data mapped to claims FNOL and Loss Details graphs</li>
+                                            <li>Downloadable cloud telematics data mapped to claims FNOL and loss details graphs</li>
                                             <li>Conversational data via chatbot with claims workflow selections</li>
                                             <li>Settlement calculation data </li>
                                         </ul>
@@ -189,10 +189,10 @@
                                         <ul>
                                             <li>Video telematics device capturing  internal/external imagery</li>
                                             <li>Chatbot platform integrated with core claims processing system</li>
-                                            <li>Claims processing system connected to Cloud telematics data</li>
+                                            <li>Claims processing system connected to cloud telematics data</li>
                                             <li>Robotics process automation enabled claims workflow</li>
                                             <li>Chatbot enabled customer mobile application</li>
-                                            <li>Robotics enabled Auto physical damage appraisal engine</li>
+                                            <li>Robotics enabled auto physical damage appraisal engine</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -227,7 +227,7 @@
                                             <li>Target operating model staffing capabilities</li>
                                             <li>Claims organization restructuring focused on highest value activities</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
-                                            <li>Transformation into Digital company culture</li>
+                                            <li>Transformation into digital company culture</li>
                                         </ul>
                                     </div>
                                 </div>
