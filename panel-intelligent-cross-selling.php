@@ -48,7 +48,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Artificial intelligence, when combined with mobile portals, enables insurers to engage customers renewing their policies and generate more revenue through targeted and timely offers for additional coverage. </dd>
+                                        <li>Artificial intelligence, when combined with mobile portals, enables insurers to engage customers renewing their policies and generate more revenue through targeted and timely offers for additional coverage. </li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
