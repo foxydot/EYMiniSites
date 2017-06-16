@@ -30,7 +30,7 @@
                                     <dl>
                                         <dt>Business problem:</dt>
                                         <li>How can we seize upsell opportunities related to our policyholders’ life events?</li>
-                                        <li>What role can bundled policies play in expanding customer relationships?</li>
+                                        <li>Can intelligent virtual assistants truly automate cross-selling?</li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -57,7 +57,7 @@
                             </div>
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now, see how it works ></a>
+                                    <a class="button" href="#next">How it works ></a>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Holds bundled household policy with ABC Insurance Co.</li>
-                                        <li>Has a son, Dan, just graduating and moving back to the family neighborhood</li>
+                                        <li>Dan, John’s son, has just graduated from college and is moving back to the family neighborhood</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="john-1-a" src="img/john-1-a.png" />
@@ -95,11 +95,12 @@
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-dan.jpg" />
                                     <h5 class="human-name">Dan</h5>
-                                    <h6 class="human-job-title">Son of John</h6>
+                                    <h6 class="human-job-title">John’s son and recent college graduate</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Successfully negotiates with John to add his car to the family policy	</li>
+                                        <li>Successfully negotiates with Dad to add his car to the family policy	</li>
+                                        <li>Prepares to move to new apartment</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="dan-1-a" src="img/dan-1-a.png" />
@@ -154,6 +155,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
+                                        <li>In the background, Abe “wakes up” to monitor John’s transactions</li>
                                         <li>Monitors policy change and determines that Dan is moving into an apartment</li>
                                         <li>Automatically configures a renter’s policy and presents John with a bundled renter’s policy offer</li>
                                     </ul>
@@ -181,8 +183,10 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Likes Abe’s idea and clicks to see the bundled savings, which are in line with his expectations</li>
-                                        <li>Buys the renters policy</li>
+                                        <li>Review’s Abe suggestion and is impressed by the savings opportunity</li>
+                                        <li>Recommended renters policy is only $10 more per month</li>
+                                        <li>Likes the extra protection at low cost</li>
+                                        <li>Adds renters policy to family bundle</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="john-3-a" src="img/john-3-a.png" />
