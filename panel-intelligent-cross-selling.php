@@ -29,8 +29,8 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <li>How can we seize upsell opportunities related to our policyholders’ life events?</li>
-                                        <li>Can intelligent virtual assistants truly automate cross-selling?</li>
+                                        <dd>How can we seize upsell opportunities related to our policyholders’ life events?</dd>
+                                        <dd>Can intelligent virtual assistants truly automate cross-selling?</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -48,7 +48,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <li>Artificial intelligence, when combined with mobile portals, enables insurers to engage customers renewing their policies and generate more revenue through targeted and timely offers for additional coverage. </li>
+                                        <dd>Artificial intelligence, when combined with mobile portals, enables insurers to engage customers renewing their policies and generate more revenue through targeted and timely offers for additional coverage. </dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
