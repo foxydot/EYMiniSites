@@ -1,85 +1,66 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000312}}
 .bkg-yellow {
   background: #ffe600; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000315}}
 .bkg-white10 {
   background: rgba(255, 255, 255, 0.1); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000318}}
 .bkg-white20 {
   background: rgba(255, 255, 255, 0.2); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000321}}
 .bkg-white30 {
   background: rgba(255, 255, 255, 0.3); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000324}}
 .bkg-white40 {
   background: rgba(255, 255, 255, 0.4); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000327}}
 .bkg-white50 {
   background: rgba(255, 255, 255, 0.5); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000330}}
 .bkg-white60 {
   background: rgba(255, 255, 255, 0.6); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000333}}
 .bkg-white70 {
   background: rgba(255, 255, 255, 0.7); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000336}}
 .bkg-white80 {
   background: rgba(255, 255, 255, 0.8); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000339}}
 .bkg-white90 {
   background: rgba(255, 255, 255, 0.9); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000343}}
 body, section.intro, section.panel {
   background: #464646;
   color: #ffffff;
   margin: 0 auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000348}}
 .wrap {
   max-width: 1000px;
   margin: 0 auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000351}}
   .wrap:after {
     content: "";
     display: table;
     clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000357}}
 a {
   color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000359}}
   a:hover {
     text-decoration: none;
     color: #ffe600; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000364}}
 main {
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000367}}
 .logo {
   max-width: 120px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000370}}
 img.icon {
   max-width: 80%;
   margin: 0 auto;
   display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000375}}
 section.intro, section.panel {
   position: absolute;
   height: 100%;
@@ -88,7 +69,6 @@ section.intro, section.panel {
   left: 0;
   right: 0;
   bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000383}}
   section.intro div.screen, section.panel div.screen {
     position: relative;
     display: block;
@@ -101,11 +81,9 @@ section.intro, section.panel {
     padding: 2em 0;
     overflow: scroll;
     zoom: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000395}}
     section.intro div.screen .wrap, section.panel div.screen .wrap {
       position: relative;
       zoom: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\0000398}}
       section.intro div.screen .wrap .carousel-control.left, section.intro div.screen .wrap .carousel-control.right, section.panel div.screen .wrap .carousel-control.left, section.panel div.screen .wrap .carousel-control.right {
         background: transparent;
         position: absolute;
@@ -115,33 +93,26 @@ section.intro, section.panel {
         right: auto;
         width: auto;
         opacity: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003108}}
       section.intro div.screen .wrap .carousel, section.panel div.screen .wrap .carousel {
         margin-top: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003112}}
     section.intro div.screen .fill, section.panel div.screen .fill {
       width: 100%;
       height: 250px;
       position: relative;
       display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003120}}
 section.intro {
   background-image: url(../img/bkg-intro-panel.jpg);
   background-position: center center;
   background-size: cover;
   z-index: 100; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003125}}
   section.intro div.screen {
     background: rgba(17, 17, 17, 0.5); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003128}}
   section.intro .title {
     color: #FFE000;
     font-size: 3em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003132}}
   section.intro p {
     font-size: 1.2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003135}}
   section.intro .subscreen-option {
     background: rgba(17, 17, 17, 0.5);
     padding: 1em;
@@ -150,44 +121,35 @@ section.intro {
     color: #ffffff;
     min-height: 467px;
     text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003143}}
     section.intro .subscreen-option:hover {
       text-decoration: none;
       background-color: rgba(17, 17, 17, 0.7); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003150}}
 section.panel .menu-bug {
   text-align: right; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003152}}
   section.panel .menu-bug a {
     display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003156}}
 section.panel .tagline-wrapper {
   background: #ffe600;
   margin-top: 2em;
   margin-right: -50px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003160}}
   section.panel .tagline-wrapper .tagline-icon {
     background-color: #6D6E71;
     padding: 0.25em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003166}}
   section.panel .tagline-wrapper .tagline {
     background: #ffe600;
     color: #111111;
     padding: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003170}}
     section.panel .tagline-wrapper .tagline h2 {
       font-size: 1.5em;
       font-weight: 700;
       line-height: 1;
       margin: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003176}}
     section.panel .tagline-wrapper .tagline h3 {
       font-size: 1.3em;
       font-weight: 500;
       line-height: 1;
       margin: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003184}}
 section.panel .sidewindow {
   overflow: hidden;
   display: block;
@@ -195,17 +157,14 @@ section.panel .sidewindow {
   width: 100%;
   max-width: 1000px;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003191}}
   section.panel .sidewindow .slideholder {
     width: 10000px;
     max-width: 10000px;
     position: relative;
     display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003196}}
     section.panel .sidewindow .slideholder .slide {
       position: block;
       float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003202}}
 section.panel .animate {
   -moz-transition-property: all;
   -o-transition-property: all;
@@ -220,65 +179,49 @@ section.panel .animate {
   -webkit-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
   opacity: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003207}}
   section.panel .animate.business-problem, section.panel .animate#rbc-mary-1 {
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
     -webkit-transition-duration: 1s;
     transition-duration: 1s;
     opacity: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003211}}
   section.panel .animate .a dt, section.panel .animate .a dd, section.panel .animate .b {
     opacity: 0;
     animation-duration: 2s;
     animation-name: slideInRight;
     animation-fill-mode: forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003218}}
   section.panel .animate .a dt {
     animation-delay: 0s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003221}}
   section.panel .animate .a dd {
     animation-delay: 0.5s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003225}}
   section.panel .animate .b {
     animation-delay: 1s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003229}}
   section.panel .animate .c ul {
     background: transparent; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003231}}
     section.panel .animate .c ul li {
       opacity: 0;
       animation-duration: 2s;
       animation-name: slideInRight;
       animation-fill-mode: forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003237}}
     section.panel .animate .c ul li:nth-child(1) {
       animation-delay: 0s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003238}}
     section.panel .animate .c ul li:nth-child(2) {
       animation-delay: 3s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003239}}
     section.panel .animate .c ul li:nth-child(3) {
       animation-delay: 6s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003240}}
     section.panel .animate .c ul li:nth-child(4) {
       animation-delay: 9s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003241}}
     section.panel .animate .c ul li:nth-child(5) {
       animation-delay: 12s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003242}}
     section.panel .animate .c ul li:nth-child(6) {
       animation-delay: 15s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003243}}
     section.panel .animate .c ul li:nth-child(7) {
       animation-delay: 18s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003246}}
   section.panel .animate .interstitial {
     opacity: 0;
     animation-duration: 1s;
     animation-name: zoomIn;
     animation-fill-mode: forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003251}}
     section.panel .animate .interstitial .button {
       display: inline-block;
       opacity: 1;
@@ -288,16 +231,13 @@ section.panel .animate {
       animation-duration: 1s;
       font-weight: 700;
       color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003260}}
       section.panel .animate .interstitial .button:hover, section.panel .animate .interstitial .button:active, section.panel .animate .interstitial .button:visited {
         color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003264}}
     section.panel .animate .interstitial .button-replacement {
       font-size: 1.6em;
       display: none;
       opacity: 0;
       animation-duration: 1s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003270}}
     section.panel .animate .interstitial .not-button {
       display: inline-block;
       opacity: 1;
@@ -305,33 +245,24 @@ section.panel .animate {
       animation-duration: 1s;
       font-weight: 700;
       color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003280}}
 section.panel .human-headshot, section.panel .human-name, section.panel .human-job-title {
   text-align: center;
   color: #111111; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003284}}
 section.panel .human-name {
   font-weight: 700; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003287}}
 section.panel .human-job-title {
   margin-bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003290}}
 section.panel .human-headshot {
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003294}}
 section.panel ol, section.panel ul {
   margin-left: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003296}}
   section.panel ol ol, section.panel ol ul, section.panel ul ol, section.panel ul ul {
     margin-bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003300}}
 section.panel ul, section.panel dl {
   counter-reset: item; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003302}}
   section.panel ul li, section.panel dl li {
     list-style-type: none;
     margin-bottom: 0.3em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003305}}
     section.panel ul li:before, section.panel dl li:before {
       margin-left: -1em;
       margin-right: 0.65em;
@@ -339,60 +270,45 @@ section.panel ul, section.panel dl {
       font-family: FontAwesome;
       content: "\f0da ";
       color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003316}}
   section.panel ul ul li:before, section.panel ul dl li:before, section.panel dl ul li:before, section.panel dl dl li:before {
     font-family: FontAwesome;
     content: "\f0da "; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003325}}
 section.panel .item.qa .animate .block {
   background: rgba(255, 255, 255, 0.2);
   margin: 2em auto;
   padding: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003330}}
   section.panel .item.qa .animate .block .a dl {
     margin-bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003333}}
   section.panel .item.qa .animate .block .a dt {
     font-size: 1.4em;
     font-weight: 700; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003337}}
   section.panel .item.qa .animate .block .a dd, section.panel .item.qa .animate .block .a li {
     font-size: 1.4em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003341}}
   section.panel .item.qa .animate .block .b {
     text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003345}}
 section.panel .item.qa .animate .interstitial {
   animation-delay: 3s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003351}}
 section.panel .item.demo .animate {
   display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003353}}
   section.panel .item.demo .animate .block {
     margin: 0 auto;
     padding: 0;
     display: flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003357}}
     section.panel .item.demo .animate .block .a, section.panel .item.demo .animate .block .c {
       padding: 2em;
       display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003361}}
     section.panel .item.demo .animate .block .c {
       display: flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003363}}
       section.panel .item.demo .animate .block .c .animate-icons {
         overflow: hidden;
         position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003366}}
         section.panel .item.demo .animate .block .c .animate-icons img {
           animation-duration: 1s;
           animation-fill-mode: forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003373}}
   section.panel .item.demo .animate .interstitial {
     margin: 0 auto;
     display: flex;
     animation-delay: 6s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003377}}
     section.panel .item.demo .animate .interstitial .medots {
       border-right: 10px dotted #ffe600;
       min-height: 100%;
@@ -402,33 +318,27 @@ section.panel .item.demo .animate {
       opacity: 0;
       animation-duration: 2s;
       animation-fill-mode: forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003387}}
     section.panel .item.demo .animate .interstitial .button, section.panel .item.demo .animate .interstitial .not-button {
       margin: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003394}}
 section.panel .item.requirements .requirement {
   display: flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003396}}
   section.panel .item.requirements .requirement .block {
     background: rgba(17, 17, 17, 0.5);
     font-size: 1.2em;
     margin: 2em auto;
     padding: 2em;
     overflow: hidden; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003403}}
   section.panel .item.requirements .requirement .req-icon {
     background: #ffe600;
     height: 12em;
     width: 12em;
     padding: 1em;
     margin: 1em auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003411}}
 section.panel .item.requirements .animate {
   animation-duration: 3s;
   animation-name: fadeIn;
   animation-fill-mode: forwards;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003417}}
 section.panel .item.requirements .dotted-line {
   overflow: hidden;
   width: 500px;
@@ -437,58 +347,42 @@ section.panel .item.requirements .dotted-line {
   top: 7em;
   left: 20em;
   animation: showDiag 3s linear forwards; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003426}}
   section.panel .item.requirements .dotted-line svg line {
     stroke: #ffe600;
     stroke-width: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003433}}
 section.panel .item.requirements .animate:nth-child(2) .dotted-line {
   animation-delay: 1s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003437}}
 section.panel .item.requirements .animate:nth-child(3) {
   animation-delay: 3s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003439}}
   section.panel .item.requirements .animate:nth-child(3) .dotted-line {
     animation-delay: 4s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003443}}
 section.panel .item.requirements .animate:nth-child(4) {
   animation-delay: 6s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003445}}
   section.panel .item.requirements .animate:nth-child(4) .dotted-line {
     animation-delay: 7s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003449}}
 section.panel .item.requirements .animate:nth-child(5) {
   animation-delay: 9s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003451}}
   section.panel .item.requirements .animate:nth-child(5) .dotted-line {
     animation-delay: 10s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003455}}
 section.panel .item.requirements .animate:nth-child(6) {
   animation-delay: 12s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003457}}
   section.panel .item.requirements .animate:nth-child(6) .dotted-line {
     animation-delay: 13s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003461}}
 section.panel .item.requirements .animate:nth-child(7) {
   animation-delay: 15s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003463}}
   section.panel .item.requirements .animate:nth-child(7) .dotted-line {
     animation-delay: 16s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003469}}
 section.panel .item.tools .animate {
   opacity: 1;
   display: flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003472}}
   section.panel .item.tools .animate .block {
     background: rgba(255, 255, 255, 0.2);
     margin: 2em auto;
     padding: 2em;
     overflow: hidden;
     height: 310px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003478}}
     section.panel .item.tools .animate .block .a {
       text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003480}}
       section.panel .item.tools .animate .block .a .button {
         display: none;
         opacity: 1;
@@ -498,51 +392,37 @@ section.panel .item.tools .animate {
         animation-duration: 1s;
         font-weight: 700;
         color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003491}}
       section.panel .item.tools .animate .block .a:hover .button, section.panel .item.tools .animate .block .a:active .button, section.panel .item.tools .animate .block .a:visited .button {
         color: #111111;
         background-color: #ffe600; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003498}}
     section.panel .item.tools .animate .block .c ul {
       opacity: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003500}}
       section.panel .item.tools .animate .block .c ul li:nth-child(1) {
         animation-delay: 0s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003501}}
       section.panel .item.tools .animate .block .c ul li:nth-child(2) {
         animation-delay: 0.5s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003502}}
       section.panel .item.tools .animate .block .c ul li:nth-child(3) {
         animation-delay: 1s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003503}}
       section.panel .item.tools .animate .block .c ul li:nth-child(4) {
         animation-delay: 1.5s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003504}}
       section.panel .item.tools .animate .block .c ul li:nth-child(5) {
         animation-delay: 2s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003505}}
       section.panel .item.tools .animate .block .c ul li:nth-child(6) {
         animation-delay: 2.5s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003506}}
       section.panel .item.tools .animate .block .c ul li:nth-child(7) {
         animation-delay: 3s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003515}}
 section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
   padding-top: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003518}}
   section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons {
     margin: -2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003520}}
     section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img {
       position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003523}}
     section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-a {
       opacity: 0;
       top: 1.5em;
       left: 2em;
       animation-delay: 0s;
       animation-name: zoomIn; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003530}}
     section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-b {
       opacity: 0;
       bottom: 0;
@@ -552,7 +432,6 @@ section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003540}}
     section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons img.mary-1-c {
       opacity: 0;
       bottom: 0;
@@ -562,14 +441,11 @@ section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003557}}
 section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003560}}
   section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003563}}
   section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-a {
     opacity: 0;
     top: 1.5em;
@@ -579,28 +455,23 @@ section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003573}}
   section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-b {
     opacity: 0;
     bottom: 2em;
     left: 2em;
     animation-delay: 3s;
     animation-name: zoomIn; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003580}}
   section.panel.risk-based-customer .item.demo #rbc-rick-1 .block .c .animate-icons img.rick-1-c {
     opacity: 0;
     bottom: 0.5em;
     right: 3em;
     animation-delay: 6s;
     animation-name: zoomIn; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003594}}
 section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003597}}
   section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003600}}
   section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img.anne-1-a {
     opacity: 0;
     top: 1.5em;
@@ -610,21 +481,17 @@ section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003610}}
   section.panel.risk-based-customer .item.demo #rbc-anne-1 .block .c .animate-icons img.anne-1-b {
     opacity: 0;
     bottom: 0;
     right: 6em;
     animation-delay: 3s;
     animation-name: zoomInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003624}}
 section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003627}}
   section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003630}}
   section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-a {
     opacity: 0;
     top: 1.5em;
@@ -634,7 +501,6 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003640}}
   section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-b {
     opacity: 0;
     top: 6em;
@@ -645,17 +511,13 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003661}}
 section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block {
   padding-top: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003664}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons {
     margin: -2em;
     width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003667}}
     section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img {
       position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003670}}
     section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block .c .animate-icons img.john-1-a {
       opacity: 0;
       bottom: 0;
@@ -665,14 +527,11 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003687}}
 section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003690}}
   section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003693}}
   section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img.dan-1-a {
     opacity: 0;
     left: 6em;
@@ -681,7 +540,6 @@ section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003702}}
   section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate-icons img.dan-1-b {
     opacity: 0;
     bottom: -1em;
@@ -691,14 +549,11 @@ section.panel.intelligent-cross-selling .item.demo #ics-dan-1 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003719}}
 section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003722}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003725}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-a {
     opacity: 0;
     bottom: 0;
@@ -708,21 +563,17 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animat
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003735}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-2 .block .c .animate-icons img.john-2-b {
     opacity: 0;
     bottom: 0;
     right: 4em;
     animation-delay: 3s;
     animation-name: zoomInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003749}}
 section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003752}}
   section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003755}}
   section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate-icons img.abe-1-a {
     opacity: 0;
     bottom: 0;
@@ -732,14 +583,11 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-1 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003772}}
 section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003775}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003778}}
   section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animate-icons img.john-3-a {
     opacity: 0;
     bottom: 0;
@@ -749,14 +597,11 @@ section.panel.intelligent-cross-selling .item.demo #ics-john-3 .block .c .animat
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003795}}
 section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003798}}
   section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003801}}
   section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate-icons img.abe-2-a {
     opacity: 0;
     bottom: 0;
@@ -766,17 +611,13 @@ section.panel.intelligent-cross-selling .item.demo #ics-abe-2 .block .c .animate
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003821}}
 section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block {
   padding-top: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003824}}
   section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons {
     margin: -2em;
     width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003827}}
     section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img {
       position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003830}}
     section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img.charles-1-a {
       opacity: 0;
       bottom: 0;
@@ -786,7 +627,6 @@ section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003840}}
     section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block .c .animate-icons img.charles-1-b {
       max-width: 300px;
       opacity: 0;
@@ -797,14 +637,11 @@ section.panel.iot-loss-prevention .item.demo #ilp-charles-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003858}}
 section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003861}}
   section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003864}}
   section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img.abcins-1-a {
     opacity: 0;
     bottom: 0;
@@ -814,7 +651,6 @@ section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-ic
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003874}}
   section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-icons img.abcins-1-b {
     max-width: 300px;
     opacity: 0;
@@ -825,14 +661,11 @@ section.panel.iot-loss-prevention .item.demo #ilp-abcins-1 .block .c .animate-ic
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003892}}
 section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003895}}
   section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003898}}
   section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img.sensors-1-a {
     opacity: 0;
     bottom: 0;
@@ -842,7 +675,6 @@ section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-i
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003908}}
   section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-icons img.sensors-1-b {
     max-width: 300px;
     opacity: 0;
@@ -853,14 +685,11 @@ section.panel.iot-loss-prevention .item.demo #ilp-sensors-1 .block .c .animate-i
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003926}}
 section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003929}}
   section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003932}}
   section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img.charles-2-a {
     opacity: 0;
     bottom: 0;
@@ -870,7 +699,6 @@ section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-i
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003942}}
   section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-icons img.charles-2-b {
     max-width: 300px;
     opacity: 0;
@@ -881,16 +709,12 @@ section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-i
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003963}}
 section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block {
   padding-top: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003966}}
   section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons {
     margin: -2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003968}}
     section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons img {
       position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003971}}
     section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons img.jane-1-a {
       max-width: 300px;
       opacity: 0;
@@ -901,13 +725,10 @@ section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block {
       -moz-animation-name: slideInUp;
       -o-animation-name: slideInUp;
       animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003989}}
 section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons {
   margin: -2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003991}}
   section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\00003994}}
   section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons img.abcp2p-1-a {
     max-width: 300px;
     opacity: 0;
@@ -918,13 +739,10 @@ section.panel.blockchain-p2p .item.demo #p2p-abcp2p-1 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031012}}
 section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons {
   margin: -2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031014}}
   section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031017}}
   section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons img.jane-2-a {
     max-width: 300px;
     opacity: 0;
@@ -935,14 +753,11 @@ section.panel.blockchain-p2p .item.demo #p2p-jane-2 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031035}}
 section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031038}}
   section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031041}}
   section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons img.abcp2p-2-a {
     max-width: 300px;
     opacity: 0;
@@ -954,14 +769,11 @@ section.panel.blockchain-p2p .item.demo #p2p-abcp2p-2 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031060}}
 section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons {
   margin: -2em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031063}}
   section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons img {
     position: absolute; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031066}}
   section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons img.jane-3-a {
     max-width: 300px;
     opacity: 0;
@@ -973,47 +785,36 @@ section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons {
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031084}}
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-risk-based.jpg");
   background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031087}}
   section.panel.risk-based-customer.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.25); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031091}}
 section.panel.intelligent-cross-selling.bkgimg {
   background-image: url("../img/bkg-intelligent-cross-selling.jpg");
   background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031094}}
   section.panel.intelligent-cross-selling.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.4); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031098}}
 section.panel.blockchain-p2p.bkgimg {
   background-image: url("../img/bkg-blockchain-p2p.jpg");
   background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031101}}
   section.panel.blockchain-p2p.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.7); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031105}}
 section.panel.iot-loss-prevention.bkgimg {
   background-image: url("../img/bkg-iot-loss-prevention.jpg");
   background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031108}}
   section.panel.iot-loss-prevention.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.7); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031112}}
 section.panel.automated-claims.bkgimg {
   background-image: url("../img/bkg-automated-claims.jpg");
   background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031115}}
   section.panel.automated-claims.bkgimg .screen {
     background-color: rgba(17, 17, 17, 0.7); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031119}}
 footer {
   background: #2E2F2F;
   color: #ffe600;
@@ -1024,7 +825,6 @@ footer {
   left: 0;
   right: 0;
   z-index: 1000; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031129}}
   footer .cta {
     border: 1px solid #ffe600;
     padding: 1em;
@@ -1032,7 +832,6 @@ footer {
     display: block;
     color: #ffe600;
     cursor: pointer; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031136}}
     footer .cta:hover {
       text-decoration: none;
       background: rgba(255, 255, 255, 0.1); }
@@ -1049,20 +848,16 @@ footer {
  *
  * Copyright (c) 2017 Daniel Eden
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031158}}
 .animated {
   animation-duration: 1s;
   animation-fill-mode: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031163}}
 .animated.infinite {
   animation-iteration-count: infinite; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031167}}
 .animated.hinge {
   animation-duration: 2s; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031171}}
 .animated.flipOutX,
 .animated.flipOutY,
 .animated.bounceIn,
@@ -1081,7 +876,6 @@ footer {
     transform: translate3d(0, -15px, 0); }
   90% {
     transform: translate3d(0, -4px, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031199}}
 .bounce {
   animation-name: bounce;
   transform-origin: center bottom; }
@@ -1091,7 +885,6 @@ footer {
     opacity: 1; }
   25%, 75% {
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031214}}
 .flash {
   animation-name: flash; }
 
@@ -1103,7 +896,6 @@ footer {
     transform: scale3d(1.05, 1.05, 1.05); }
   to {
     transform: scale3d(1, 1, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031234}}
 .pulse {
   animation-name: pulse; }
 
@@ -1122,7 +914,6 @@ footer {
     transform: scale3d(1.05, 0.95, 1); }
   to {
     transform: scale3d(1, 1, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031268}}
 .rubberBand {
   animation-name: rubberBand; }
 
@@ -1133,7 +924,6 @@ footer {
     transform: translate3d(-10px, 0, 0); }
   20%, 40%, 60%, 80% {
     transform: translate3d(10px, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031286}}
 .shake {
   animation-name: shake; }
 
@@ -1150,7 +940,6 @@ footer {
     transform: translateX(2px) rotateY(3deg); }
   50% {
     transform: translateX(0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031316}}
 .headShake {
   animation-timing-function: ease-in-out;
   animation-name: headShake; }
@@ -1166,7 +955,6 @@ footer {
     transform: rotate3d(0, 0, 1, -5deg); }
   to {
     transform: rotate3d(0, 0, 1, 0deg); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031343}}
 .swing {
   transform-origin: top center;
   animation-name: swing; }
@@ -1182,7 +970,6 @@ footer {
     transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg); }
   to {
     transform: scale3d(1, 1, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031370}}
 .tada {
   animation-name: tada; }
 
@@ -1202,7 +989,6 @@ footer {
     transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg); }
   to {
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031406}}
 .wobble {
   animation-name: wobble; }
 
@@ -1223,7 +1009,6 @@ footer {
     transform: skewX(0.39063deg) skewY(0.39063deg); }
   88.8% {
     transform: skewX(-0.19531deg) skewY(-0.19531deg); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031444}}
 .jello {
   animation-name: jello;
   transform-origin: center; }
@@ -1246,7 +1031,6 @@ footer {
   to {
     opacity: 1;
     transform: scale3d(1, 1, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031482}}
 .bounceIn {
   animation-name: bounceIn; }
 
@@ -1265,7 +1049,6 @@ footer {
     transform: translate3d(0, 5px, 0); }
   to {
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031514}}
 .bounceInDown {
   animation-name: bounceInDown; }
 
@@ -1284,7 +1067,6 @@ footer {
     transform: translate3d(5px, 0, 0); }
   to {
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031546}}
 .bounceInLeft {
   animation-name: bounceInLeft; }
 
@@ -1303,7 +1085,6 @@ footer {
     transform: translate3d(-5px, 0, 0); }
   to {
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031578}}
 .bounceInRight {
   animation-name: bounceInRight; }
 
@@ -1322,7 +1103,6 @@ footer {
     transform: translate3d(0, -5px, 0); }
   to {
     transform: translate3d(0, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031610}}
 .bounceInUp {
   animation-name: bounceInUp; }
 
@@ -1335,7 +1115,6 @@ footer {
   to {
     opacity: 0;
     transform: scale3d(0.3, 0.3, 0.3); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031630}}
 .bounceOut {
   animation-name: bounceOut; }
 
@@ -1348,7 +1127,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, 2000px, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031650}}
 .bounceOutDown {
   animation-name: bounceOutDown; }
 
@@ -1359,7 +1137,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(-2000px, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031666}}
 .bounceOutLeft {
   animation-name: bounceOutLeft; }
 
@@ -1370,7 +1147,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(2000px, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031682}}
 .bounceOutRight {
   animation-name: bounceOutRight; }
 
@@ -1383,7 +1159,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, -2000px, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031702}}
 .bounceOutUp {
   animation-name: bounceOutUp; }
 
@@ -1392,7 +1167,6 @@ footer {
     opacity: 0; }
   to {
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031716}}
 .fadeIn {
   animation-name: fadeIn; }
 
@@ -1403,7 +1177,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031732}}
 .fadeInDown {
   animation-name: fadeInDown; }
 
@@ -1414,7 +1187,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031748}}
 .fadeInDownBig {
   animation-name: fadeInDownBig; }
 
@@ -1425,7 +1197,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031764}}
 .fadeInLeft {
   animation-name: fadeInLeft; }
 
@@ -1436,7 +1207,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031780}}
 .fadeInLeftBig {
   animation-name: fadeInLeftBig; }
 
@@ -1447,7 +1217,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031796}}
 .fadeInRight {
   animation-name: fadeInRight; }
 
@@ -1458,7 +1227,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031812}}
 .fadeInRightBig {
   animation-name: fadeInRightBig; }
 
@@ -1469,7 +1237,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031828}}
 .fadeInUp {
   animation-name: fadeInUp; }
 
@@ -1480,7 +1247,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031844}}
 .fadeInUpBig {
   animation-name: fadeInUpBig; }
 
@@ -1489,7 +1255,6 @@ footer {
     opacity: 1; }
   to {
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031858}}
 .fadeOut {
   animation-name: fadeOut; }
 
@@ -1499,7 +1264,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, 100%, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031873}}
 .fadeOutDown {
   animation-name: fadeOutDown; }
 
@@ -1509,7 +1273,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, 2000px, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031888}}
 .fadeOutDownBig {
   animation-name: fadeOutDownBig; }
 
@@ -1519,7 +1282,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(-100%, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031903}}
 .fadeOutLeft {
   animation-name: fadeOutLeft; }
 
@@ -1529,7 +1291,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(-2000px, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031918}}
 .fadeOutLeftBig {
   animation-name: fadeOutLeftBig; }
 
@@ -1539,7 +1300,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(100%, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031933}}
 .fadeOutRight {
   animation-name: fadeOutRight; }
 
@@ -1549,7 +1309,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(2000px, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031948}}
 .fadeOutRightBig {
   animation-name: fadeOutRightBig; }
 
@@ -1559,7 +1318,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, -100%, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031963}}
 .fadeOutUp {
   animation-name: fadeOutUp; }
 
@@ -1569,7 +1327,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(0, -2000px, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000031978}}
 .fadeOutUpBig {
   animation-name: fadeOutUpBig; }
 
@@ -1589,7 +1346,6 @@ footer {
   to {
     transform: perspective(400px);
     animation-timing-function: ease-in; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032009}}
 .animated.flip {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
@@ -1610,7 +1366,6 @@ footer {
     transform: perspective(400px) rotate3d(1, 0, 0, -5deg); }
   to {
     transform: perspective(400px); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032041}}
 .flipInX {
   -webkit-backface-visibility: visible !important;
   backface-visibility: visible !important;
@@ -1631,7 +1386,6 @@ footer {
     transform: perspective(400px) rotate3d(0, 1, 0, -5deg); }
   to {
     transform: perspective(400px); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032073}}
 .flipInY {
   -webkit-backface-visibility: visible !important;
   backface-visibility: visible !important;
@@ -1646,7 +1400,6 @@ footer {
   to {
     transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032095}}
 .flipOutX {
   animation-name: flipOutX;
   -webkit-backface-visibility: visible !important;
@@ -1661,7 +1414,6 @@ footer {
   to {
     transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032117}}
 .flipOutY {
   -webkit-backface-visibility: visible !important;
   backface-visibility: visible !important;
@@ -1680,7 +1432,6 @@ footer {
   to {
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032145}}
 .lightSpeedIn {
   animation-name: lightSpeedIn;
   animation-timing-function: ease-out; }
@@ -1691,7 +1442,6 @@ footer {
   to {
     transform: translate3d(100%, 0, 0) skewX(30deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032161}}
 .lightSpeedOut {
   animation-name: lightSpeedOut;
   animation-timing-function: ease-in; }
@@ -1705,7 +1455,6 @@ footer {
     transform-origin: center;
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032180}}
 .rotateIn {
   animation-name: rotateIn; }
 
@@ -1718,7 +1467,6 @@ footer {
     transform-origin: left bottom;
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032198}}
 .rotateInDownLeft {
   animation-name: rotateInDownLeft; }
 
@@ -1731,7 +1479,6 @@ footer {
     transform-origin: right bottom;
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032216}}
 .rotateInDownRight {
   animation-name: rotateInDownRight; }
 
@@ -1744,7 +1491,6 @@ footer {
     transform-origin: left bottom;
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032234}}
 .rotateInUpLeft {
   animation-name: rotateInUpLeft; }
 
@@ -1757,7 +1503,6 @@ footer {
     transform-origin: right bottom;
     transform: none;
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032252}}
 .rotateInUpRight {
   animation-name: rotateInUpRight; }
 
@@ -1769,7 +1514,6 @@ footer {
     transform-origin: center;
     transform: rotate3d(0, 0, 1, 200deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032269}}
 .rotateOut {
   animation-name: rotateOut; }
 
@@ -1781,7 +1525,6 @@ footer {
     transform-origin: left bottom;
     transform: rotate3d(0, 0, 1, 45deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032286}}
 .rotateOutDownLeft {
   animation-name: rotateOutDownLeft; }
 
@@ -1793,7 +1536,6 @@ footer {
     transform-origin: right bottom;
     transform: rotate3d(0, 0, 1, -45deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032303}}
 .rotateOutDownRight {
   animation-name: rotateOutDownRight; }
 
@@ -1805,7 +1547,6 @@ footer {
     transform-origin: left bottom;
     transform: rotate3d(0, 0, 1, -45deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032320}}
 .rotateOutUpLeft {
   animation-name: rotateOutUpLeft; }
 
@@ -1817,7 +1558,6 @@ footer {
     transform-origin: right bottom;
     transform: rotate3d(0, 0, 1, 90deg);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032337}}
 .rotateOutUpRight {
   animation-name: rotateOutUpRight; }
 
@@ -1837,7 +1577,6 @@ footer {
   to {
     transform: translate3d(0, 700px, 0);
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032366}}
 .hinge {
   animation-name: hinge; }
 
@@ -1853,7 +1592,6 @@ footer {
   to {
     opacity: 1;
     transform: scale(1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032391}}
 .jackInTheBox {
   animation-name: jackInTheBox; }
 
@@ -1865,7 +1603,6 @@ footer {
   to {
     opacity: 1;
     transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032409}}
 .rollIn {
   animation-name: rollIn; }
 
@@ -1876,7 +1613,6 @@ footer {
   to {
     opacity: 0;
     transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032426}}
 .rollOut {
   animation-name: rollOut; }
 
@@ -1888,7 +1624,6 @@ footer {
     opacity: 1; }
   100% {
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032445}}
 .zoomIn {
   animation-name: zoomIn; }
 
@@ -1901,7 +1636,6 @@ footer {
     opacity: 1;
     transform: scale3d(0.475, 0.475, 0.475) translate3d(0, 60px, 0);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032463}}
 .zoomInDown {
   animation-name: zoomInDown; }
 
@@ -1914,7 +1648,6 @@ footer {
     opacity: 1;
     transform: scale3d(0.475, 0.475, 0.475) translate3d(10px, 0, 0);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032481}}
 .zoomInLeft {
   animation-name: zoomInLeft; }
 
@@ -1927,7 +1660,6 @@ footer {
     opacity: 1;
     transform: scale3d(0.475, 0.475, 0.475) translate3d(-10px, 0, 0);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032499}}
 .zoomInRight {
   animation-name: zoomInRight; }
 
@@ -1942,7 +1674,6 @@ footer {
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); }
   to {
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032521}}
 .zoomInUp {
   animation-name: zoomInUp; }
 
@@ -1954,7 +1685,6 @@ footer {
     transform: scale3d(0.3, 0.3, 0.3); }
   to {
     opacity: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032540}}
 .zoomOut {
   animation-name: zoomOut; }
 
@@ -1968,7 +1698,6 @@ footer {
     transform: scale3d(0.1, 0.1, 0.1) translate3d(0, 2000px, 0);
     transform-origin: center bottom;
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032559}}
 .zoomOutDown {
   animation-name: zoomOutDown; }
 
@@ -1980,7 +1709,6 @@ footer {
     opacity: 0;
     transform: scale(0.1) translate3d(-2000px, 0, 0);
     transform-origin: left center; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032576}}
 .zoomOutLeft {
   animation-name: zoomOutLeft; }
 
@@ -1992,7 +1720,6 @@ footer {
     opacity: 0;
     transform: scale(0.1) translate3d(2000px, 0, 0);
     transform-origin: right center; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032593}}
 .zoomOutRight {
   animation-name: zoomOutRight; }
 
@@ -2006,7 +1733,6 @@ footer {
     transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -2000px, 0);
     transform-origin: center bottom;
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032612}}
 .zoomOutUp {
   animation-name: zoomOutUp; }
 
@@ -2018,7 +1744,6 @@ footer {
   to {
     transform: translate3d(0, 0, 0);
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032629}}
 .slideInDown {
   animation-name: slideInDown; }
 
@@ -2028,7 +1753,6 @@ footer {
     visibility: visible; }
   to {
     transform: translate3d(0, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032644}}
 .slideInLeft {
   animation-name: slideInLeft; }
 
@@ -2040,7 +1764,6 @@ footer {
   to {
     transform: translate3d(0, 0, 0);
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032661}}
 .slideInRight {
   animation-name: slideInRight; }
 
@@ -2054,7 +1777,6 @@ footer {
   to {
     transform: translate3d(0, 0, 0);
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032681}}
 .slideInUp {
   animation-name: slideInUp; }
 
@@ -2066,7 +1788,6 @@ footer {
     visibility: hidden;
     transform: translate3d(0, 100%, 0);
     opacity: 1; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032698}}
 .slideOutDown {
   animation-name: slideOutDown; }
 
@@ -2076,7 +1797,6 @@ footer {
   to {
     visibility: hidden;
     transform: translate3d(-100%, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032713}}
 .slideOutLeft {
   animation-name: slideOutLeft; }
 
@@ -2086,7 +1806,6 @@ footer {
   to {
     visibility: hidden;
     transform: translate3d(100%, 0, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032728}}
 .slideOutRight {
   animation-name: slideOutRight; }
 
@@ -2096,6 +1815,5 @@ footer {
   to {
     visibility: hidden;
     transform: translate3d(0, -100%, 0); } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/MSD\/EYMiniSites\/scss\/main\.scss}line{font-family:\000032743}}
 .slideOutUp {
   animation-name: slideOutUp; }

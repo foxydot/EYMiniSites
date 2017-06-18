@@ -240,9 +240,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Rich customer data and analytics to enable tracking of life events</li>
-                                            <li>Actuarial data and rate making (right rate for the risk)</li>
-                                            <li>3rd-party rules data</li>
+                                            <li>Automated underwriting/business rules engine</li>
+                                            <li>Integration of actuarial pricing data</li>
+                                            <li>Integration with external data sources to supplement coverage recommendations (life events, holidays, local events)</li>
+                                            <li>Complete account data pre-fill with new submission</li>
+                                            <li>Pre-approved policies based on customer’s risk profile</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -257,11 +259,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Commitment to increased customer engagement</li>
-                                            <li>Ability to rapidly launch personalized bundles</li>
-                                            <li>Proactive product offerings through direct channels</li>
-                                            <li>Willingness to take on increased risk profile</li>
-                                            <li>Confidence in accuracy of customer data</li>
+                                            <li>Identification of policies relevant to customer given their recent life/community events</li>
+                                            <li>Increased customer engagement</li>
+                                            <li>Tech-enabled innovations within customer acquisition and policy creation</li>
+                                            <li>High volume, high conversion cross-selling campaigns</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -276,11 +277,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Underwriters platform</li>
-                                            <li>Automated transaction processing with AI bot</li>
-                                            <li>External integration including 3rd-party data rules engine</li>
-                                            <li>Integration with 3rd-party vendor partners systems</li>
-                                            <li>Mobile platform for customers to view and change policy details</li>
+                                            <li>Mobile app for customers integrated with quote and bind</li>
+                                            <li>Chatbot configured to monitor customer transactions</li>
+                                            <li>Integration of chatbot with policy analytics triggering bundled product offerings with best offer pricing</li>
+                                            <li>Robotics automated transactions based on chatbot conversations</li>
+                                            <li>Underwriter desktop system configured to monitor robotics automated transactions</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -295,10 +296,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Portfolio underwriting teams and programs</li>
-                                            <li>Risk-appetite visibility</li>
+                                            <li>Chatbot enabled distribution organization</li>
+                                            <li>Portfolio underwriters focused on highest value activities</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
-                                            <li>Integration of proactive sales into company culture, especially within underwriting</li>
+                                            <li>Digital culture embracing robotics sales automation</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -313,8 +314,8 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between carrier, partner company and customer</li>
-                                            <li>Secured channels for text communications and financial transactions</li>
+                                            <li>Authenticated user sessions for secure transaction automation</li>
+                                            <li>Encryption to protect data transmissions between carrier and customer</li>
                                         </ul>
                                     </div>
                                 </div>
