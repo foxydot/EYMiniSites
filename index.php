@@ -79,7 +79,7 @@
                          <a class="subscreen-option automated-claims" href="#automated-claims">
                              <img src="/img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon menu" />
                              <h3>Automated claims with telematics: </h3>
-                             <p>A fully automated process for initiating, processign and paying claims with no human intervention.<br /><strong>More ></strong></p>
+                             <p>A fully automated process for initiating, processing and paying claims with no human intervention.<br /><strong>More ></strong></p>
                          </a>
                      </div>
                      <div class="col-md-3">
