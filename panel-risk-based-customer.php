@@ -189,11 +189,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Pre-approved policies based on risk-profile matching</li>
-                                            <li>Precise risk analysis and accurate external data</li>
-                                            <li>Insurance score used for pre-approval</li>
-                                            <li>Visual presentation of pre-approved homes</li>
-                                            <li class="trigger">Integrated transactional data enabling automated processing</li>
+                                            <li>Automated underwriting/business rules engine</li>
+                                            <LI>Integration of actuarial pricing data</LI>
+                                            <LI>Integrated external data sources that when combined create risk profiles sufficient for automated underwriting</LI>
+                                            <li>Complete account data pre-fill with automated submission</li>
+                                            <li>Pre-approved policies based on customer’s risk profile</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -208,9 +208,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Prioritized demographics and segmentation (e.g., first-time home buyers, high net worth zip codes)</li>
-                                            <li>Increased conversion rates</li>
-                                            <li>Tech-enabled innovations within distribution and customer acquisition</li>
+                                            <li>Automated underwriting of policies written with risk profile data</li>
+                                            <li>Targeted customer engagement with precise policy offers</li>
+                                            <li>Tech-enabled innovations within customer acquisition and policy creation</li>
+                                            <li>High volume, high conversion ratio acquisition campaigns</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -225,12 +226,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>AI-enabled interactive voice automation for scalable and personalized communication</li>
-                                            <li>Mobile app for customers</li>
-                                            <li>Portal and mobile app for brokers and agents</li>
-                                            <li>Underwriter desktop systems</li>
-                                            <li>Risk profile engine</li>
-                                            <li>Integrated geo mapping</li>
+                                            <li>Mobile app for customers integrated with automated submission, quote and bind connected to broker portal</li>
+                                            <li>Underwriter’s workstation system configured for risk portfolio creation incorporating customized data parameters and heat map pinned risk locations</li>
+                                            <li>Broker portal configured to display risk portfolios as part of pre-approved policy campaigns</li>
+                                            <li>Robotics automated transactions based on chatbot conversations, mobile app alerts and broker portal dashboards</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -245,10 +244,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Portfolio underwriting teams/programs</li>
-                                            <li>Risk-appetite visibility</li>
-                                            <li>Alignment between underwriting and channel key performance indicators</li>
+                                            <li>Portfolio underwriters team developing risk portfolios</li>
+                                            <li>Agency teams enrolled in risk profile based distribution programs</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
+                                            <li>Digital culture embracing sales automation that is robotics enabled</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -263,6 +262,7 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
+                                            <li>Secure web links used to present prospects with pre-approved policy offers</li>
                                             <li>Encryption to protect data transmissions between carrier, agent and customer</li>
                                         </ul>
                                     </div>
