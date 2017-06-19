@@ -6,6 +6,7 @@
 
 $yellow: #ffe600;
 $white: #FFFFFF;
+$gray25: #BABABC;
 $gray50: #6D6E71;
 $black: #111111;
 
@@ -289,6 +290,7 @@ section.panel{
   }
   .human-headshot{
     width: 100%;
+    background: $gray25;
   }
 
   ol,ul{
@@ -1074,6 +1076,114 @@ section.panel{
                 -o-animation-name: slideInUp;
                 animation-name: slideInUp;
               }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &.automated-claims{
+    .item.demo{
+      #act-atdata-1{
+        .block{
+          padding-top: 2em;
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.atdata-1-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 0;
+                animation-delay: 3s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.atdata-1-b{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                left: 6em;
+                animation-delay: 9s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #act-chatbot-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              img{
+                position: absolute;
+              }
+              img.chatbot-1-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 2em;
+                animation-delay: 3s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #act-payment-1{
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
+              width: 100%;
+              img{
+                position: absolute;
+              }
+              img.payment-1-a{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                right: 0;
+                animation-delay: 0s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+              img.payment-1-b{
+                max-width: 300px;
+                opacity: 0;
+                bottom: 0;
+                left: 15em;
+                animation-delay: 3s;
+                -webkit-animation-name: slideInUp;
+                -moz-animation-name: slideInUp;
+                -o-animation-name: slideInUp;
+                animation-name: slideInUp;
+              }
+            }
+          }
+        }
+      }
+      #act-nohumans-1{ //might need custom styling for nohumans part
+        .block{
+          .c{
+            .animate-icons{
+              margin: -2em;
             }
           }
         }

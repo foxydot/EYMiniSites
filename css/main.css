@@ -253,7 +253,8 @@ section.panel .human-name {
 section.panel .human-job-title {
   margin-bottom: 0; }
 section.panel .human-headshot {
-  width: 100%; }
+  width: 100%;
+  background: #BABABC; }
 section.panel ol, section.panel ul {
   margin-left: 0; }
   section.panel ol ol, section.panel ol ul, section.panel ul ol, section.panel ul ul {
@@ -784,6 +785,74 @@ section.panel.blockchain-p2p .item.demo #p2p-jane-3 .block .c .animate-icons {
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
+section.panel.automated-claims .item.demo #act-atdata-1 .block {
+  padding-top: 2em; }
+  section.panel.automated-claims .item.demo #act-atdata-1 .block .c .animate-icons {
+    margin: -2em;
+    width: 100%; }
+    section.panel.automated-claims .item.demo #act-atdata-1 .block .c .animate-icons img {
+      position: absolute; }
+    section.panel.automated-claims .item.demo #act-atdata-1 .block .c .animate-icons img.atdata-1-a {
+      max-width: 300px;
+      opacity: 0;
+      bottom: 0;
+      right: 0;
+      animation-delay: 3s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+    section.panel.automated-claims .item.demo #act-atdata-1 .block .c .animate-icons img.atdata-1-b {
+      max-width: 300px;
+      opacity: 0;
+      bottom: 0;
+      left: 6em;
+      animation-delay: 9s;
+      -webkit-animation-name: slideInUp;
+      -moz-animation-name: slideInUp;
+      -o-animation-name: slideInUp;
+      animation-name: slideInUp; }
+section.panel.automated-claims .item.demo #act-chatbot-1 .block .c .animate-icons {
+  margin: -2em; }
+  section.panel.automated-claims .item.demo #act-chatbot-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.automated-claims .item.demo #act-chatbot-1 .block .c .animate-icons img.chatbot-1-a {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    right: 2em;
+    animation-delay: 3s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.automated-claims .item.demo #act-payment-1 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.automated-claims .item.demo #act-payment-1 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.automated-claims .item.demo #act-payment-1 .block .c .animate-icons img.payment-1-a {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+  section.panel.automated-claims .item.demo #act-payment-1 .block .c .animate-icons img.payment-1-b {
+    max-width: 300px;
+    opacity: 0;
+    bottom: 0;
+    left: 15em;
+    animation-delay: 3s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.automated-claims .item.demo #act-nohumans-1 .block .c .animate-icons {
+  margin: -2em; }
 
 section.panel.risk-based-customer.bkgimg {
   background-image: url("../img/bkg-risk-based.jpg");

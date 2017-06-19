@@ -63,6 +63,115 @@
                     </div>
 
 
+                    <div class="item demo" id="automated-claims-demo">
+                        <div class="interactive-demo1 animate" id="act-atdata-1">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-atdata.png" />
+                                    <h5 class="human-name">Advanced telematics data</h5>
+                                    <h6 class="human-job-title"></h6>
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>Advanced telematics data – including video imagery:</li>
+                                        <li>Is instantaneously captured during an automobile accident</li>
+                                        <li>Is downloaded from the cloud</li>
+                                        <li>Automatically triggers an FNOL entry</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                        <img class="atdata-1-a" src="img/atdata-1-a.png" />
+                                        <img class="atdata-1-b" src="img/atdata-1-b.png" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row interstitial">
+                                <div class="col-md-1">
+                                    <div class="medots"></div>
+                                </div>
+                                <div class="col-md-11">
+                                    <a class="button" href="#act-chatbot-1">See what happens next ></a>
+                                    <div class="button-replacement"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interactive-demo1 animate" id="act-chatbot-1">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-chatbot.png" />
+                                    <h5 class="human-name">Integrated chatbot platform</h5>
+                                    <h6 class="human-job-title"></h6>
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>Manages conversation with policyholder and claimants </li>
+                                        <li>Sends offer to claimant to close claim in under one hour</li>
+                                        <li>Leads them through robotics-automated workflow </li>
+                                        <li>Sends triggers to update claim file</li>
+                                        <li>Initiates payment workflow</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                        <img class="chatbot-1-a" src="img/chatbot-1-a.png" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row interstitial">
+                                <div class="col-md-1">
+                                    <div class="medots"></div>
+                                </div>
+                                <div class="col-md-11">
+                                    <a class="button" href="#act-payment-1">See what happens next ></a>
+                                    <div class="button-replacement"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interactive-demo1 animate" id="act-payment-1">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-payment.png" />
+                                    <h5 class="human-name">Secure payment system</h5>
+                                    <h6 class="human-job-title"></h6>
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>Processes payments based on triggers from chatbot- customer conversation and claim system triggers</li>
+                                        <li>Distributes payments</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                        <img class="payment-1-a" src="img/payment-1-a.png" />
+                                        <img class="payment-1-b" src="img/payment-1-b.png" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row interstitial">
+                                <div class="col-md-1">
+                                    <div class="medots"></div>
+                                </div>
+                                <div class="col-md-11">
+                                    <a class="button" href="#act-nohumans-1">See what happens next ></a>
+                                    <div class="button-replacement"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interactive-demo1 animate" id="act-nohumans-1">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-nohumans.png" />
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>No humans touch or intervene in the claims process.</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row interstitial">
+                                <div class="col-md-11 col-md-offset-1">
+                                    <a class="button" href="#next">See what it takes ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="item requirements" id="automated-claims-requirements">
                         <h2>What’s required: connected digital architecture</h2>

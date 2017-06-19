@@ -214,7 +214,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -475,6 +475,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/atdata-1-a.png": {
+		"ft": 32768,
+		"iS": 121276,
+		"oA": 0,
+		"oAP": "\/img\/atdata-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/atdata-1-b.png": {
+		"ft": 32768,
+		"iS": 41410,
+		"oA": 0,
+		"oAP": "\/img\/atdata-1-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/biz_icons_biz_problem.png": {
 		"ft": 32768,
 		"iS": 28508,
@@ -595,6 +617,17 @@
 		"iS": 38530,
 		"oA": 0,
 		"oAP": "\/img\/charles-2-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/chatbot-1-a.png": {
+		"ft": 32768,
+		"iS": 129149,
+		"oA": 0,
+		"oAP": "\/img\/chatbot-1-a.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -856,6 +889,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/headshot-atdata.png": {
+		"ft": 32768,
+		"iS": 1699,
+		"oA": 0,
+		"oAP": "\/img\/headshot-atdata.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/headshot-charles.png": {
 		"ft": 32768,
 		"iS": 1099106,
@@ -864,6 +908,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/headshot-chatbot.png": {
+		"ft": 32768,
+		"iS": 931,
+		"oA": 0,
+		"oAP": "\/img\/headshot-chatbot.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -905,6 +960,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/headshot-nohumans.png": {
+		"ft": 32768,
+		"iS": 2584,
+		"oA": 0,
+		"oAP": "\/img\/headshot-nohumans.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/headshot-payment.png": {
+		"ft": 32768,
+		"iS": 710,
+		"oA": 0,
+		"oAP": "\/img\/headshot-payment.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/headshot-rick.jpg": {
@@ -1208,6 +1285,28 @@
 		"iS": 14530,
 		"oA": 0,
 		"oAP": "\/img\/p2p_icons_robotic_claims.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/payment-1-a.png": {
+		"ft": 32768,
+		"iS": 119877,
+		"oA": 0,
+		"oAP": "\/img\/payment-1-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/payment-1-b.png": {
+		"ft": 32768,
+		"iS": 19616,
+		"oA": 0,
+		"oAP": "\/img\/payment-1-b.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
