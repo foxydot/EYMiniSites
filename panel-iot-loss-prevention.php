@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Insurers lack the ability to proactively monitor commercial buildings and other structures for water leakage, broken pipes and other types of costly damage, which makes risk assessment and policy pricing very difficult.</dd>
+                                        <dd>Too many preventable claims turn into significant losses</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -47,7 +47,8 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to facilities and equipment to identify small threats that can turn into significant losses.</dd>
+                                        <li>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to facilities and equipment.</li>
+                                        <li>Proactive monitoring of commercial buildings and other structures for water leakage and other damage improves risk assessment and policy pricing</li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -67,14 +68,14 @@
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
-                                    <h6 class="human-job-title">Commerical building owner</h6>
+                                    <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Sees an ad about a new “smart sensor” program in exchange for discounted policy</li>
-                                        <li>Vaguely remembers an email he received from ABC Insurance about it (he is a reluctant digital customer)</li>
-                                        <li>Finds email and clicks to learn more</li>
-                                        <li>Contacts ABC to purchase, install and register devices</li>
+                                        <li>Hears from a friend and fellow business owner about new “smart sensor” IoT program featuring policy discounts</li>
+                                        <li>Vaguely remembers an email he received from ABC Insurance about it</li>
+                                        <li>Finds email, clicks link and lands on page on ABC site detailing program</li>
+                                        <li>Completes purchase of sensors through online form</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="charles-1-a" src="img/charles-1-a.png" />
@@ -103,8 +104,7 @@
                                     <ul class="col-md-5 animate-ul">
                                         <li>Confirms Charles’ participation</li>
                                         <li>Completes sale and shipping of device</li>
-                                        <li>Confirms device registration</li>
-                                        <li>Sends Charles notification app for download</li>
+                                        <li>Sends link to download mobile app for device registration and sensor-enabled notifications</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcins-1-a" src="img/abcins-1-a.png" />
@@ -147,7 +147,7 @@
                                 </div>
                                 <div class="col-md-11">
                                     <a class="button" href="#ilp-charles-2">See what happens next ></a>
-                                    <div class="button-replacement">Charles gets notified!</div>
+                                    <div class="button-replacement"></div>
                                 </div>
                             </div>
                         </div>
@@ -156,12 +156,14 @@
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
-                                    <h6 class="human-job-title">Commerical building owner</h6>
+                                    <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Receives alert on app</li>
-                                        <li>Shuts off water in that zone of the building until the issue is rectified</li>
+                                        <li>Shuts off water in that zone of the building</li>
+                                        <li>Takes photo of damage in mobile app to share with ABC</li>
+                                        <li>Takes care of repair work and takes photo in mobile app to share with with ABC</li>
                                         <li>Receives thank-you message from ABC for his help in preventing loss</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
@@ -189,11 +191,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Ability to package sale and support of IoT devices</li>
-                                            <li>IoT platform monitoring</li>
-                                            
-                                            <li>Integration of IoT monitoring platform with mobile application</li>
-                                            <li>Ability to target current customers for email promotion</li>
+                                            <li>Monitored building sensor data</li>
+                                            <li>Environmental and GIS sensor data</li>
+                                            <li>Integrated customer and policy data</li>
+                                            <li>UW dashboard data</li>
+                                            <li>Monitored loss prevention data</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -208,11 +210,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Willingness to offer discounts for changes in customer behavior</li>
-                                            <li>Capacity to sell and support smart sensors</li>
-                                            <li>Ability to launch products based on varying degrees of risk</li>
-                                            <li>Partnership with IoT providers</li>
-                                            <li>Customer engagement plans to create demand and promote new offerings</li>
+                                            <li>IoT connected networks programs</li>
+                                            <li>High-impact, effective workplace safety and loss prevention programs</li>
+                                            <li>Focused, compelling customer experience programs</li>
+                                            <li>Portfolio underwriting engagement</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -227,10 +228,11 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Underwriter workstation</li>
-                                            <li>AquaSeca water monitoring system</li>
-                                            <li>IoT and mobile application monitoring hub</li>
-                                            <li>Integration of IoT platform with underwriter desktop system and core operator system</li>
+                                            <li>Building sensors installed and connected to monitoring system</li>
+                                            <li>Underwriter’s desktop dashboard</li>
+                                            <li>Mobile alerts via account dashboard</li>
+                                            <li>Sensor device registration via mobile app</li>
+                                            <li>IoT purchasing marketplace</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -245,9 +247,9 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Risk-appetite visibility</li>
-                                            <li>Operational agility with tight integration between product development, underwriting and claims</li>
-                                            <li>Company culture that embraces testing and learning</li>
+                                            <li>Underwriting organization target operating model</li>
+                                            <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
+                                            <li>Digital culture embracing connected IoT networks and essential user experiences</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -262,7 +264,9 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Encryption to protect data transmissions between sensors, carrier and insureds</li>
+                                            <li>Authenticated user sessions for secure transaction</li>
+                                            <li>Encryption to protect data transmissions between carrier and customer</li>
+                                            <li>Secured sensor transmissions</li>
                                         </ul>
                                     </div>
                                 </div>
