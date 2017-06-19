@@ -72,7 +72,7 @@
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
                                         <li>Registers for her biggest event of the year</li>
-                                        <li>Submits integrated proof of insurance via ABC P2P Inc., a carrier partnered with Big Event production company </li>
+                                        <li>Submits integrated proof of insurance via ABC P2P, Inc., a carrier partnered with Big Event production company </li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-1-a" src="img/jane-1-a.png" />
@@ -93,12 +93,13 @@
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-abcp2p.jpg" />
-                                    <h5 class="human-name">ABC P2P</h5>
+                                    <h5 class="human-name">ABC P2P, Inc.</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>ABC P2P presents event disruption coverage to Jane </li>
+                                        <li>Directs Jane to food truck insurance marketplace</li>
+                                        <li>Recommends event disruption coverage</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcp2p-1-a" src="img/abcp2p-1-a.png" />
@@ -124,9 +125,11 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Reviews coverage economics and, liking what she sees, enrolls in event disruption coverage</li>
+                                        <li>Reviews coverage options and sees event disruption coverage is recommended for her</li>
+                                        <li>Reviews event disruption coverage details</li>
                                         <li>Completes all enrollment requirements including integrating her business systems with the P2P market “smart policy”</li>
-                                        <li>After complete rainout of event, automatically receives payout</li>
+                                        <li>Confirms rainout of event via smart policy and assisted by third-party data</li>
+                                        <li>Automatically calculates and sends Jane’s maximum payout without requiring her to file a claim</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-2-a" src="img/jane-2-a.png" />
@@ -147,7 +150,7 @@
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
                                     <img class="img-circle human-headshot" src="img/headshot-abcp2p.jpg" />
-                                    <h5 class="human-name">ABC P2P</h5>
+                                    <h5 class="human-name">ABC P2P, Inc.</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
@@ -262,7 +265,7 @@
                         <div class="animate">
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now see how our tools support Blockchain P2P ></a>
+                                    <a class="button" href="#next">Now see what it takes ></a>
                                 </div>
                             </div>
                         </div>
@@ -279,7 +282,8 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            
+                                            <li>Automatic compensation by a blockchain smart policy</li>
+                                            <li>Automated underwriting/business rules engine</li>
                                             <li>Integration with external data sources to supplement coverage compensation calculation (geolocation, satellite weather, historical event revenue data, etc.)</li>
                                             <li>Integration of actuarial pricing data</li>
                                         </ul>
@@ -314,12 +318,10 @@
                                     </div>
                                     <div class="col-md-8 c">
                                         <ul>
-                                            <li>Automatic compensation by a blockchain smart policy</li>
-                                            <li>Automated underwriting and business rules engine</li>
                                             <li>Mobile app for customers</li>
                                             <li>Online portal for customers</li>
-                                            <li>Enrollment within discreet coverages</li>
-                                            <li>Integration connecting smart policy with members' business systems</li>
+                                            <li>Enrollment within discrete coverages</li>
+                                            <li>Integration connecting smart policy with members’ business systems</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -336,7 +338,7 @@
                                         <ul>
                                             <li>Niche peer-to-peer insurance community</li>
                                             <li>Portfolio underwriting teams and programs</li>
-                                            
+                                            <li>Risk appetite visibility</li>
                                             <li>Operational agility with tight integration between actuarial, underwriting, distribution and claims</li>
                                             <li>Integration into company culture</li>
                                         </ul>

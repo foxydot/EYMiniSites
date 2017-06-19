@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,19 +69,41 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
+            <state relative-caret-position="353">
+              <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-blockchain-p2p.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="321" column="80" lean-forward="true" selection-start-line="321" selection-start-column="80" selection-end-line="321" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="192" column="59" lean-forward="false" selection-start-line="192" selection-start-column="59" selection-end-line="192" selection-end-column="59" />
+            <state relative-caret-position="243">
+              <caret line="194" column="107" lean-forward="true" selection-start-line="194" selection-start-column="107" selection-end-line="194" selection-end-column="107" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="236" column="42" lean-forward="true" selection-start-line="236" selection-start-column="42" selection-end-line="236" selection-end-column="42" />
+              <folding>
+                <marker date="1497831383000" expanded="true" signature="14351:14400" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +112,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slideIn</find>
       <find>animate</find>
       <find>button</find>
       <find>screen</find>
@@ -118,6 +140,7 @@
       <find>Platform</find>
       <find>Prio</find>
       <find>dl</find>
+      <find>robot</find>
       <find>process</find>
     </findStrings>
     <replaceStrings>
@@ -150,15 +173,15 @@
         <option value="$PROJECT_DIR$/testjs.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
-        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
       </list>
     </option>
   </component>
@@ -365,21 +388,7 @@
       <workItem from="1496778863688" duration="39024000" />
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
-      <workItem from="1497828812324" duration="1768000" />
-    </task>
-    <task id="LOCAL-00002" summary="added background to main screen">
-      <created>1493843938857</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1493843938857</updated>
-    </task>
-    <task id="LOCAL-00003" summary="finish up demo">
-      <created>1493858029496</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1493858029496</updated>
+      <workItem from="1497828812324" duration="3004000" />
     </task>
     <task id="LOCAL-00004" summary="attempt to get tools cascade rolling">
       <created>1493863224887</created>
@@ -710,11 +719,25 @@
       <option name="project" value="LOCAL" />
       <updated>1497830300177</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update Automated Claims with Telematics">
+      <created>1497830720108</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1497830720108</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update loss prevention (still needs new phases)">
+      <created>1497831460502</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1497831460502</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137762000" />
+    <option name="totallyTimeSpent" value="138998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -748,8 +771,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Add images to ICS&#10;Move files around for easier editing." />
-    <MESSAGE value="add two new panels" />
     <MESSAGE value="copy for iot loss prevention" />
     <MESSAGE value="copy for automated claims" />
     <MESSAGE value="add p2p icons" />
@@ -773,7 +794,9 @@
     <MESSAGE value="change tool list items on cross selling" />
     <MESSAGE value="change tool list items on aquisition" />
     <MESSAGE value="fix typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix typo" />
+    <MESSAGE value="update Automated Claims with Telematics" />
+    <MESSAGE value="update loss prevention (still needs new phases)" />
+    <option name="LAST_COMMIT_MESSAGE" value="update loss prevention (still needs new phases)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -833,7 +856,7 @@
         <state relative-caret-position="4125">
           <caret line="275" column="32" lean-forward="false" selection-start-line="275" selection-start-column="32" selection-end-line="275" selection-end-column="32" />
           <folding>
-            <marker date="1497476347000" expanded="true" signature="14295:14370" ph="..." />
+            <marker date="1497831383000" expanded="true" signature="14351:14400" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1065,24 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="251" column="93" lean-forward="true" selection-start-line="251" selection-start-column="93" selection-end-line="251" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <marker date="1497476347000" expanded="true" signature="14295:14370" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main-min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1130,18 +1135,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
+        <state relative-caret-position="243">
+          <caret line="194" column="107" lean-forward="true" selection-start-line="194" selection-start-column="107" selection-end-line="194" selection-end-column="107" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="192" column="59" lean-forward="false" selection-start-line="192" selection-start-column="59" selection-end-line="192" selection-end-column="59" />
+        <state relative-caret-position="360">
+          <caret line="236" column="42" lean-forward="true" selection-start-line="236" selection-start-column="42" selection-end-line="236" selection-end-column="42" />
+          <folding>
+            <marker date="1497831383000" expanded="true" signature="14351:14400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="321" column="80" lean-forward="true" selection-start-line="321" selection-start-column="80" selection-end-line="321" selection-end-column="80" />
           <folding />
         </state>
       </provider>

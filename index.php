@@ -71,7 +71,7 @@
                          <a class="subscreen-option blockchain-p2p" href="#blockchain-p2p">
                              <img src="/img/P2P_icon_yellow.png" class="icon menu" />
                              <h3>Blockchain peer-to-peer: </h3>
-                             <p>A new, secure way for insurers to engage non-traditional customers and efficiently convert existing polices to P2P market
+                             <p>A new, secure way for insurers to engage non-traditional customers and offer event-specific policies
                                  <br /><strong>More ></strong></p>
                          </a>
                      </div>
