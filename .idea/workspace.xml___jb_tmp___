@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="317" column="117" lean-forward="false" selection-start-line="317" selection-start-column="117" selection-end-line="317" selection-end-column="117" />
+            <state relative-caret-position="261">
+              <caret line="309" column="57" lean-forward="true" selection-start-line="309" selection-start-column="57" selection-end-line="309" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -60,8 +58,28 @@
       <file leaf-file-name="panel-risk-based-customer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            <state relative-caret-position="1827">
+              <caret line="265" column="124" lean-forward="false" selection-start-line="265" selection-start-column="124" selection-end-line="265" selection-end-column="124" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="192" column="59" lean-forward="false" selection-start-line="192" selection-start-column="59" selection-end-line="192" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -71,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slide</find>
       <find>slideIn</find>
       <find>animate</find>
       <find>button</find>
@@ -101,6 +118,7 @@
       <find>Platform</find>
       <find>Prio</find>
       <find>dl</find>
+      <find>process</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -132,15 +150,15 @@
         <option value="$PROJECT_DIR$/testjs.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
       </list>
     </option>
   </component>
@@ -347,14 +365,7 @@
       <workItem from="1496778863688" duration="39024000" />
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
-      <workItem from="1497828812324" duration="875000" />
-    </task>
-    <task id="LOCAL-00001" summary="added some second page flows">
-      <created>1493843117800</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1493843117800</updated>
+      <workItem from="1497828812324" duration="1768000" />
     </task>
     <task id="LOCAL-00002" summary="added background to main screen">
       <created>1493843938857</created>
@@ -678,11 +689,32 @@
       <option name="project" value="LOCAL" />
       <updated>1497477327478</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="change tool list items on cross selling">
+      <created>1497829738115</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1497829738115</updated>
+    </task>
+    <task id="LOCAL-00049" summary="change tool list items on aquisition">
+      <created>1497830082502</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1497830082502</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix typo">
+      <created>1497830300176</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1497830300177</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136869000" />
+    <option name="totallyTimeSpent" value="137762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -716,9 +748,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add ics demo" />
-    <MESSAGE value="add ics tools" />
-    <MESSAGE value="start on Blockchain P2P" />
     <MESSAGE value="Add images to ICS&#10;Move files around for easier editing." />
     <MESSAGE value="add two new panels" />
     <MESSAGE value="copy for iot loss prevention" />
@@ -741,7 +770,10 @@
     <MESSAGE value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
     <MESSAGE value="Iot and Wearables for worker safety titles" />
     <MESSAGE value="remove hash removal from links" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove hash removal from links" />
+    <MESSAGE value="change tool list items on cross selling" />
+    <MESSAGE value="change tool list items on aquisition" />
+    <MESSAGE value="fix typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix typo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1025,14 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -1045,14 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="251" column="93" lean-forward="true" selection-start-line="251" selection-start-column="93" selection-end-line="251" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -1090,14 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -1108,8 +1116,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="317" column="117" lean-forward="false" selection-start-line="317" selection-start-column="117" selection-end-line="317" selection-end-column="117" />
+        <state relative-caret-position="261">
+          <caret line="309" column="57" lean-forward="true" selection-start-line="309" selection-start-column="57" selection-end-line="309" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="265" column="124" lean-forward="false" selection-start-line="265" selection-start-column="124" selection-end-line="265" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="88" column="68" lean-forward="true" selection-start-line="88" selection-start-column="68" selection-end-line="88" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="192" column="59" lean-forward="false" selection-start-line="192" selection-start-column="59" selection-end-line="192" selection-end-column="59" />
           <folding />
         </state>
       </provider>

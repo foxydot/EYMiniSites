@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Claims processing workflows are currently engineered primarily for adjustor efficiency, not for maximizing customer experience</dd>
+                                        <dd>Claims processing workflows are currently engineered primarily for adjustor efficiency, not for maximizing customer experience.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -47,7 +47,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business opportunity:</dt>
-                                        <dd>When integrated with core processing  systems, advanced telematics data enables insurers to communicate with customer claimants directly via chatbot, with each communication triggering the next step in the claims workflow. Similarly, robotic process automation can extend from first notification of loss (FNOL) through to payment and claim settlement.</dd>
+                                        <li>When integrated with core processing  systems, advanced telematics data enables insurers to communicate with customer claimants directly via chatbot, with each communication triggering the next step in the claims workflow.</li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -77,7 +77,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                    <p>Telematics video imagery and accompany data is downloaded from Claims cloud and triggers automated FNOL
+                                    <p>Telematics video imagery and accompanying data is downloaded from claims cloud and triggers automated FNOL
                                     </p>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                             </div>
                             <div class="requirement text col-md-7">
                                 <div class="block">
-                                    <p>Integrated Chabot platform manages conversation with policyholder and claimants to step through robotics automated workflow</p>
+                                    <p>Integrated chatbot platform manages conversation with policyholder and claimants to step through intelligent automated workflow</p>
                                 </div>
                             </div>
                             <div class="requirement icon col-md-5">
@@ -127,7 +127,7 @@
                             </div>
                             <div class="requirement col-md-5">
                                 <div class="block">
-                                    Core Insure processing platform manages related coverage verification, policy account data, and integrated policy, claims transactions
+                                    Core processing platform manages related coverage verification, policy account data, integrated policy and claims transactions
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                                             <li>Video telematics device capturing  internal/external imagery</li>
                                             <li>Chatbot platform integrated with core claims processing system</li>
                                             <li>Claims processing system connected to cloud telematics data</li>
-                                            <li>Robotics process automation enabled claims workflow</li>
+                                            <li>Intelligent process automation enabled claims workflow</li>
                                             <li>Chatbot enabled customer mobile application</li>
                                             <li>Robotics enabled auto physical damage appraisal engine</li>
                                         </ul>
