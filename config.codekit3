@@ -317,6 +317,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/print.css": {
 		"aP": 1,
 		"bl": 0,
@@ -401,7 +411,7 @@
 		},
 	"\/img\/abcp2p-1-a.png": {
 		"ft": 32768,
-		"iS": 199055,
+		"iS": 468969,
 		"oA": 0,
 		"oAP": "\/img\/abcp2p-1-a.png",
 		"oF": 0,
@@ -986,7 +996,7 @@
 		},
 	"\/img\/jane-2-a.png": {
 		"ft": 32768,
-		"iS": 468969,
+		"iS": 199055,
 		"oA": 0,
 		"oAP": "\/img\/jane-2-a.png",
 		"oF": 0,
