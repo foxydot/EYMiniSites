@@ -117,6 +117,62 @@
                                     <div class="medots"></div>
                                 </div>
                                 <div class="col-md-11">
+                                    <a class="button" href="#ilp-charles-3">See what happens next ></a>
+                                    <div class="button-replacement"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interactive-demo1 animate" id="ilp-charles-3">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
+                                    <h5 class="human-name">Charles</h5>
+                                    <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>Receives and installs devices</li>
+                                        <li>Downloads mobile app and completes device registration</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                        <img class="charles-3-a" src="img/charles-3-a.png" />
+                                        <img class="charles-3-b" src="img/charles-3-b.png" />
+                                    </div>
+                                </div>
+                            </div><div class="row interstitial">
+                                <div class="col-md-1">
+                                    <div class="medots"></div>
+                                </div>
+                                <div class="col-md-11">
+                                    <a class="button" href="#ilp-abcins-3">See what happens next ></a>
+                                    <div class="button-replacement"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interactive-demo1 animate" id="ilp-abcins-3">
+                            <div class="row block even">
+                                <div class="col-md-2 bkg-yellow a">
+                                    <img class="img-circle human-headshot" src="img/headshot-abcins.jpg" />
+                                    <h5 class="human-name">ABC Insurance Inc.</h5>
+                                    <h6 class="human-job-title"></h6>
+                                </div>
+                                <div class="col-md-10 bkg-white20 c">
+                                    <ul class="col-md-5 animate-ul">
+                                        <li>Confirms device registration</li>
+                                        <li>Updates policy information through underwriter of Charles’ policy</li>
+                                        <li>Sends email thank-you to Charles for enrolling</li>
+                                    </ul>
+                                    <div class="col-md-7 animate-icons">
+                                        <img class="abcins-3-a" src="img/abcins-3-a.png" />
+                                        <img class="abcins-3-b" src="img/abcins-3-b.png" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row interstitial">
+                                <div class="col-md-1">
+                                    <div class="medots"></div>
+                                </div>
+                                <div class="col-md-11">
                                     <a class="button" href="#ilp-sensors-1">See what happens next ></a>
                                     <div class="button-replacement"></div>
                                 </div>
