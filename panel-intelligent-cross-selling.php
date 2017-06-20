@@ -183,7 +183,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Review’s Abe suggestion and is impressed by the savings opportunity</li>
+                                        <li>Reviews Abe suggestion and is impressed by the savings opportunity</li>
                                         <li>Recommended renters policy is only $10 more per month</li>
                                         <li>Likes the extra protection at low cost</li>
                                         <li>Adds renters policy to family bundle</li>

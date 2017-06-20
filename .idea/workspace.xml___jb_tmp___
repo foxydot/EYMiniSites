@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,14 +27,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="637" column="50" lean-forward="true" selection-start-line="637" selection-start-column="50" selection-end-line="637" selection-end-column="50" />
+            <state relative-caret-position="183">
+              <caret line="639" column="45" lean-forward="true" selection-start-line="639" selection-start-column="45" selection-end-line="639" selection-end-column="45" />
               <folding>
-                <element signature="e#14234#18402#0" expanded="false" />
-                <element signature="e#18427#22445#0" expanded="false" />
+                <element signature="e#14332#18500#0" expanded="false" />
+                <element signature="e#18525#22543#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -70,11 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="233" column="93" lean-forward="true" selection-start-line="233" selection-start-column="93" selection-end-line="233" selection-end-column="93" />
+            <state relative-caret-position="288">
+              <caret line="244" column="71" lean-forward="true" selection-start-line="244" selection-start-column="71" selection-end-line="244" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="290" column="60" lean-forward="true" selection-start-line="290" selection-start-column="60" selection-end-line="290" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -84,7 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tagline</find>
       <find>id=</find>
       <find>w</find>
       <find>ics-</find>
@@ -114,6 +125,7 @@
       <find>head</find>
       <find>with with</find>
       <find>appet</find>
+      <find>mobile</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -148,13 +160,13 @@
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
+        <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
       </list>
     </option>
   </component>
@@ -363,14 +375,7 @@
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
       <workItem from="1497828812324" duration="7253000" />
-      <workItem from="1497970217235" duration="1016000" />
-    </task>
-    <task id="LOCAL-00011" summary="trying to get scrollto working">
-      <created>1494035170969</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1494035170969</updated>
+      <workItem from="1497970217235" duration="1376000" />
     </task>
     <task id="LOCAL-00012" summary="trying to get scrollto working: used hashmap to force offsets">
       <created>1494267146453</created>
@@ -708,11 +713,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497971203916</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Automated Claims edits">
+      <created>1497971415994</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1497971415994</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144263000" />
+    <option name="totallyTimeSpent" value="144623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1481" y="163" width="1440" height="873" extended-state="0" />
@@ -746,7 +758,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Update images in cross selling" />
     <MESSAGE value="Update wearable icon on menu page" />
     <MESSAGE value="update icon on autoclaims" />
     <MESSAGE value="some IE fixes" />
@@ -771,7 +782,8 @@
     <MESSAGE value="remove periods on index page" />
     <MESSAGE value="IoT Loss Prevention edits" />
     <MESSAGE value="Blockchain edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blockchain edits" />
+    <MESSAGE value="Automated Claims edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automated Claims edits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -791,8 +803,8 @@
         <state relative-caret-position="9525">
           <caret line="635" column="26" lean-forward="false" selection-start-line="635" selection-start-column="26" selection-end-line="635" selection-end-column="26" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -882,8 +894,8 @@
         <state relative-caret-position="16530">
           <caret line="1102" column="3" lean-forward="true" selection-start-line="1102" selection-start-column="3" selection-end-line="1102" selection-end-column="3" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -933,8 +945,8 @@
         <state relative-caret-position="1830">
           <caret line="122" column="5" lean-forward="true" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -960,8 +972,8 @@
         <state relative-caret-position="360">
           <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -987,8 +999,8 @@
         <state relative-caret-position="3885">
           <caret line="259" column="3" lean-forward="true" selection-start-line="259" selection-start-column="3" selection-end-line="259" selection-end-column="3" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1014,8 +1026,8 @@
         <state relative-caret-position="4725">
           <caret line="315" column="22" lean-forward="true" selection-start-line="315" selection-start-column="22" selection-end-line="315" selection-end-column="22" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1041,8 +1053,8 @@
         <state relative-caret-position="6885">
           <caret line="459" column="13" lean-forward="true" selection-start-line="459" selection-start-column="13" selection-end-line="459" selection-end-column="13" />
           <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1121,30 +1133,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="309" column="57" lean-forward="true" selection-start-line="309" selection-start-column="57" selection-end-line="309" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="56" lean-forward="false" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="637" column="50" lean-forward="true" selection-start-line="637" selection-start-column="50" selection-end-line="637" selection-end-column="50" />
-          <folding>
-            <element signature="e#14234#18402#0" expanded="false" />
-            <element signature="e#18427#22445#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1176,9 +1169,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="233" column="93" lean-forward="true" selection-start-line="233" selection-start-column="93" selection-end-line="233" selection-end-column="93" />
+        <state relative-caret-position="288">
+          <caret line="244" column="71" lean-forward="true" selection-start-line="244" selection-start-column="71" selection-end-line="244" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="290" column="60" lean-forward="true" selection-start-line="290" selection-start-column="60" selection-end-line="290" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="639" column="45" lean-forward="true" selection-start-line="639" selection-start-column="45" selection-end-line="639" selection-end-column="45" />
+          <folding>
+            <element signature="e#14332#18500#0" expanded="false" />
+            <element signature="e#18525#22543#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
