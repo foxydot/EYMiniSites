@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,11 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-blockchain-p2p.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-blockchain-p2p.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="304" column="45" lean-forward="true" selection-start-line="304" selection-start-column="45" selection-end-line="304" selection-end-column="45" />
+            <state relative-caret-position="299">
+              <caret line="311" column="69" lean-forward="true" selection-start-line="311" selection-start-column="69" selection-end-line="311" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="233" column="93" lean-forward="true" selection-start-line="233" selection-start-column="93" selection-end-line="233" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -74,7 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>static</find>
       <find>tagline</find>
       <find>id=</find>
       <find>w</find>
@@ -104,6 +113,7 @@
       <find>Inc. Inc.</find>
       <find>head</find>
       <find>with with</find>
+      <find>appet</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -140,11 +150,11 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
+        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
       </list>
     </option>
   </component>
@@ -353,14 +363,7 @@
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
       <workItem from="1497828812324" duration="7253000" />
-      <workItem from="1497970217235" duration="806000" />
-    </task>
-    <task id="LOCAL-00010" summary="add images anne-1 and rick-2">
-      <created>1494013551025</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1494013551025</updated>
+      <workItem from="1497970217235" duration="1016000" />
     </task>
     <task id="LOCAL-00011" summary="trying to get scrollto working">
       <created>1494035170969</created>
@@ -698,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497971087192</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Blockchain edits">
+      <created>1497971203916</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1497971203916</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144053000" />
+    <option name="totallyTimeSpent" value="144263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1481" y="163" width="1440" height="873" extended-state="0" />
@@ -736,7 +746,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Automated claims" />
     <MESSAGE value="Update images in cross selling" />
     <MESSAGE value="Update wearable icon on menu page" />
     <MESSAGE value="update icon on autoclaims" />
@@ -761,7 +770,8 @@
     <MESSAGE value="add new page to automated claims" />
     <MESSAGE value="remove periods on index page" />
     <MESSAGE value="IoT Loss Prevention edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="IoT Loss Prevention edits" />
+    <MESSAGE value="Blockchain edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blockchain edits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1119,14 +1129,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="127" column="56" lean-forward="true" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -1166,8 +1168,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="304" column="45" lean-forward="true" selection-start-line="304" selection-start-column="45" selection-end-line="304" selection-end-column="45" />
+        <state relative-caret-position="299">
+          <caret line="311" column="69" lean-forward="true" selection-start-line="311" selection-start-column="69" selection-end-line="311" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="233" column="93" lean-forward="true" selection-start-line="233" selection-start-column="93" selection-end-line="233" selection-end-column="93" />
           <folding />
         </state>
       </provider>

@@ -73,7 +73,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Advanced telematics data – including video imagery:</li>
+                                        Advanced telematics data – including video imagery:
                                         <li>Is instantaneously captured during an automobile accident</li>
                                         <li>Is downloaded from the cloud</li>
                                         <li>Automatically triggers an FNOL entry</li>
@@ -133,7 +133,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>Processes payments based on triggers from chatbot- customer conversation and claim system triggers</li>
+                                        <li>Processes payments based on triggers from chatbot-customer conversation and claim system triggers</li>
                                         <li>Distributes payments</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
@@ -159,7 +159,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>No humans touch or intervene in the claims process.</li>
+                                        <li>No humans touch or intervene in the claims process</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                     </div>
@@ -243,7 +243,7 @@
                         <div class="animate">
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now see how our tools support Automated Claims with Telematics ></a>
+                                    <a class="button" href="#next">Now see how our tools support automated claims with telematics ></a>
                                 </div>
                             </div>
                         </div>
