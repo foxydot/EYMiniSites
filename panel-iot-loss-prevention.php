@@ -29,7 +29,7 @@
                                 <div class="col-md-10 a">
                                     <dl>
                                         <dt>Business problem:</dt>
-                                        <dd>Too many preventable claims turn into significant losses</dd>
+                                        <dd>Too many preventable claims turn into significant losses.</dd>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -48,7 +48,7 @@
                                     <dl>
                                         <dt>Business opportunity:</dt>
                                         <li>Intelligent sensors connected to the Internet of Things (IoT) allow insurers and policyholders to “listen” to facilities and equipment.</li>
-                                        <li>Proactive monitoring of commercial buildings and other structures for water leakage and other damage improves risk assessment and policy pricing</li>
+                                        <li>Proactive monitoring of commercial buildings and other structures for water leakage and other damage improves risk assessment and policy pricing.</li>
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
@@ -219,7 +219,7 @@
                                         <li>Receives alert on app</li>
                                         <li>Shuts off water in that zone of the building</li>
                                         <li>Takes photo of damage in mobile app to share with ABC</li>
-                                        <li>Takes care of repair work and takes photo in mobile app to share with with ABC</li>
+                                        <li>Takes care of repair work and takes photo in mobile app to share with ABC</li>
                                         <li>Receives thank-you message from ABC for his help in preventing loss</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">

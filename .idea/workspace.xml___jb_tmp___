@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,12 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="393">
               <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="227" column="42" lean-forward="true" selection-start-line="227" selection-start-column="42" selection-end-line="227" selection-end-column="42" />
+              <folding>
+                <marker date="1497970572000" expanded="true" signature="18077:18126" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,10 +131,10 @@
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
       </list>
     </option>
   </component>
@@ -333,14 +343,7 @@
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
       <workItem from="1497828812324" duration="7253000" />
-      <workItem from="1497970217235" duration="224000" />
-    </task>
-    <task id="LOCAL-00008" summary="add demo images mary-1">
-      <created>1494004309140</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1494004309140</updated>
+      <workItem from="1497970217235" duration="687000" />
     </task>
     <task id="LOCAL-00009" summary="add demo images rick-1">
       <created>1494007184313</created>
@@ -678,11 +681,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497884759664</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="remove periods on index page">
+      <created>1497970500635</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1497970500635</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143471000" />
+    <option name="totallyTimeSpent" value="143934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1481" y="163" width="1440" height="873" extended-state="0" />
@@ -716,7 +726,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="time iot images" />
     <MESSAGE value="final P2P page" />
     <MESSAGE value="Automated claims" />
     <MESSAGE value="Update images in cross selling" />
@@ -741,7 +750,8 @@
     <MESSAGE value="add new loss prevention demo steps" />
     <MESSAGE value="swap images" />
     <MESSAGE value="add new page to automated claims" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new page to automated claims" />
+    <MESSAGE value="remove periods on index page" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove periods on index page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -820,7 +830,7 @@
         <state relative-caret-position="4125">
           <caret line="275" column="32" lean-forward="false" selection-start-line="275" selection-start-column="32" selection-end-line="275" selection-end-column="32" />
           <folding>
-            <marker date="1497832328000" expanded="true" signature="18080:18129" ph="..." />
+            <marker date="1497970572000" expanded="true" signature="18077:18126" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1107,16 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="151" column="81" lean-forward="true" selection-start-line="151" selection-start-column="81" selection-end-line="151" selection-end-column="81" />
-          <folding>
-            <marker date="1497832328000" expanded="true" signature="18080:18129" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1024">
@@ -1149,6 +1149,16 @@
         <state relative-caret-position="393">
           <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="227" column="42" lean-forward="true" selection-start-line="227" selection-start-column="42" selection-end-line="227" selection-end-column="42" />
+          <folding>
+            <marker date="1497970572000" expanded="true" signature="18077:18126" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
