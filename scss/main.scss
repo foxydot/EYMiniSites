@@ -631,8 +631,9 @@ section.panel{
               }
               img.rick-2-a{
                 opacity: 0;
-                top: 1.5em;
+                top: 3em;
                 left: 4em;
+                width: 180px;
                 animation-delay: 0s;
                 -webkit-animation-name: slideInUp;
                 -moz-animation-name: slideInUp;
@@ -641,8 +642,8 @@ section.panel{
               }
               img.rick-2-b{
                 opacity: 0;
-                top: 6em;
-                left: 20em;
+                top: 0;
+                right: 1em;
                 width: 400px;
                 animation-delay: 3s;
                 -webkit-animation-name: slideInUp;

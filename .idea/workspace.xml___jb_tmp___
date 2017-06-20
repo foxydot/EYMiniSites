@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="swap images">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/atdata-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/atdata-1-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chatbot-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-atdata.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-chatbot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-nohumans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/headshot-payment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/payment-1-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/payment-1-b.png" />
+    <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,50 +16,41 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1024">
-                  <caret line="127" column="56" lean-forward="true" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="panel-risk-based-customer.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="460">
-                  <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="178" selection-end-column="26" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/scss/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#10196#14177#0" expanded="false" />
-                    <element signature="e#14208#18376#0" expanded="false" />
-                    <element signature="e#18401#22419#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="panel-risk-based-customer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="56" lean-forward="false" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="637" column="50" lean-forward="true" selection-start-line="637" selection-start-column="50" selection-end-line="637" selection-end-column="50" />
+              <folding>
+                <element signature="e#14234#18402#0" expanded="false" />
+                <element signature="e#18427#22445#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -139,11 +120,11 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -158,8 +139,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1630" />
-    <option name="y" value="137" />
+    <option name="x" value="-1481" />
+    <option name="y" value="163" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -180,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,6 +217,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,14 +332,8 @@
       <workItem from="1496778863688" duration="39024000" />
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
-      <workItem from="1497828812324" duration="6727000" />
-    </task>
-    <task id="LOCAL-00007" summary="added some icon files, a little more beauty work">
-      <created>1493952314271</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1493952314271</updated>
+      <workItem from="1497828812324" duration="7253000" />
+      <workItem from="1497970217235" duration="224000" />
     </task>
     <task id="LOCAL-00008" summary="add demo images mary-1">
       <created>1494004309140</created>
@@ -696,21 +671,28 @@
       <option name="project" value="LOCAL" />
       <updated>1497832718780</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="add new page to automated claims">
+      <created>1497884759663</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1497884759664</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142721000" />
+    <option name="totallyTimeSpent" value="143471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1630" y="137" width="1440" height="873" extended-state="0" />
+    <frame x="-1481" y="163" width="1440" height="873" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.5243056" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.52708334" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.47569445" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.47291666" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -734,7 +716,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add iot images&#10;attempt to get animation for new p2p page working right" />
     <MESSAGE value="time iot images" />
     <MESSAGE value="final P2P page" />
     <MESSAGE value="Automated claims" />
@@ -759,13 +740,33 @@
     <MESSAGE value="blockchain updates" />
     <MESSAGE value="add new loss prevention demo steps" />
     <MESSAGE value="swap images" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap images" />
+    <MESSAGE value="add new page to automated claims" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new page to automated claims" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9525">
+          <caret line="635" column="26" lean-forward="false" selection-start-line="635" selection-start-column="26" selection-end-line="635" selection-end-column="26" />
+          <folding>
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -836,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,9 +852,8 @@
         <state relative-caret-position="16530">
           <caret line="1102" column="3" lean-forward="true" selection-start-line="1102" selection-start-column="3" selection-end-line="1102" selection-end-column="3" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -904,9 +903,8 @@
         <state relative-caret-position="1830">
           <caret line="122" column="5" lean-forward="true" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -932,9 +930,8 @@
         <state relative-caret-position="360">
           <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -960,9 +957,8 @@
         <state relative-caret-position="3885">
           <caret line="259" column="3" lean-forward="true" selection-start-line="259" selection-start-column="3" selection-end-line="259" selection-end-column="3" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -988,9 +984,8 @@
         <state relative-caret-position="4725">
           <caret line="315" column="22" lean-forward="true" selection-start-line="315" selection-start-column="22" selection-end-line="315" selection-end-column="22" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1016,9 +1011,8 @@
         <state relative-caret-position="6885">
           <caret line="459" column="13" lean-forward="true" selection-start-line="459" selection-start-column="13" selection-end-line="459" selection-end-column="13" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1086,7 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2554">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,14 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
           <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1132,14 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="178" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1024">
@@ -1148,15 +1125,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="56" lean-forward="false" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="-75">
+          <caret line="637" column="50" lean-forward="true" selection-start-line="637" selection-start-column="50" selection-end-line="637" selection-end-column="50" />
           <folding>
-            <element signature="e#10196#14177#0" expanded="false" />
-            <element signature="e#14208#18376#0" expanded="false" />
-            <element signature="e#18401#22419#0" expanded="false" />
+            <element signature="e#14234#18402#0" expanded="false" />
+            <element signature="e#18427#22445#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>

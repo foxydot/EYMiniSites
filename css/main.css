@@ -495,8 +495,9 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     position: absolute; }
   section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-a {
     opacity: 0;
-    top: 1.5em;
+    top: 3em;
     left: 4em;
+    width: 180px;
     animation-delay: 0s;
     -webkit-animation-name: slideInUp;
     -moz-animation-name: slideInUp;
@@ -504,8 +505,8 @@ section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icon
     animation-name: slideInUp; }
   section.panel.risk-based-customer .item.demo #rbc-rick-2 .block .c .animate-icons img.rick-2-b {
     opacity: 0;
-    top: 6em;
-    left: 20em;
+    top: 0;
+    right: 1em;
     width: 400px;
     animation-delay: 3s;
     -webkit-animation-name: slideInUp;
