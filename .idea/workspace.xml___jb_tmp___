@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -60,11 +60,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="panel-blockchain-p2p.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="304" column="45" lean-forward="true" selection-start-line="304" selection-start-column="45" selection-end-line="304" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>screen</find>
       <find>static</find>
       <find>tagline</find>
       <find>id=</find>
@@ -94,6 +103,7 @@
       <find>process</find>
       <find>Inc. Inc.</find>
       <find>head</find>
+      <find>with with</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -130,11 +140,11 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
-        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
       </list>
     </option>
   </component>
@@ -343,14 +353,7 @@
       <workItem from="1497290241809" duration="5294000" />
       <workItem from="1497474101886" duration="3161000" />
       <workItem from="1497828812324" duration="7253000" />
-      <workItem from="1497970217235" duration="687000" />
-    </task>
-    <task id="LOCAL-00009" summary="add demo images rick-1">
-      <created>1494007184313</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1494007184313</updated>
+      <workItem from="1497970217235" duration="806000" />
     </task>
     <task id="LOCAL-00010" summary="add images anne-1 and rick-2">
       <created>1494013551025</created>
@@ -688,11 +691,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497970500635</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="IoT Loss Prevention edits">
+      <created>1497971087192</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1497971087192</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143934000" />
+    <option name="totallyTimeSpent" value="144053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1481" y="163" width="1440" height="873" extended-state="0" />
@@ -726,7 +736,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="final P2P page" />
     <MESSAGE value="Automated claims" />
     <MESSAGE value="Update images in cross selling" />
     <MESSAGE value="Update wearable icon on menu page" />
@@ -751,7 +760,8 @@
     <MESSAGE value="swap images" />
     <MESSAGE value="add new page to automated claims" />
     <MESSAGE value="remove periods on index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove periods on index page" />
+    <MESSAGE value="IoT Loss Prevention edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="IoT Loss Prevention edits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1101,14 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4237">
-          <caret line="325" column="42" lean-forward="true" selection-start-line="325" selection-start-column="42" selection-end-line="325" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -1159,6 +1161,14 @@
           <folding>
             <marker date="1497970572000" expanded="true" signature="18077:18126" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="304" column="45" lean-forward="true" selection-start-line="304" selection-start-column="45" selection-end-line="304" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>

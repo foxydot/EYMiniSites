@@ -129,7 +129,6 @@
                                         <li>Reviews event disruption coverage details</li>
                                         <li>Completes all enrollment requirements including integrating her business systems with the P2P market “smart policy”</li>
                                         <li>Confirms rainout of event via smart policy and assisted by third-party data</li>
-                                        <li>Automatically calculates and sends Jane’s maximum payout without requiring her to file a claim</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="jane-2-a" src="img/jane-2-a.png" />
@@ -155,7 +154,7 @@
                                 </div>
                                 <div class="col-md-10 bkg-white20 c">
                                     <ul class="col-md-5 animate-ul">
-                                        <li>After complete rainout of event, the smart policy automatically calculates and sends Jane’s maximum payout without requiring her to file a claim</li>
+                                        <li>Automatically calculates and sends Jane’s maximum payout without requiring her to file a claim</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcp2p-2-a" src="img/abcp2p-2-a.png" />
@@ -303,7 +302,6 @@
                                             <li>Integration with community business partners (production companies, food supplies, telematics, etc.)</li>
                                             <li>Increased customer engagement</li>
                                             <li>Tech-enabled innovations within customer acquisition and policy creation</li>
-                                            <li>Risk-appetite visibility</li>
                                         </ul>
                                     </div>
                                 </div>
