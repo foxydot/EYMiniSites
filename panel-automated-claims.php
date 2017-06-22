@@ -105,7 +105,7 @@
                                     <ul class="col-md-5 animate-ul">
                                         <li>Manages conversation with policyholder and claimants </li>
                                         <li>Sends offer to claimant to close claim in under one hour</li>
-                                        <li>Leads them through robotics-automated workflow </li>
+                                        <li>Leads them through intelligent-automated workflow </li>
                                         <li>Sends triggers to update claim file</li>
                                         <li>Initiates payment workflow</li>
                                     </ul>
@@ -318,7 +318,7 @@
                                         <ul>
                                             <li>Increased customer engagement via improved claims experience</li>
                                             <li>Claims cost control impacting improved ratios</li>
-                                            <li>Straight through processing within core operations</li>
+                                            <li>Straight-through processing within core operations</li>
                                         </ul>
                                     </div>
                                 </div>
