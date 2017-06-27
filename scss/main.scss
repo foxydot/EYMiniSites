@@ -128,7 +128,6 @@ section.intro{
   }
   .title{
     color: #FFE000;
-    font-size: 3em;
   }
   p{
     font-size: 1.2em;
@@ -1238,12 +1237,12 @@ footer{
   background: #2E2F2F;
   color: $yellow;
   position: fixed;
-  display: block;
+  display: none;
   width: 100%;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 1000;
+  z-index: 0;
   .cta{
     border: 1px solid $yellow;
     padding: 1em;

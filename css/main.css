@@ -109,8 +109,7 @@ section.intro {
   section.intro div.screen {
     background: rgba(17, 17, 17, 0.5); }
   section.intro .title {
-    color: #FFE000;
-    font-size: 3em; }
+    color: #FFE000; }
   section.intro p {
     font-size: 1.2em; }
   section.intro .subscreen-option {
@@ -891,12 +890,12 @@ footer {
   background: #2E2F2F;
   color: #ffe600;
   position: fixed;
-  display: block;
+  display: none;
   width: 100%;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 1000; }
+  z-index: 0; }
   footer .cta {
     border: 1px solid #ffe600;
     padding: 1em;

@@ -35,11 +35,11 @@
                  <div class="row">
                      <div class="col-md-2 logo"><img src="./img/logo.png" class="logo" /></div>
                      <div class="col-md-8 title">
-                         <h1>EY Digital Insurance Innovation Center</h1>
+                         <h1></h1>
                      </div>
                  </div>
                  <div class="row">
-                     <h2>Welcome ABC Insurance Company Digital Journey</h2>
+                     <h2 class="title">From the EY Innovation Center: Deployment-ready use cases</h2>
                      <p>EY has developed dozens of deployment-ready, technology-enabled services so insurers can realize the art of the possible – and make digital transformation an operational reality across the industry.</p>
                  </div>
                  <div class="row">
