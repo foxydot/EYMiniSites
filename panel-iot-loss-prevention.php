@@ -12,7 +12,7 @@
                     <div class="menu-bug"><a href="#intro">< Return to menu page</a></div>
                     <div class="tagline-wrapper row">
                         <div class="tagline-icon col-md-2">
-                            <img src="/img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon" />
+                            <img src="./img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon" />
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
@@ -33,7 +33,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">
@@ -52,7 +52,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">
@@ -66,7 +66,7 @@
                         <div class="interactive-demo1 animate" id="ilp-charles-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
                                     <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
                                 </div>
@@ -78,8 +78,8 @@
                                         <li>Completes purchase of sensors through online form</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="charles-1-a" src="img/charles-1-a.png" />
-                                        <img class="charles-1-b" src="img/charles-1-b.png" />
+                                        <img class="charles-1-a" src="./img/charles-1-a.png" />
+                                        <img class="charles-1-b" src="./img/charles-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                         <div class="interactive-demo1 animate" id="ilp-abcins-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-abcins.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-abcins.jpg" />
                                     <h5 class="human-name">ABC Insurance Inc.</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
@@ -107,8 +107,8 @@
                                         <li>Sends link to download mobile app for device registration and sensor-enabled notifications</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="abcins-1-a" src="img/abcins-1-a.png" />
-                                        <img class="abcins-1-b" src="img/abcins-1-b.png" />
+                                        <img class="abcins-1-a" src="./img/abcins-1-a.png" />
+                                        <img class="abcins-1-b" src="./img/abcins-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@
                         <div class="interactive-demo1 animate" id="ilp-charles-3">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
                                     <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
                                 </div>
@@ -135,8 +135,8 @@
                                         <li>Downloads mobile app and completes device registration</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="charles-3-a" src="img/charles-3-a.png" />
-                                        <img class="charles-3-b" src="img/charles-3-b.png" />
+                                        <img class="charles-3-a" src="./img/charles-3-a.png" />
+                                        <img class="charles-3-b" src="./img/charles-3-b.png" />
                                     </div>
                                 </div>
                             </div><div class="row interstitial">
@@ -152,7 +152,7 @@
                         <div class="interactive-demo1 animate" id="ilp-abcins-3">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-abcins.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-abcins.jpg" />
                                     <h5 class="human-name">ABC Insurance Inc.</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
@@ -163,8 +163,8 @@
                                         <li>Sends email thank-you to Charles for enrolling</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="abcins-3-a" src="img/abcins-3-a.png" />
-                                        <img class="abcins-3-b" src="img/abcins-3-b.png" />
+                                        <img class="abcins-3-a" src="./img/abcins-3-a.png" />
+                                        <img class="abcins-3-b" src="./img/abcins-3-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                         <div class="interactive-demo1 animate" id="ilp-sensors-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-sensors.png" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-sensors.png" />
                                     <h5 class="human-name">Sensors</h5>
                                     <h6 class="human-job-title"></h6>
                                 </div>
@@ -192,8 +192,8 @@
                                         <li>Detects leak and notifies Charles via an app alert</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="sensors-1-a" src="img/sensors-1-a.png" />
-                                        <img class="sensors-1-b" src="img/sensors-1-b.png" />
+                                        <img class="sensors-1-a" src="./img/sensors-1-a.png" />
+                                        <img class="sensors-1-b" src="./img/sensors-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
                         <div class="interactive-demo1 animate" id="ilp-charles-2">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-charles.png" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-charles.png" />
                                     <h5 class="human-name">Charles</h5>
                                     <h6 class="human-job-title">Commercial building owner and ABC Insurance policyholder</h6>
                                 </div>
@@ -223,8 +223,8 @@
                                         <li>Receives thank-you message from ABC for his help in preventing loss</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="charles-2-a" src="img/charles-2-a.png" />
-                                        <img class="charles-2-b" src="img/charles-2-b.png" />
+                                        <img class="charles-2-a" src="./img/charles-2-a.png" />
+                                        <img class="charles-2-b" src="./img/charles-2-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -241,7 +241,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Data</h4>
-                                        <img src="img/icon-data.png" class="icon" />
+                                        <img src="./img/icon-data.png" class="icon" />
                                         <h6>Data and analytics</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -260,7 +260,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Strategy</h4>
-                                        <img src="img/icon-strategy.png" class="icon" />
+                                        <img src="./img/icon-strategy.png" class="icon" />
                                         <h6>Innovation</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -278,7 +278,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Tools and technology</h4>
-                                        <img src="img/icon-tools.png" class="icon" />
+                                        <img src="./img/icon-tools.png" class="icon" />
                                         <h6>Digital architecture</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -297,7 +297,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>People and organization</h4>
-                                        <img src="img/icon-people.png" class="icon" />
+                                        <img src="./img/icon-people.png" class="icon" />
                                         <h6>Agility</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -314,7 +314,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Security</h4>
-                                        <img src="img/icon-security.png" class="icon" />
+                                        <img src="./img/icon-security.png" class="icon" />
                                         <h6>Cybersecurity and risk</h6>
                                         <div class="button">Learn More</div>
                                     </div>

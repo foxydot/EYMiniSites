@@ -12,7 +12,7 @@
                     <div class="menu-bug"><a href="#intro">< Return to menu page</a></div>
                     <div class="tagline-wrapper row">
                         <div class="tagline-icon col-md-2">
-                            <img src="/img/EY_%20DI_Innovation_Center_icons_risk_based_customer_acquisition.png" class="icon" />
+                            <img src="./img/EY_%20DI_Innovation_Center_icons_risk_based_customer_acquisition.png" class="icon" />
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
@@ -33,7 +33,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">
@@ -51,7 +51,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">
@@ -65,7 +65,7 @@
                         <div class="interactive-demo1 animate" id="rbc-mary-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-mary.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-mary.jpg" />
                                     <h5 class="human-name">Mary</h5>
                                     <h6 class="human-job-title">Policy underwriter</h6>
                                 </div>
@@ -76,9 +76,9 @@
                                         <li>Identifies portfolio targets with pre-approved offers</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="mary-1-a" src="img/mary-1-a.png" />
-                                        <img class="mary-1-b" src="img/mary-1-b.png" />
-                                        <img class="mary-1-c" src="img/mary-1-c.png" />
+                                        <img class="mary-1-a" src="./img/mary-1-a.png" />
+                                        <img class="mary-1-b" src="./img/mary-1-b.png" />
+                                        <img class="mary-1-c" src="./img/mary-1-c.png" />
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                         <div class="interactive-demo1 animate" id="rbc-rick-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-rick.jpg" />
                                     <h5 class="human-name">Rick</h5>
                                     <h6 class="human-job-title">Agent</h6>
                                 </div>
@@ -105,9 +105,9 @@
                                         <li>Thinks that he’s been looking for ways to expand his portfolio with this carrier and be more proactive with clients</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="rick-1-a" src="img/rick-1-a.png" />
-                                        <img class="rick-1-b" src="img/rick-1-b.png" />
-                                        <img class="rick-1-c" src="img/rick-1-c.png" />
+                                        <img class="rick-1-a" src="./img/rick-1-a.png" />
+                                        <img class="rick-1-b" src="./img/rick-1-b.png" />
+                                        <img class="rick-1-c" src="./img/rick-1-c.png" />
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +124,7 @@
                         <div class="interactive-demo1 animate" id="rbc-anne-1">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-anne.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-anne.jpg" />
                                     <h5 class="human-name">Anne</h5>
                                     <h6 class="human-job-title">Client</h6>
                                 </div>
@@ -135,8 +135,8 @@
                                         <li>Texts Rick the news – “Let’s talk soon”</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="anne-1-a" src="img/anne-1-a.png" />
-                                        <img class="anne-1-b" src="img/anne-1-b.png" />
+                                        <img class="anne-1-a" src="./img/anne-1-a.png" />
+                                        <img class="anne-1-b" src="./img/anne-1-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -153,7 +153,7 @@
                         <div class="interactive-demo1 animate" id="rbc-rick-2">
                             <div class="row block even">
                                 <div class="col-md-2 bkg-yellow a">
-                                    <img class="img-circle human-headshot" src="img/headshot-rick.jpg" />
+                                    <img class="img-circle human-headshot" src="./img/headshot-rick.jpg" />
                                     <h5 class="human-name">Rick</h5>
                                     <h6 class="human-job-title">Agent</h6>
                                 </div>
@@ -165,8 +165,8 @@
                                         <li>Receives next set of pre-approved homes for review and potential sales offers</li>
                                     </ul>
                                     <div class="col-md-7 animate-icons">
-                                        <img class="rick-2-a" src="img/rick-2-a.png" />
-                                        <img class="rick-2-b" src="img/rick-2-b.png" />
+                                        <img class="rick-2-a" src="./img/rick-2-a.png" />
+                                        <img class="rick-2-b" src="./img/rick-2-b.png" />
                                     </div>
                                 </div>
                             </div>
@@ -183,7 +183,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Data</h4>
-                                        <img src="img/icon-data.png" class="icon" />
+                                        <img src="./img/icon-data.png" class="icon" />
                                         <h6>Data and analytics</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -202,7 +202,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Strategy</h4>
-                                        <img src="img/icon-strategy.png" class="icon" />
+                                        <img src="./img/icon-strategy.png" class="icon" />
                                         <h6>Innovation</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -220,7 +220,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Tools and technology</h4>
-                                        <img src="img/icon-tools.png" class="icon" />
+                                        <img src="./img/icon-tools.png" class="icon" />
                                         <h6>Digital architecture</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -238,7 +238,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>People and organization</h4>
-                                        <img src="img/icon-people.png" class="icon" />
+                                        <img src="./img/icon-people.png" class="icon" />
                                         <h6>Agility</h6>
                                         <div class="button">Learn More</div>
                                     </div>
@@ -256,7 +256,7 @@
                                 <div class="block row">
                                     <div class="col-md-4 a">
                                         <h4>Security</h4>
-                                        <img src="img/icon-security.png" class="icon" />
+                                        <img src="./img/icon-security.png" class="icon" />
                                         <h6>Cybersecurity and risk</h6>
                                         <div class="button">Learn More</div>
                                     </div>

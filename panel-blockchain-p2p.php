@@ -12,7 +12,7 @@
                     <div class="menu-bug"><a href="#intro">< Return to menu page</a></div>
                     <div class="tagline-wrapper row">
                         <div class="tagline-icon col-md-2">
-                            <img src="/img/P2P_icon_yellow.png" class="icon" />
+                            <img src="./img/P2P_icon_yellow.png" class="icon" />
                         </div>
                         <div class="tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
@@ -33,7 +33,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">
@@ -51,7 +51,7 @@
                                     </dl>
                                 </div>
                                 <div class="col-md-2 b">
-                                    <img src="/img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
+                                    <img src="./img/biz_icons_biz_solution.png" alt="Solution Icon" class="icon" />
                                 </div>
                             </div>
                             <div class="row interstitial">

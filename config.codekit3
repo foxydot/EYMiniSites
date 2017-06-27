@@ -347,10 +347,16 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/favicon.ico": {
+	"\/default.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/favicon.ico",
+		"oAP": "\/default.html",
+		"oF": 0
+		},
+	"\/eyuserstories.tar.gz": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/eyuserstories.tar.gz",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
