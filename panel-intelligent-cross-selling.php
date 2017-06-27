@@ -11,10 +11,10 @@
                 <div class="col-md-6 col-md-offset-4">
                     <div class="menu-bug"><a href="#intro">< Return to menu page</a></div>
                     <div class="tagline-wrapper row">
-                        <div class="tagline-icon col-md-2">
+                        <div class="equal tagline-icon col-md-2">
                             <img src="./img/EY_%20DI_Innovation_Center_icons_intelligent_cross_selling.png" class="icon" />
                         </div>
-                        <div class="tagline col-md-10">
+                        <div class="equal tagline col-md-10">
                             <h3>From the EY Digital Insurance Innovation Center</h3>
                             <h2>Use case: Intelligent cross-selling</h2>
                         </div>

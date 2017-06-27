@@ -134,7 +134,11 @@ section.panel .tagline-wrapper {
   margin-right: -50px; }
   section.panel .tagline-wrapper .tagline-icon {
     background-color: #6D6E71;
-    padding: 0.25em; }
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    section.panel .tagline-wrapper .tagline-icon img.icon {
+      margin: 0.25em auto; }
   section.panel .tagline-wrapper .tagline {
     background: #ffe600;
     color: #111111;
@@ -143,12 +147,12 @@ section.panel .tagline-wrapper {
       font-size: 1.5em;
       font-weight: 700;
       line-height: 1;
-      margin: 0; }
+      margin: 0.25em 0; }
     section.panel .tagline-wrapper .tagline h3 {
       font-size: 1.3em;
       font-weight: 500;
       line-height: 1;
-      margin: 0; }
+      margin: 0.25em 0; }
 section.panel .sidewindow {
   overflow: hidden;
   display: block;

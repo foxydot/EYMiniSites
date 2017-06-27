@@ -16,6 +16,7 @@ function whichAnimationEvent(){
     }
 }
 $(function () { // wait for document ready
+    $('.equal').equalHeightColumns({checkHeight:'innerHeight',});
     if(window.location.hash){
         $('.panel').css('z-index',0);
         $(window.location.hash).css('z-index',300);

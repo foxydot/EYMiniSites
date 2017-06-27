@@ -1447,6 +1447,24 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/vendor\/jquery.equal-height-columns-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/jquery.equal-height-columns-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.equal-height-columns.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/jquery.equal-height-columns-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/vendor\/jquery.waypoints.js": {
 		"ft": 64,
 		"mi": 1,
