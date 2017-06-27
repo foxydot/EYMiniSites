@@ -243,7 +243,7 @@
                         <div class="animate">
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now see how our tools support Wearable Loss Prevention ></a>
+                                    <a class="button" href="#next">See what it takes ></a>
                                 </div>
                             </div>
                         </div>

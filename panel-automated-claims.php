@@ -105,7 +105,7 @@
                                     <ul class="col-md-5 animate-ul">
                                         <li>Manages conversation with policyholder and claimants </li>
                                         <li>Sends offer to claimant to close claim in under one hour</li>
-                                        <li>Leads them through intelligent-automated workflow </li>
+                                        <li>Leads them through intelligent automated workflow </li>
                                         <li>Sends triggers to update claim file</li>
                                         <li>Initiates payment workflow</li>
                                     </ul>
@@ -243,7 +243,7 @@
                         <div class="animate">
                             <div class="row interstitial">
                                 <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#next">Now see how our tools support automated claims with telematics ></a>
+                                    <a class="button" href="#next">See what it takes ></a>
                                 </div>
                             </div>
                         </div>
