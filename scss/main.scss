@@ -207,11 +207,11 @@ section.panel{
     @include transition-duration(1s);
     @include transition-timing-function(ease-in);
     opacity: 0;
-    &.business-problem,&#rbc-mary-1{
+    &.business-problem,&.business-opportunity,&#rbc-mary-1{
       @include transition-duration(1s);
       opacity: 1;
     }
-    .a dt,.a dd,.b{
+    .a dt,.a dd, .a li,.b{
       opacity: 0;
       animation-duration: 2s;
       animation-name: slideInRight;
@@ -221,8 +221,14 @@ section.panel{
       dt{
         animation-delay: 0s;
       }
-      dd{
+      dd,li:nth-child(1){
         animation-delay: 0.5s;
+      }
+      li:nth-child(2){
+        animation-delay: 1s;
+      }
+      li:nth-child(3){
+        animation-delay: 1.5s;
       }
     }
     .b {
@@ -279,7 +285,27 @@ section.panel{
         color: $yellow;
       }
     }
+    &.business-opportunity{
+      .a{
+        dt{
+          animation-delay: 1.5s;
+        }
+        dd,li:nth-child(1){
+          animation-delay: 2s;
+        }
+        li:nth-child(2){
+          animation-delay: 2.5s;
+        }
+        li:nth-child(3){
+          animation-delay: 3s;
+        }
+      }
+      .b{
+        animation-delay: 2.5s;
+      }
+    }
   }
+
   .human-headshot,.human-name,.human-job-title{
     text-align: center;
     color: $black;
@@ -347,7 +373,7 @@ section.panel{
         }
       }
       .interstitial{
-        animation-delay: 3s;
+        animation-delay: 6s;
       }
     }
   }

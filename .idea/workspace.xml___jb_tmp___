@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-automated-claims.jpg" afterPath="$PROJECT_DIR$/img/bkg-automated-claims.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-intelligent-cross-selling.jpg" afterPath="$PROJECT_DIR$/img/bkg-intelligent-cross-selling.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-iot-loss-prevention.jpg" afterPath="$PROJECT_DIR$/img/bkg-iot-loss-prevention.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/charles-1-a.png" afterPath="$PROJECT_DIR$/img/charles-1-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-risk-based-customer.php" afterPath="$PROJECT_DIR$/panel-risk-based-customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-wearable-saftey.php" afterPath="$PROJECT_DIR$/panel-wearable-saftey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,67 +24,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="panel-intelligent-cross-selling.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="249" column="26" lean-forward="true" selection-start-line="249" selection-start-column="26" selection-end-line="249" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="237" column="40" lean-forward="false" selection-start-line="237" selection-start-column="37" selection-end-line="237" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-risk-based-customer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="179" column="40" lean-forward="false" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-wearable-saftey.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3780">
-              <caret line="252" column="71" lean-forward="true" selection-start-line="252" selection-start-column="71" selection-end-line="252" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="panel-blockchain-p2p.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="271" column="42" lean-forward="false" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
@@ -91,53 +34,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="167" column="5" lean-forward="true" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.equal-height-columns.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1317">
-              <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fade</find>
-      <find>&lt;/p&gt;&lt;/p&gt;</find>
-      <find>gives ins</find>
-      <find>wearable-loss-prevention</find>
       <find>&lt;div class=&quot;menu-bug&quot;&gt;&lt;a href=&quot;#intro&quot;&gt;Menu&lt;/a&gt;&lt;/div&gt;</find>
       <find>U</find>
       <find>Use Case</find>
       <find>AI Bot</find>
       <find>Platform</find>
       <find>Prio</find>
-      <find>dl</find>
       <find>robot</find>
       <find>process</find>
       <find>Inc. Inc.</find>
@@ -153,10 +59,15 @@
       <find>//</find>
       <find>h2</find>
       <find>foo</find>
-      <find>tools</find>
       <find>tag</find>
       <find>too</find>
       <find>tool</find>
+      <find>tools</find>
+      <find>dt</find>
+      <find>dl</find>
+      <find>oppo</find>
+      <find>opp</find>
+      <find>block</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -193,15 +104,15 @@
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
         <option value="$PROJECT_DIR$/default.html" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-        <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
-        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
-        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
-        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
+        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
+        <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
+        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
+        <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
       </list>
     </option>
   </component>
@@ -261,38 +172,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EYMiniSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EYMiniSites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EYMiniSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EYMiniSites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,14 +310,7 @@
       <workItem from="1498145819552" duration="145000" />
       <workItem from="1498519744354" duration="80000" />
       <workItem from="1498520473682" duration="1504000" />
-      <workItem from="1498592173882" duration="2627000" />
-    </task>
-    <task id="LOCAL-00018" summary="Edits to risk based customer, back button attempts">
-      <created>1496782822590</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1496782822590</updated>
+      <workItem from="1498592173882" duration="4912000" />
     </task>
     <task id="LOCAL-00019" summary="image adds">
       <created>1496782870638</created>
@@ -776,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498598125951</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Update watermarked images">
+      <created>1498613549120</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1498613549120</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149214000" />
+    <option name="totallyTimeSpent" value="151499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -814,7 +693,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add automated claims background image" />
     <MESSAGE value="change copy to &lt; Return to menu page:" />
     <MESSAGE value="fix icon height to align text" />
     <MESSAGE value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
@@ -839,7 +717,8 @@
     <MESSAGE value="Index page &#10;DELETE “EY Digital Innovation …” line at top of page&#10;DELETE “Welcome ABC INSURANCE …” and REPLACE WITH  WITH: “From the EY Innovation Center: Deployment-ready use cases” MAKE THAT YELLOW&#10;&#10;ALL PAGES: &#10;Delete footer or just hide for now -- on all pages:" />
     <MESSAGE value="Better line spacing in header bar -- lines bumping together (standardize … maybe vertically center and more space btw lines -- worse on some pages than others" />
     <MESSAGE value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
+    <MESSAGE value="Update watermarked images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update watermarked images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1124,14 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="129" column="63" lean-forward="false" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1317">
@@ -1142,66 +1013,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="167" column="5" lean-forward="true" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="271" column="42" lean-forward="false" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="237" column="40" lean-forward="false" selection-start-line="237" selection-start-column="37" selection-end-line="237" selection-end-column="40" />
+        <state relative-caret-position="168">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="179" column="40" lean-forward="false" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="40" />
+        <state relative-caret-position="168">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-wearable-saftey.php">
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3780">
-          <caret line="252" column="71" lean-forward="true" selection-start-line="252" selection-start-column="71" selection-end-line="252" selection-end-column="71" />
+        <state relative-caret-position="168">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="249" column="26" lean-forward="true" selection-start-line="249" selection-start-column="26" selection-end-line="249" selection-end-column="26" />
+        <state relative-caret-position="168">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="303" column="26" lean-forward="false" selection-start-line="303" selection-start-column="26" selection-end-line="303" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="129" column="63" lean-forward="false" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
           <folding />
         </state>
       </provider>

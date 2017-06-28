@@ -17,6 +17,7 @@ function whichAnimationEvent(){
 }
 $(function () { // wait for document ready
     $('.equal').equalHeightColumns({checkHeight:'innerHeight',});
+
     if(window.location.hash){
         $('.panel').css('z-index',0);
         $(window.location.hash).css('z-index',300);
@@ -103,17 +104,6 @@ $(function () { // wait for document ready
         $('.oldone').remove();
     });
 
-        // Get an array of all element heights
-        /* var elementHeights = $('section.panel.risk-based-customer .item.tools .animate .block').map(function() {
-            return $(this).height();
-        }).get();
-*/
-        // Math.max takes a variable number of arguments
-        // `apply` is equivalent to passing each height as an argument
-        //var maxHeight = Math.max.apply(null, elementHeights);
-
-        // Set each height to the max height
-        //$('section.panel.risk-based-customer .item.tools .animate .block').height(maxHeight);
 
     var animationEvent = whichAnimationEvent();
     $('#risk-based-customer-tools .animate .trigger').one(animationEvent,function(){

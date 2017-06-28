@@ -37,11 +37,6 @@
                                     <img src="./img/biz_icons_biz_problem.png" alt="Problem Icon" class="icon" />
                                 </div>
                             </div>
-                            <div class="row interstitial">
-                                <div class="col-md-11 col-md-offset-1">
-                                    <a class="button" href="#ics-business-opportunity">So what's the business opportunity? ></a>
-                                </div>
-                            </div>
                         </div>
                         <div class="interactive-question business-opportunity animate" id="ics-business-opportunity">
                             <div class="row block even">
