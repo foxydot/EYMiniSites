@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-automated-claims.jpg" afterPath="$PROJECT_DIR$/img/bkg-automated-claims.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-intelligent-cross-selling.jpg" afterPath="$PROJECT_DIR$/img/bkg-intelligent-cross-selling.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bkg-iot-loss-prevention.jpg" afterPath="$PROJECT_DIR$/img/bkg-iot-loss-prevention.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/charles-1-a.png" afterPath="$PROJECT_DIR$/img/charles-1-a.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-wearable-saftey.php" afterPath="$PROJECT_DIR$/panel-wearable-saftey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +34,8 @@
       <file leaf-file-name="panel-automated-claims.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="239" column="38" lean-forward="true" selection-start-line="239" selection-start-column="38" selection-end-line="239" selection-end-column="38" />
+            <state relative-caret-position="294">
+              <caret line="249" column="26" lean-forward="true" selection-start-line="249" selection-start-column="26" selection-end-line="249" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -211,8 +216,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1456" />
-    <option name="y" value="161" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -427,14 +431,7 @@
       <workItem from="1498145819552" duration="145000" />
       <workItem from="1498519744354" duration="80000" />
       <workItem from="1498520473682" duration="1504000" />
-      <workItem from="1498592173882" duration="2278000" />
-    </task>
-    <task id="LOCAL-00017" summary="Edits to choice panel">
-      <created>1496759679559</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1496759679559</updated>
+      <workItem from="1498592173882" duration="2627000" />
     </task>
     <task id="LOCAL-00018" summary="Edits to risk based customer, back button attempts">
       <created>1496782822590</created>
@@ -772,14 +769,21 @@
       <option name="project" value="LOCAL" />
       <updated>1498597654530</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”">
+      <created>1498598125951</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1498598125951</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148865000" />
+    <option name="totallyTimeSpent" value="149214000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1456" y="161" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -810,7 +814,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="wearable loss prevention hidden, switched ot wearable saftey" />
     <MESSAGE value="add automated claims background image" />
     <MESSAGE value="change copy to &lt; Return to menu page:" />
     <MESSAGE value="fix icon height to align text" />
@@ -835,7 +838,8 @@
     <MESSAGE value="package" />
     <MESSAGE value="Index page &#10;DELETE “EY Digital Innovation …” line at top of page&#10;DELETE “Welcome ABC INSURANCE …” and REPLACE WITH  WITH: “From the EY Innovation Center: Deployment-ready use cases” MAKE THAT YELLOW&#10;&#10;ALL PAGES: &#10;Delete footer or just hide for now -- on all pages:" />
     <MESSAGE value="Better line spacing in header bar -- lines bumping together (standardize … maybe vertically center and more space btw lines -- worse on some pages than others" />
-    <option name="LAST_COMMIT_MESSAGE" value="Better line spacing in header bar -- lines bumping together (standardize … maybe vertically center and more space btw lines -- worse on some pages than others" />
+    <MESSAGE value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1196,8 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="239" column="38" lean-forward="true" selection-start-line="239" selection-start-column="38" selection-end-line="239" selection-end-column="38" />
+        <state relative-caret-position="294">
+          <caret line="249" column="26" lean-forward="true" selection-start-line="249" selection-start-column="26" selection-end-line="249" selection-end-column="26" />
           <folding />
         </state>
       </provider>

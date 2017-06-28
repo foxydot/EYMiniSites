@@ -525,16 +525,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/bkg-automated-claims.jpg": {
-		"ft": 16384,
-		"iS": 246079,
-		"oA": 0,
-		"oAP": "\/img\/bkg-automated-claims.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/bkg-blockchain-p2p.jpg": {
 		"ft": 16384,
 		"iS": 661148,
@@ -545,31 +535,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bkg-intelligent-cross-selling.jpg": {
-		"ft": 16384,
-		"iS": 153342,
-		"oA": 0,
-		"oAP": "\/img\/bkg-intelligent-cross-selling.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/bkg-intro-panel.jpg": {
 		"ft": 16384,
 		"iS": 989994,
 		"oA": 0,
 		"oAP": "\/img\/bkg-intro-panel.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bkg-iot-loss-prevention.jpg": {
-		"ft": 16384,
-		"iS": 585182,
-		"oA": 0,
-		"oAP": "\/img\/bkg-iot-loss-prevention.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
