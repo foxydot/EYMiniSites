@@ -541,11 +541,10 @@ section.panel{
         .footer-link-block{
           padding: 0;
           overflow: hidden;
-          height: 294px;
-          display: flex;
           a.footer-link{
             display: block;
             vertical-align: middle;
+            height: 294px;
             img{
               max-width: 100%;
             }

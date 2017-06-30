@@ -431,12 +431,11 @@ section.panel .item.tools .animate {
         animation-delay: 3s; }
   section.panel .item.tools .animate.footer-links .footer-link-block {
     padding: 0;
-    overflow: hidden;
-    height: 294px;
-    display: flex; }
+    overflow: hidden; }
     section.panel .item.tools .animate.footer-links .footer-link-block a.footer-link {
       display: block;
-      vertical-align: middle; }
+      vertical-align: middle;
+      height: 294px; }
       section.panel .item.tools .animate.footer-links .footer-link-block a.footer-link img {
         max-width: 100%; }
 section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {

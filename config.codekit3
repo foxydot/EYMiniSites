@@ -1159,16 +1159,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/img\/link-transform-1.jpg": {
-		"ft": 16384,
-		"iS": 182869,
-		"oA": 0,
-		"oAP": "\/img\/link-transform-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/link-video-1.jpg": {
 		"ft": 16384,
 		"iS": 163866,
@@ -1177,6 +1167,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/link-white-paper-1.jpg": {
+		"ft": 16384,
+		"iS": 182869,
+		"oA": 0,
+		"oAP": "\/img\/link-white-paper-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/logo.png": {
