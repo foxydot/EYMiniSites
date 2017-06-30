@@ -39,7 +39,7 @@
                      </div>
                  </div>
                  <div class="row">
-                     <h2 class="title">From the EY Innovation Center: Deployment-ready use cases</h2>
+                     <h2 class="title">EY Digital Insurance Innovation Center: Deployment-ready use cases</h2>
                      <p>EY has developed dozens of deployment-ready, technology-enabled services so insurers can realize the art of the possible – and make digital transformation an operational reality across the industry.</p>
                  </div>
                  <div class="row">

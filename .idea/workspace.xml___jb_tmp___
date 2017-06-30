@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-automated-claims.php" afterPath="$PROJECT_DIR$/panel-automated-claims.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-blockchain-p2p.php" afterPath="$PROJECT_DIR$/panel-blockchain-p2p.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" afterPath="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-risk-based-customer.php" afterPath="$PROJECT_DIR$/panel-risk-based-customer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-wearable-saftey.php" afterPath="$PROJECT_DIR$/panel-wearable-saftey.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +18,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="129" column="63" lean-forward="false" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
+            <state relative-caret-position="114">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,7 +94,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/panel-wearable-loss-prevention.php" />
         <option value="$PROJECT_DIR$/default.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
@@ -113,6 +103,7 @@
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -127,9 +118,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-1496" />
+    <option name="y" value="-30" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,8 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -310,14 +302,8 @@
       <workItem from="1498145819552" duration="145000" />
       <workItem from="1498519744354" duration="80000" />
       <workItem from="1498520473682" duration="1504000" />
-      <workItem from="1498592173882" duration="4912000" />
-    </task>
-    <task id="LOCAL-00019" summary="image adds">
-      <created>1496782870638</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1496782870638</updated>
+      <workItem from="1498592173882" duration="5122000" />
+      <workItem from="1498832169000" duration="37000" />
     </task>
     <task id="LOCAL-00020" summary="start on intelligent cross selling">
       <created>1496783946642</created>
@@ -655,20 +641,27 @@
       <option name="project" value="LOCAL" />
       <updated>1498613549120</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="remove button on qa panels">
+      <created>1498616411345</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1498616411345</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151499000" />
+    <option name="totallyTimeSpent" value="151746000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="-1496" y="-30" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.5381944" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.54097223" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11069652" sideWeight="0.46180555" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.45902777" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -693,7 +686,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="change copy to &lt; Return to menu page:" />
     <MESSAGE value="fix icon height to align text" />
     <MESSAGE value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
     <MESSAGE value="Iot and Wearables for worker safety titles" />
@@ -718,7 +710,8 @@
     <MESSAGE value="Better line spacing in header bar -- lines bumping together (standardize … maybe vertically center and more space btw lines -- worse on some pages than others" />
     <MESSAGE value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
     <MESSAGE value="Update watermarked images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update watermarked images" />
+    <MESSAGE value="remove button on qa panels" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove button on qa panels" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -999,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="2127" column="43" lean-forward="true" selection-start-line="2127" selection-start-column="43" selection-end-line="2127" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,14 +1065,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="303" column="26" lean-forward="false" selection-start-line="303" selection-start-column="26" selection-end-line="303" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="129" column="63" lean-forward="false" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
+        <state relative-caret-position="114">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding />
         </state>
       </provider>
