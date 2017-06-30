@@ -387,6 +387,12 @@
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
+	"\/footer-links.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/footer-links.php",
+		"oF": 0
+		},
 	"\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -1141,6 +1147,36 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/link-ebook-1.jpg": {
+		"ft": 16384,
+		"iS": 234303,
+		"oA": 0,
+		"oAP": "\/img\/link-ebook-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/link-transform-1.jpg": {
+		"ft": 16384,
+		"iS": 182869,
+		"oA": 0,
+		"oAP": "\/img\/link-transform-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/link-video-1.jpg": {
+		"ft": 16384,
+		"iS": 163866,
+		"oA": 0,
+		"oAP": "\/img\/link-video-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logo.png": {

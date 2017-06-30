@@ -429,6 +429,8 @@ section.panel .item.tools .animate {
         animation-delay: 2.5s; }
       section.panel .item.tools .animate .block .c ul li:nth-child(7) {
         animation-delay: 3s; }
+  section.panel .item.tools .animate.footer-links .block a.footer-link img {
+    max-width: 100%; }
 section.panel.risk-based-customer .item.demo #rbc-mary-1 .block {
   padding-top: 2em; }
   section.panel.risk-based-customer .item.demo #rbc-mary-1 .block .c .animate-icons {

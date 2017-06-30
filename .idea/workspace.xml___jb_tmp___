@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-ebook-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-transform-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-video-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer-links.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-risk-based-customer.php" afterPath="$PROJECT_DIR$/panel-risk-based-customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +22,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="390">
+              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-links.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer-links.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="527" column="13" lean-forward="true" selection-start-line="527" selection-start-column="13" selection-end-line="527" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel-risk-based-customer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="252" column="57" lean-forward="true" selection-start-line="252" selection-start-column="57" selection-end-line="252" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -52,13 +89,13 @@
       <find>foo</find>
       <find>tag</find>
       <find>too</find>
-      <find>tool</find>
       <find>tools</find>
       <find>dt</find>
       <find>dl</find>
       <find>oppo</find>
       <find>opp</find>
       <find>block</find>
+      <find>tool</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle</replace>
@@ -96,14 +133,15 @@
         <option value="$PROJECT_DIR$/default.html" />
         <option value="$PROJECT_DIR$/js/vendor/jquery.equal-height-columns.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
-        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
-        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/panel-automated-claims.php" />
+        <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
+        <option value="$PROJECT_DIR$/footer-links.php" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
       </list>
     </option>
   </component>
@@ -118,8 +156,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1496" />
-    <option name="y" value="-30" />
+    <option name="x" value="-1444" />
+    <option name="y" value="17" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -303,14 +341,7 @@
       <workItem from="1498519744354" duration="80000" />
       <workItem from="1498520473682" duration="1504000" />
       <workItem from="1498592173882" duration="5122000" />
-      <workItem from="1498832169000" duration="37000" />
-    </task>
-    <task id="LOCAL-00020" summary="start on intelligent cross selling">
-      <created>1496783946642</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1496783946642</updated>
+      <workItem from="1498832169000" duration="1890000" />
     </task>
     <task id="LOCAL-00021" summary="add ics background and adjust css for broader application">
       <created>1496784382108</created>
@@ -648,14 +679,21 @@
       <option name="project" value="LOCAL" />
       <updated>1498616411345</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Change this to “EY Digital Insurance Innovation Center: Deployment …”">
+      <created>1498832214586</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1498832214587</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151746000" />
+    <option name="totallyTimeSpent" value="153599000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1496" y="-30" width="1440" height="877" extended-state="0" />
+    <frame x="-1444" y="17" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -686,7 +724,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fix icon height to align text" />
     <MESSAGE value="Change to “Blockchain peer-to-peer”&#10; &#10;Reword to “Use case: Blockchain peer-to-peer”&#10; &#10;&#10;Make “platform” lowercase&#10; &#10;Risk-based customer acquisition&#10;&#10;Make sentence-case “Use case: Risk-based customer acquisition”&#10; &#10;&#10;Make “link” plural, remove “Rick”&#10; &#10;&#10;Change to “high net worth zip codes”&#10; &#10;&#10;Change “IVA” to “interactive voice automation”&#10; &#10;&#10;Change “KPIs” to “key performance indicators”&#10; &#10; &#10;Intelligent cross-selling&#10; &#10;Change to “Intelligent cross-selling” (include hyphen!!!)&#10;&#10; &#10; &#10;&#10;Change to sentence case “Intelligent cross-selling” (include hyphen!!!)&#10; &#10;&#10;Change copy to the following (with the little yellow EY triangle bullets, not these little black bullets)&#10; &#10;How can we seize upsell opportunities related to our policyholders’ life events?&#10; &#10;What role can bundled policies play in expanding customer relationships?&#10; &#10;&#10;Add “and offering additional coverage” after “graduation”&#10; &#10;&#10;Copy is right, but the picture overlaps it no matter how far I stretch the window&#10; &#10;&#10;Same issue here as abov&#10; &#10;Please try flushing cache, these images were replaced with non-watermarked images that are smaller a few days ago.&#10; &#10;&#10; Make “bot” lowercase" />
     <MESSAGE value="Iot and Wearables for worker safety titles" />
     <MESSAGE value="remove hash removal from links" />
@@ -711,20 +748,14 @@
     <MESSAGE value="remove hyphen&#10;Replace this button: &#10;&#10;WIth this one (it will be repeated from previous page, but okay)”" />
     <MESSAGE value="Update watermarked images" />
     <MESSAGE value="remove button on qa panels" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove button on qa panels" />
+    <MESSAGE value="Change this to “EY Digital Insurance Innovation Center: Deployment …”" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change this to “EY Digital Insurance Innovation Center: Deployment …”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9525">
-          <caret line="635" column="26" lean-forward="false" selection-start-line="635" selection-start-column="26" selection-end-line="635" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1000,7 +1031,7 @@
         <state relative-caret-position="1317">
           <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1009,14 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1037,14 +1060,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-blockchain-p2p.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1061,17 +1076,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="303" column="26" lean-forward="false" selection-start-line="303" selection-start-column="26" selection-end-line="303" selection-end-column="26" />
+        <state relative-caret-position="390">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/panel-automated-claims.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="548">
+          <caret line="338" column="30" lean-forward="false" selection-start-line="338" selection-start-column="30" selection-end-line="338" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-risk-based-customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="252" column="57" lean-forward="true" selection-start-line="252" selection-start-column="57" selection-end-line="252" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="527" column="13" lean-forward="true" selection-start-line="527" selection-start-column="13" selection-end-line="527" selection-end-column="13" />
           <folding />
         </state>
       </provider>

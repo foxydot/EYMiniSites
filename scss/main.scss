@@ -537,6 +537,15 @@ section.panel{
           }
         }
       }
+      &.footer-links{
+        .block{
+          a.footer-link{
+            img{
+              max-width: 100%;
+            }
+          }
+        }
+      }
     }
   }
   &.risk-based-customer{

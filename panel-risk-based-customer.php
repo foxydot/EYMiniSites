@@ -264,6 +264,7 @@
                                 </div>
                             </div>
                         </div>
+                        <?php include('footer-links.php'); ?>
                     </div>
                 </div>
             </div>
