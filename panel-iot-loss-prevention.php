@@ -131,7 +131,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="charles-3-a" src="./img/charles-3-a.png" />
-                                        <img class="charles-3-b" src="./img/charles-3-b.png" />
                                     </div>
                                 </div>
                             </div><div class="row interstitial">
@@ -159,7 +158,6 @@
                                     </ul>
                                     <div class="col-md-7 animate-icons">
                                         <img class="abcins-3-a" src="./img/abcins-3-a.png" />
-                                        <img class="abcins-3-b" src="./img/abcins-3-b.png" />
                                     </div>
                                 </div>
                             </div>

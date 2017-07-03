@@ -739,6 +739,34 @@ section.panel.iot-loss-prevention .item.demo #ilp-charles-2 .block .c .animate-i
     -moz-animation-name: slideInUp;
     -o-animation-name: slideInUp;
     animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-charles-3 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-3 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.iot-loss-prevention .item.demo #ilp-charles-3 .block .c .animate-icons img.charles-3-a {
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
+section.panel.iot-loss-prevention .item.demo #ilp-abcins-3 .block .c .animate-icons {
+  margin: -2em;
+  width: 100%; }
+  section.panel.iot-loss-prevention .item.demo #ilp-abcins-3 .block .c .animate-icons img {
+    position: absolute; }
+  section.panel.iot-loss-prevention .item.demo #ilp-abcins-3 .block .c .animate-icons img.abcins-1-3 {
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    animation-delay: 0s;
+    -webkit-animation-name: slideInUp;
+    -moz-animation-name: slideInUp;
+    -o-animation-name: slideInUp;
+    animation-name: slideInUp; }
 section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block {
   padding-top: 2em; }
   section.panel.blockchain-p2p .item.demo #p2p-jane-1 .block .c .animate-icons {

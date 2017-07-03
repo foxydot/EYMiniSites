@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-white-paper-1.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/link-transform-1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/abcins-3-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/charles-3-a.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer-links.php" afterPath="$PROJECT_DIR$/footer-links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel-iot-loss-prevention.php" afterPath="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,28 +23,38 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="990">
               <caret line="66" column="146" lean-forward="false" selection-start-line="66" selection-start-column="146" selection-end-line="66" selection-end-column="146" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer-links.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/footer-links.php">
+      <file leaf-file-name="panel-iot-loss-prevention.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="69" lean-forward="true" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+            <state relative-caret-position="585">
+              <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer-links.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer-links.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="553" column="5" lean-forward="true" selection-start-line="553" selection-start-column="5" selection-end-line="553" selection-end-column="5" />
+            <state relative-caret-position="242">
+              <caret line="1025" column="42" lean-forward="true" selection-start-line="1025" selection-start-column="42" selection-end-line="1025" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -53,7 +63,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="315">
               <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding />
             </state>
@@ -134,11 +144,11 @@
         <option value="$PROJECT_DIR$/panel-risk-based-customer.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/panel-wearable-saftey.php" />
-        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/panel-intelligent-cross-selling.php" />
         <option value="$PROJECT_DIR$/panel-blockchain-p2p.php" />
         <option value="$PROJECT_DIR$/panel-automated-claims.php" />
         <option value="$PROJECT_DIR$/footer-links.php" />
+        <option value="$PROJECT_DIR$/panel-iot-loss-prevention.php" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
       </list>
     </option>
@@ -354,14 +364,8 @@
       <workItem from="1498520473682" duration="1504000" />
       <workItem from="1498592173882" duration="5122000" />
       <workItem from="1498832169000" duration="3108000" />
-      <workItem from="1498847306123" duration="454000" />
-    </task>
-    <task id="LOCAL-00024" summary="start on Blockchain P2P">
-      <created>1496882941931</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1496882941931</updated>
+      <workItem from="1498847306123" duration="1066000" />
+      <workItem from="1499098863639" duration="250000" />
     </task>
     <task id="LOCAL-00025" summary="Add images to ICS&#10;Move files around for easier editing.">
       <created>1496932067912</created>
@@ -699,21 +703,28 @@
       <option name="project" value="LOCAL" />
       <updated>1498837292890</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="footer titles">
+      <created>1498847789738</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1498847789738</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155271000" />
+    <option name="totallyTimeSpent" value="156133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1833" y="-130" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.54375" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.5465278" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.45625" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11014851" sideWeight="0.45347223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -737,7 +748,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="change tool list items on cross selling" />
     <MESSAGE value="change tool list items on aquisition" />
     <MESSAGE value="fix typo" />
     <MESSAGE value="update Automated Claims with Telematics" />
@@ -762,7 +772,8 @@
     <MESSAGE value="Start on footer" />
     <MESSAGE value="some footer style" />
     <MESSAGE value="put footer on all panels" />
-    <option name="LAST_COMMIT_MESSAGE" value="put footer on all panels" />
+    <MESSAGE value="footer titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer titles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1057,14 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="325" column="61" lean-forward="false" selection-start-line="325" selection-start-column="61" selection-end-line="325" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/panel-intelligent-cross-selling.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1099,32 +1102,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="315">
           <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="66" column="146" lean-forward="false" selection-start-line="66" selection-start-column="146" selection-end-line="66" selection-end-column="146" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="553" column="5" lean-forward="true" selection-start-line="553" selection-start-column="5" selection-end-line="553" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/footer-links.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="69" lean-forward="true" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="146" lean-forward="false" selection-start-line="66" selection-start-column="146" selection-end-line="66" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel-iot-loss-prevention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1025" column="42" lean-forward="true" selection-start-line="1025" selection-start-column="42" selection-end-line="1025" selection-end-column="42" />
           <folding />
         </state>
       </provider>

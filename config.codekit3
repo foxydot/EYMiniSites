@@ -421,6 +421,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/abcins-3-a.png": {
+		"ft": 32768,
+		"iS": 85682,
+		"oA": 0,
+		"oAP": "\/img\/abcins-3-a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/abcp2p-1-a.png": {
 		"ft": 32768,
 		"iS": 468969,
@@ -629,6 +640,17 @@
 		"iS": 38530,
 		"oA": 0,
 		"oAP": "\/img\/charles-2-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/charles-3-a.png": {
+		"ft": 32768,
+		"iS": 154974,
+		"oA": 0,
+		"oAP": "\/img\/charles-3-a.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
