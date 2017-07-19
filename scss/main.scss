@@ -539,14 +539,24 @@ section.panel{
       }
       &.footer-links{
         .footer-link-block{
-          padding: 0;
+          background: rgba($white, 0.2);
+          padding: 2em;
           overflow: hidden;
           a.footer-link{
             display: block;
             vertical-align: middle;
-            height: 294px;
+            height: 250px;
             img{
               max-width: 100%;
+              margin: 0 auto;
+              display: block;
+            }
+          }
+          &.whitepaper{
+            a.footer-link{
+              img {
+                max-width: 75%;
+              }
             }
           }
         }
