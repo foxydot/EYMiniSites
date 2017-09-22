@@ -1333,30 +1333,67 @@ section.panel.automated-claims.bkgimg{
   }
 }
 footer{
-  background: #2E2F2F;
-  color: $yellow;
-  position: fixed;
-  display: none;
+  background-color: rgba($black,0.7);
+  color: $white;
+  position: absolute;
+  display: block;
   width: 100%;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 0;
-  .cta{
-    border: 1px solid $yellow;
-    padding: 1em;
-    margin: 1em;
-    display: block;
-    color: $yellow;
-    cursor: pointer;
-    &:hover{
-      text-decoration: none;
-      background: rgba($white,0.1);
-    }
+  z-index: 1000;
+  .footer-legal{
+    padding: 0.5em;
+    font-size: 0.85em;
   }
 }
 
-
+form{
+  label{
+    margin-top: 2em;
+  }
+  input[type="text"],
+  input[type="password"],
+  input[type="color"],
+  input[type="date"],
+  input[type="datetime"],
+  input[type="datetime-local"],
+  input[type="email"],
+  input[type="month"],
+  input[type="number"],
+  input[type="range"],
+  input[type="tel"],
+  input[type="time"],
+  input[type="url"],
+  input[type="week"],
+  select,
+  textarea {
+    background-color: rgba($white,0.2);
+    border: 1px solid rgba($white,0.4);
+    color: $white;
+    font-size: 14px;
+    font-size: 1.4rem;
+    padding: 16px;
+    padding: 1.6rem;
+    width: 100%;
+  }
+  input[type="submit"]{
+    display: block;
+    margin: 1em auto;
+    opacity: 1;
+    background: rgba($white,0);
+    border: 2px solid $yellow;
+    border-radius: 0.5em;
+    padding: 1em;
+    animation-duration: 1s;
+    font-weight: 700;
+    color: $yellow;
+    &:hover,&:active,&:visited{
+      background: rgba($white,0.2);
+      color: $yellow;
+    }
+  }
+}
 
 @keyframes showDiag {
   from { height: 0; }

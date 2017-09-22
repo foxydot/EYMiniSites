@@ -1,3 +1,17 @@
+<?php
+if(!function_exists('ts_data')){
+    function ts_data($data){
+        $ret = '<textarea class="troubleshoot" rows="20" cols="100">';
+        $ret .= print_r($data,true);
+        $ret .= '</textarea>';
+        print $ret;
+    }
+}
+    if($_POST){
+        ts_data($_POST);
+        die();
+    }
+?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -43,90 +57,36 @@
                      <p>EY has developed dozens of deployment-ready, technology-enabled services so insurers can realize the art of the possible – and make digital transformation an operational reality across the industry.</p>
                  </div>
                  <div class="row">
-                     <div class="col-md-3">
-                         <a class="subscreen-option risk-based-customer" href="#risk-based-customer">
-                             <img src="./img/EY_%20DI_Innovation_Center_icons_risk_based_customer_acquisition.png" class="icon menu" />
-                             <h3>Risk-based customer acquisition:</h3>
-                             <p>A smarter, more cost-effective way to
-                                 identify and engage new customers based
-                                 on satellite and publicly available data<br />
-                                 <strong>More ></strong></p>
-                         </a>
-                     </div>
-                     <div class="col-md-3">
-                         <a class="subscreen-option intelligent-cross-selling" href="#intelligent-cross-selling">
-                             <img src="./img/EY_%20DI_Innovation_Center_icons_intelligent_cross_selling.png" class="icon menu" />
-                             <h3>Intelligent cross-selling:</h3>
-                             <p>Existing customers renewing policies online are led through quoting and purchase of additional policies by AI-driven “ChatBot” <br /><strong>More ></strong></p>
-                         </a>
-                     </div>
-                     <div class="col-md-3">
-                         <a class="subscreen-option iot-loss-prevention" href="#iot-loss-prevention">
-                             <img src="./img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon menu" />
-                             <h3>IoT loss prevention:</h3>
-                             <p>Active monitoring of commercial buildings to prevent leaks, floods or other costly damage<br /><strong>More ></strong></p>
-                         </a>
-                     </div>
-                     <div class="col-md-3">
-                         <a class="subscreen-option blockchain-p2p" href="#blockchain-p2p">
-                             <img src="./img/P2P_icon_yellow.png" class="icon menu" />
-                             <h3>Blockchain peer-to-peer: </h3>
-                             <p>A new, secure way for insurers to engage non-traditional customers and offer event-specific policies
-                                 <br /><strong>More ></strong></p>
-                         </a>
-                     </div>
-                     <div class="col-md-3">
-                         <a class="subscreen-option automated-claims" href="#automated-claims">
-                             <img src="./img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon menu" />
-                             <h3>Automated claims with telematics: </h3>
-                             <p>A fully automated process for initiating, processing and paying claims with no human intervention<br /><strong>More ></strong></p>
-                         </a>
-                     </div>
-                     <div class="col-md-3">
-                         <a class="subscreen-option wearable-saftey" href="#wearable-saftey">
-                             <img src="./img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
-                             <h3>Wearables for worker safety:</h3>
-                             <p>More precise and data-driven insight
-                                 into worker compensation exposure risk,
-                                 enabling smart policies <br /><strong>More ></strong></p>
-                         </a>
-                     </div>
+                     <form id="capture_form" class="capture-form" method="POST" action="">
+                         <label class="required">Name</label>
+                         <input type="text" placeholder="James Dean" class="error" required minlength="2" id="ey_name" name="ey_name" />
+                         <label class="required">Company</label>
+                         <input type="text" placeholder="Rebel Industries" class="error" required id="ey_org" name="ey_org" />
+                         <label class="">Title</label>
+                         <input type="text" placeholder="President, CEO" class="" id="ey_title" name="ey_title" />
+                         <label class="required">E-Mail</label>
+                         <input type="email" placeholder="jimmy@rebel.com" class="error" required id="ey_email" name="ey_email" />
+                         <input type="submit" value="submit" />
+                     </form>
                  </div>
              </div>
                  <div class="fill"></div>
              </div>
          </section>
-         <div id="#panel-top"></div>
-         <?php include_once('panel-risk-based-customer.php'); ?>
-         <?php include_once('panel-intelligent-cross-selling.php'); ?>
-         <?php include_once('panel-iot-loss-prevention.php'); ?>
-         <?php include_once('panel-blockchain-p2p.php'); ?>
-         <?php include_once('panel-automated-claims.php'); ?>
-         <?php include_once('panel-wearable-saftey.php'); ?>
      </main>
-      <footer>
-          <div class="wrap">
-              <div class="row">
-                  <div class="col-md-6">
-                      <a class="cta" href="">
-                          <h4>Learn more:</h4>
-                          <p>Find out how EY drives digital transformation</p>
-                      </a>
-                  </div>
-                  <div class="col-md-6">
-                      <a class="cta" href="">
-                          <h4>Reach out to get started:</h4>
-                          <p>Contact an EY expert to schedule a meeting or live demo</p>
-                      </a>
-                  </div>
-              </div>
-          </div>
-      </footer>
+        <footer>
+            <div class="wrap">
+                <div class="row">
+                    <?php include_once('footer-legal.php'); ?>
+                </div>
+            </div>
+        </footer>
     </div> <!-- /container -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="./js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="./js/vendor/bootstrap.min.js"></script>
+        <script src="./js/vendor/jquery.validate.min.js"></script>
         <script src="./js/vendor/jquery.equal-height-columns.js"></script>
 
         <script src="./js/main.js"></script>
