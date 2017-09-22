@@ -1351,6 +1351,12 @@ footer{
 form{
   label{
     margin-top: 2em;
+    &.required{
+      &:after{
+        content: ' [required]';
+        color: $yellow;
+      }
+    }
   }
   input[type="text"],
   input[type="password"],

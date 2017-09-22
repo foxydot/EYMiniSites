@@ -962,6 +962,9 @@ footer {
 
 form label {
   margin-top: 2em; }
+  form label.required:after {
+    content: ' [required]';
+    color: #ffe600; }
 form input[type="text"],
 form input[type="password"],
 form input[type="color"],

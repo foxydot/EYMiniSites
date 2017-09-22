@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="978e95f3-58fd-47db-9865-37f95b716d43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,14 +27,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="215">
+              <caret line="68" column="53" lean-forward="true" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
               <folding>
-                <marker date="1506106929000" expanded="true" signature="848:1214" ph="..." />
-                <marker date="1506106929000" expanded="true" signature="876:1214" ph="..." />
+                <marker date="1506114580000" expanded="true" signature="848:1214" ph="..." />
+                <marker date="1506114580000" expanded="true" signature="876:1214" ph="..." />
               </folding>
             </state>
           </provider>
@@ -49,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3273">
-              <caret line="1352" column="20" lean-forward="true" selection-start-line="1352" selection-start-column="20" selection-end-line="1352" selection-end-column="20" />
+            <state relative-caret-position="380">
+              <caret line="1361" column="25" lean-forward="true" selection-start-line="1361" selection-start-column="25" selection-end-line="1361" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -149,8 +150,8 @@
         <option value="$PROJECT_DIR$/default.html" />
         <option value="$PROJECT_DIR$/presentation.php" />
         <option value="$PROJECT_DIR$/footer-legal.php" />
-        <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
       </list>
     </option>
   </component>
@@ -358,14 +359,7 @@
       <workItem from="1499098863639" duration="803000" />
       <workItem from="1500497498064" duration="2080000" />
       <workItem from="1504293267343" duration="550000" />
-      <workItem from="1506101844426" duration="4488000" />
-    </task>
-    <task id="LOCAL-00028" summary="copy for automated claims">
-      <created>1496936611202</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1496936611202</updated>
+      <workItem from="1506101844426" duration="4967000" />
     </task>
     <task id="LOCAL-00029" summary="add p2p icons">
       <created>1496938643009</created>
@@ -703,11 +697,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506105664306</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="comeplete gate">
+      <created>1506106945927</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1506106945927</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163804000" />
+    <option name="totallyTimeSpent" value="164283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1650" y="-107" width="1440" height="877" extended-state="0" />
@@ -741,7 +742,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update loss prevention (still needs new phases)" />
     <MESSAGE value="blockchain updates" />
     <MESSAGE value="add new loss prevention demo steps" />
     <MESSAGE value="swap images" />
@@ -766,7 +766,8 @@
     <MESSAGE value="add new images" />
     <MESSAGE value="&quot;polish&quot; footer links" />
     <MESSAGE value="gating front end for presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="gating front end for presentation" />
+    <MESSAGE value="comeplete gate" />
+    <option name="LAST_COMMIT_MESSAGE" value="comeplete gate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1102,14 +1103,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3273">
-          <caret line="1352" column="20" lean-forward="true" selection-start-line="1352" selection-start-column="20" selection-end-line="1352" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/presentation.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1575">
@@ -1120,12 +1113,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="215">
+          <caret line="68" column="53" lean-forward="true" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
           <folding>
-            <marker date="1506106929000" expanded="true" signature="848:1214" ph="..." />
-            <marker date="1506106929000" expanded="true" signature="876:1214" ph="..." />
+            <marker date="1506114580000" expanded="true" signature="848:1214" ph="..." />
+            <marker date="1506114580000" expanded="true" signature="876:1214" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1361" column="25" lean-forward="true" selection-start-line="1361" selection-start-column="25" selection-end-line="1361" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

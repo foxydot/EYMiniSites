@@ -67,13 +67,13 @@
                  <div class="row">
                      <form id="capture_form" class="capture-form" method="POST" action="">
                          <label class="required">Name</label>
-                         <input type="text" placeholder="James Dean" class="error" required minlength="2" id="ey_name" name="ey_name" />
+                         <input type="text" placeholder="" class="error" required minlength="2" id="ey_name" name="ey_name" />
                          <label class="required">Company</label>
-                         <input type="text" placeholder="Rebel Industries" class="error" required id="ey_org" name="ey_org" />
+                         <input type="text" placeholder="" class="error" required id="ey_org" name="ey_org" />
                          <label class="">Title</label>
-                         <input type="text" placeholder="President, CEO" class="" id="ey_title" name="ey_title" />
+                         <input type="text" placeholder="" class="" id="ey_title" name="ey_title" />
                          <label class="required">E-Mail</label>
-                         <input type="email" placeholder="jimmy@rebel.com" class="error" required id="ey_email" name="ey_email" />
+                         <input type="email" placeholder="" class="error" required id="ey_email" name="ey_email" />
                          <input type="submit" id="submit" name="submit" value="submit" />
                      </form>
                  </div>
