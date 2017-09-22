@@ -1,15 +1,23 @@
 <?php
-if(!function_exists('ts_data')){
-    function ts_data($data){
-        $ret = '<textarea class="troubleshoot" rows="20" cols="100">';
-        $ret .= print_r($data,true);
-        $ret .= '</textarea>';
-        print $ret;
-    }
-}
-    if($_POST){
-        ts_data($_POST);
-        die();
+    if(isset($_POST['submit'])){
+        $fields = array(
+            'ey_name',
+            'ey_org',
+            'ey_title',
+            'ey_email'
+        );
+        foreach($fields AS $field){
+            $myLine .= '"'.$_POST[$field].'",';
+        }
+        $myLine .= '
+';
+        $file = 'eyuserstories_capture_data.csv';
+        $current = file_get_contents($file);
+        $current .= $myLine;
+        if(file_put_contents($file, $current)){
+            header('Location: presentation.php');
+            die();
+        }
     }
 ?>
 <!doctype html>
@@ -66,7 +74,7 @@ if(!function_exists('ts_data')){
                          <input type="text" placeholder="President, CEO" class="" id="ey_title" name="ey_title" />
                          <label class="required">E-Mail</label>
                          <input type="email" placeholder="jimmy@rebel.com" class="error" required id="ey_email" name="ey_email" />
-                         <input type="submit" value="submit" />
+                         <input type="submit" id="submit" name="submit" value="submit" />
                      </form>
                  </div>
              </div>
