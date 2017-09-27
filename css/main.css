@@ -981,9 +981,9 @@ form input[type="url"],
 form input[type="week"],
 form select,
 form textarea {
-  background-color: rgba(255, 255, 255, 0.2);
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  color: #FFFFFF;
+  background-color: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #111111;
   font-size: 14px;
   font-size: 1.4rem;
   padding: 16px;

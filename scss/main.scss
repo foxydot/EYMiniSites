@@ -1374,9 +1374,9 @@ form{
   input[type="week"],
   select,
   textarea {
-    background-color: rgba($white,0.2);
-    border: 1px solid rgba($white,0.4);
-    color: $white;
+    background-color: rgba($white,0.75);
+    border: 1px solid rgba($white,0.1);
+    color: $black;
     font-size: 14px;
     font-size: 1.4rem;
     padding: 16px;
