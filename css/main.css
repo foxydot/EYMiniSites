@@ -37,6 +37,7 @@ body, section.intro, section.panel {
   margin: 0 auto; }
 
 .wrap {
+  width: 92%;
   max-width: 1000px;
   margin: 0 auto; }
   .wrap:after {

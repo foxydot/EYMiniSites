@@ -49,8 +49,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="1375" column="12" lean-forward="true" selection-start-line="1375" selection-start-column="12" selection-end-line="1375" selection-end-column="12" />
+            <state relative-caret-position="122">
+              <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -356,14 +356,7 @@
       <workItem from="1500497498064" duration="2080000" />
       <workItem from="1504293267343" duration="550000" />
       <workItem from="1506101844426" duration="5253000" />
-      <workItem from="1506526375357" duration="413000" />
-    </task>
-    <task id="LOCAL-00030" summary="add p2p icons">
-      <created>1496953821253</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1496953821253</updated>
+      <workItem from="1506526375357" duration="941000" />
     </task>
     <task id="LOCAL-00031" summary="add iot images&#10;attempt to get animation for new p2p page working right">
       <created>1497034620478</created>
@@ -701,16 +694,23 @@
       <option name="project" value="LOCAL" />
       <updated>1506114674253</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="tweak gate styles">
+      <created>1506527248661</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1506527248663</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164982000" />
+    <option name="totallyTimeSpent" value="165510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1833" y="107" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16094421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16094421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33375797" sideWeight="0.5579399" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -739,7 +739,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="blockchain updates" />
     <MESSAGE value="add new loss prevention demo steps" />
     <MESSAGE value="swap images" />
     <MESSAGE value="add new page to automated claims" />
@@ -764,7 +763,8 @@
     <MESSAGE value="&quot;polish&quot; footer links" />
     <MESSAGE value="gating front end for presentation" />
     <MESSAGE value="comeplete gate" />
-    <option name="LAST_COMMIT_MESSAGE" value="comeplete gate" />
+    <MESSAGE value="tweak gate styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweak gate styles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1117,8 +1117,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="1375" column="12" lean-forward="true" selection-start-line="1375" selection-start-column="12" selection-end-line="1375" selection-end-column="12" />
+        <state relative-caret-position="122">
+          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding />
         </state>
       </provider>
