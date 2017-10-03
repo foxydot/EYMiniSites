@@ -55,8 +55,8 @@
              <div class="screen">
              <div class="wrap">
                  <div class="row">
-                     <div class="col-md-2 logo"><img src="./img/logo.png" class="logo" /></div>
-                     <div class="col-md-8 title">
+                     <div class="col-sm-2 logo"><img src="./img/logo.png" class="logo" /></div>
+                     <div class="col-sm-8 title">
                          <h1></h1>
                      </div>
                  </div>

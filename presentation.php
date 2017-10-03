@@ -33,8 +33,8 @@
              <div class="screen">
              <div class="wrap">
                  <div class="row">
-                     <div class="col-md-2 logo"><img src="./img/logo.png" class="logo" /></div>
-                     <div class="col-md-8 title">
+                     <div class="col-sm-2 logo"><img src="./img/logo.png" class="logo" /></div>
+                     <div class="col-sm-8 title">
                          <h1></h1>
                      </div>
                  </div>
@@ -43,7 +43,7 @@
                      <p>EY has developed dozens of deployment-ready, technology-enabled services so insurers can realize the art of the possible – and make digital transformation an operational reality across the industry.</p>
                  </div>
                  <div class="row">
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option risk-based-customer" href="#risk-based-customer">
                              <img src="./img/EY_%20DI_Innovation_Center_icons_risk_based_customer_acquisition.png" class="icon menu" />
                              <h3>Risk-based customer acquisition:</h3>
@@ -53,21 +53,21 @@
                                  <strong>More ></strong></p>
                          </a>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option intelligent-cross-selling" href="#intelligent-cross-selling">
                              <img src="./img/EY_%20DI_Innovation_Center_icons_intelligent_cross_selling.png" class="icon menu" />
                              <h3>Intelligent cross-selling:</h3>
                              <p>Existing customers renewing policies online are led through quoting and purchase of additional policies by AI-driven “ChatBot” <br /><strong>More ></strong></p>
                          </a>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option iot-loss-prevention" href="#iot-loss-prevention">
                              <img src="./img/EY_%20DI_Innovation_Center_icons_iot_loss_prevention.png" class="icon menu" />
                              <h3>IoT loss prevention:</h3>
                              <p>Active monitoring of commercial buildings to prevent leaks, floods or other costly damage<br /><strong>More ></strong></p>
                          </a>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option blockchain-p2p" href="#blockchain-p2p">
                              <img src="./img/P2P_icon_yellow.png" class="icon menu" />
                              <h3>Blockchain peer-to-peer: </h3>
@@ -75,14 +75,14 @@
                                  <br /><strong>More ></strong></p>
                          </a>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option automated-claims" href="#automated-claims">
                              <img src="./img/EY_%20DI_Innovation_Center_icons_automated_claims.png" class="icon menu" />
                              <h3>Automated claims with telematics: </h3>
                              <p>A fully automated process for initiating, processing and paying claims with no human intervention<br /><strong>More ></strong></p>
                          </a>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-sm-4">
                          <a class="subscreen-option wearable-saftey" href="#wearable-saftey">
                              <img src="./img/EY_%20DI_Innovation_Center_icons_wearable_loss_prevention.png" class="icon menu" />
                              <h3>Wearables for worker safety:</h3>
